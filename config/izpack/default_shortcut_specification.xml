@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<shortcuts>
+
+  <skipIfNotSupported/>
+  <programGroup defaultName="Mixshare\Rapid Evolution 3" location="applications"/>
+
+  <shortcut
+     name="Rapid Evolution 3"
+     desktop="yes"
+     startMenu="no"
+     programGroup="yes"
+     applications="no"
+     startup="no"
+     target="$INSTALL_PATH\rapid_evolution3.jar"
+     commandLine=""
+     workingDirectory="$INSTALL_PATH\"
+     description="Advanced music library tool."
+     iconFile="$INSTALL_PATH\icons\re3.ico"
+     iconIndex="0"
+     initialState="normal">
+     <createForPack name="Base"/>
+   </shortcut>
+
+</shortcuts>

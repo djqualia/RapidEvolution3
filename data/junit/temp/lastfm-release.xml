@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_32" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.lastfm.release.LastfmReleaseProfile"> 
+  <void property="artistName"> 
+   <string>Aphex Twin</string> 
+  </void> 
+  <void property="id"> 
+   <string>2029801</string> 
+  </void> 
+  <void property="imageURLs"> 
+   <object class="java.util.HashMap"> 
+    <void method="put"> 
+     <byte>0</byte> 
+     <string>http://userserve-ak.last.fm/serve/_/74207130/Classics+44412705.png</string> 
+    </void> 
+    <void method="put"> 
+     <byte>2</byte> 
+     <string>http://userserve-ak.last.fm/serve/300x300/74207130.png</string> 
+    </void> 
+    <void method="put"> 
+     <byte>4</byte> 
+     <string>http://userserve-ak.last.fm/serve/174s/74207130.png</string> 
+    </void> 
+    <void method="put"> 
+     <byte>6</byte> 
+     <string>http://userserve-ak.last.fm/serve/64s/74207130.png</string> 
+    </void> 
+    <void method="put"> 
+     <byte>7</byte> 
+     <string>http://userserve-ak.last.fm/serve/34s/74207130.png</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="lastUpdated"> 
+   <long>1359939143962</long> 
+  </void> 
+  <void property="mbid"> 
+   <string>a150f054-80ab-3f96-bd2c-1b3de60bdb71</string> 
+  </void> 
+  <void property="numListeners"> 
+   <float>94518.0</float> 
+  </void> 
+  <void property="playCount"> 
+   <float>858881.0</float> 
+  </void> 
+  <void property="releaseName"> 
+   <string>Classics</string> 
+  </void> 
+  <void property="releasedDate"> 
+   <object class="java.util.Date"> 
+    <long>1013500800000</long> 
+   </object> 
+  </void> 
+  <void property="songReaches"> 
+   <object class="java.util.HashMap"> 
+    <void method="put"> 
+     <string>dodeccaheedron</string> 
+     <float>35921.0</float> 
+    </void> 
+    <void method="put"> 
+     <string>analogue bubblebath 1</string> 
+     <float>31227.0</float> 
+    </void> 
+    <void method="put"> 
+     <string>digeridoo</string> 
+     <float>66693.0</float> 
+    </void> 
+    <void method="put"> 
+     <string>we have arrived (aphex twin ttq mix)</string> 
+     <float>9830.0</float> 
+    </void> 
+    <void method="put"> 
+     <string>flaphead</string> 
+     <float>41123.0</float> 
+    </void> 
+    <void method="put"> 
+     <string>polynomial-c</string> 
+     <float>63959.0</float> 
+    </void> 
+    <void method="put"> 
+     <string>phlange phace</string> 
+     <float>36071.0</float> 
+    </void> 
+    <void method="put"> 
+     <string>phloam</string> 
+     <float>37601.0</float> 
+    </void> 
+    <void method="put"> 
+     <string>we have arrived (aphex twin qqt mix)</string> 
+     <float>10701.0</float> 
+    </void> 
+    <void method="put"> 
+     <string>metapharstic</string> 
+     <float>30106.0</float> 
+    </void> 
+    <void method="put"> 
+     <string>digeridoo (live in cornwall 1990)</string> 
+     <float>4587.0</float> 
+    </void> 
+    <void method="put"> 
+     <string>tamphex (hedphuq mix)</string> 
+     <float>25872.0</float> 
+    </void> 
+    <void method="put"> 
+     <string>isopropanol</string> 
+     <float>31413.0</float> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="url"> 
+   <string>http://www.last.fm/music/Aphex+Twin/Classics</string> 
+  </void> 
+ </object> 
+</java> 

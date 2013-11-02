@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_21" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.bbc.artist.BBCArtistProfile"> 
+  <void property="artistMbid"> 
+   <string>69158f97-4c07-4c4e-baf8-4e4ab1ed666e</string> 
+  </void> 
+  <void property="artistName"> 
+   <string>Boards of Canada</string> 
+  </void> 
+  <void property="valid"> 
+   <boolean>true</boolean> 
+  </void> 
+  <void property="wikipediaContent"> 
+   <string>Boards of Canada (commonly abbreviated BoC) are a Scottish electronic music duo consisting of brothers Mike Sandison (born June 1, 1970) and Marcus Eoin (born July 21, 1971). They are signed with Warp Records and have released several works on that label with little advertising and few interviews, while also having an elusive and obscure back-catalogue of releases on their self-run Music70 label. They have also recorded a few minor works under the alias Hell Interface.
+
+Boards of Canada&apos;s music is reminiscent of the warm, analog sounds of 1970s media and contains themes of childhood, nostalgia and the natural world. Mike and Marcus have mentioned the documentary films of the National Film Board of Canada, from which the group&apos;s name is derived, as a source of inspiration.</string> 
+  </void> 
+ </object> 
+</java> 

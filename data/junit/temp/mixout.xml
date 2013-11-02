@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_11" class="java.beans.XMLDecoder">
+ <object class="com.mixshare.rapid_evolution.data.record.search.song.MixoutRecord">
+  <void property="bpmDiff">
+   <float>3.4</float>
+  </void>
+  <void property="comments">
+   <string>blah</string>
+  </void>
+  <void property="disabled">
+   <boolean>true</boolean>
+  </void>
+  <void property="duplicateIds">
+   <array class="int" length="2">
+    <void index="0">
+     <int>1</int>
+    </void>
+    <void index="1">
+     <int>2</int>
+    </void>
+   </array>
+  </void>
+  <void property="id">
+   <object class="com.mixshare.rapid_evolution.data.identifier.search.song.MixoutIdentifier">
+    <void property="fromSongId">
+     <int>1</int>
+    </void>
+    <void property="toSongId">
+     <int>2</int>
+    </void>
+   </object>
+  </void>
+  <void property="lastModified">
+   <long>234</long>
+  </void>
+  <void property="rating">
+   <byte>80</byte>
+  </void>
+  <void property="syncedWithMixshare">
+   <boolean>true</boolean>
+  </void>
+  <void property="type">
+   <byte>2</byte>
+  </void>
+  <void property="uniqueId">
+   <int>420</int>
+  </void>
+ </object>
+</java>

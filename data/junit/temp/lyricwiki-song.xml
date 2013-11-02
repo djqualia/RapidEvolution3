@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_32" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.lyricwiki.song.LyricwikiSongProfile"> 
+  <void property="artistDescription"> 
+   <string>Beck</string> 
+  </void> 
+  <void property="lyricsText"> 
+   <string>In the time of chimpanzees I was a monkey
+But[...]</string> 
+  </void> 
+  <void property="songDescription"> 
+   <string>Loser</string> 
+  </void> 
+ </object> 
+</java> 

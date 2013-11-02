@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' lang='en' xml:lang='en'>
+<head>
+<title>RE3 Media Player</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<link href="skin/jplayer.blue.monday.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+	#titleText {
+		padding: 3px 0 4px 5px;
+		font-size: 1.2em;
+	}
+	#jplayer_total_time {
+		font-size: 0.84em;
+	}
+	#jplayer_play_time {
+		font-size: 0.84em;
+	}
+	.dojoxFloatingPaneContent {
+		overflow: hidden;
+	}
+</style>
+
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
+<script type="text/javascript">
+<!--
+function setInfo(result) {
+	$("#titleText").remove();
+	var titleElement = $('<li></li>').attr('id', 'titleText').text(result.name);
+	$("#titleTextContainer").append(titleElement);
+}
+
+function nextSong() {
+	$.getJSON(  
+		"forward",  
+		function(results) {
+			//alert(results[0].id);						
+			$("#jquery_jplayer").jPlayer("setFile", "media?id=" + results[0].id).jPlayer("play");
+			setInfo(results[0]);
+		}
+	);
+}
+
+function lastSong() {
+	$.getJSON(  
+		"back",  
+		function(results) {
+			if (results != null) {
+				//alert(results[0].id);						
+				$("#jquery_jplayer").jPlayer("setFile", "media?id=" + results[0].id).jPlayer("play");
+				setInfo(results[0]);
+			}
+		}
+	);
+}
+
+$(document).ready(function(){
+
+	$.getJSON(  
+		"forward",  
+		function(results) {
+			var result = results[0];
+			setInfo(result);
+			
+			// Local copy of jQuery selectors, for performance.
+			var jpPlayTime = $("#jplayer_play_time");
+			var jpTotalTime = $("#jplayer_total_time");
+		
+			$("#jquery_jplayer").jPlayer({
+				ready: function () {
+					this.element.jPlayer("setFile", "media?id=" + result.id).jPlayer("play");
+				},
+				volume: 50,
+				oggSupport: false,
+				preload: 'none'
+			})
+			.jPlayer("onProgressChange", function(loadPercent, playedPercentRelative, playedPercentAbsolute, playedTime, totalTime) {
+				jpPlayTime.text($.jPlayer.convertTime(playedTime));
+				jpTotalTime.text($.jPlayer.convertTime(totalTime));
+			})
+			.jPlayer("onSoundComplete", function() {				
+				nextSong();
+			});
+			$("#jplayer_previous").click( function() {
+				lastSong();
+				return false;
+			});
+		
+			$("#jplayer_next").click( function() {
+				nextSong();
+				return false;
+			});			
+		}  
+	);	
+
+});
+-->
+</script>
+</head>
+<body>
+
+<div id="jquery_jplayer"></div>
+
+<div class="jp-playlist-player">
+	<div class="jp-interface">
+		<ul class="jp-controls">
+			<li><a href="#" id="jplayer_play" class="jp-play" tabindex="1">play</a></li>
+			<li><a href="#" id="jplayer_pause" class="jp-pause" tabindex="1">pause</a></li>
+			<li><a href="#" id="jplayer_stop" class="jp-stop" tabindex="1">stop</a></li>
+			<li><a href="#" id="jplayer_volume_min" class="jp-volume-min" tabindex="1">min volume</a></li>
+			<li><a href="#" id="jplayer_volume_max" class="jp-volume-max" tabindex="1">max volume</a></li>
+			<li><a href="#" id="jplayer_previous" class="jp-previous" tabindex="1">previous</a></li>
+			<li><a href="#" id="jplayer_next" class="jp-next" tabindex="1">next</a></li>
+		</ul>
+		<div class="jp-progress">
+			<div id="jplayer_load_bar" class="jp-load-bar">
+				<div id="jplayer_play_bar" class="jp-play-bar"></div>
+			</div>
+		</div>
+		<div id="jplayer_volume_bar" class="jp-volume-bar">
+			<div id="jplayer_volume_bar_value" class="jp-volume-bar-value"></div>
+		</div>
+		<div id="jplayer_play_time" class="jp-play-time"></div>
+		<div id="jplayer_total_time" class="jp-total-time"></div>
+	</div>
+	<div id="jplayer_playlist" class="jp-playlist">
+		<ul id="titleTextContainer">
+			<li id="titleText"></li>
+		</ul>
+	</div>
+</div>
+
+</body>
+</html>

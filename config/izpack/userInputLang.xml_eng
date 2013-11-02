@@ -1,0 +1,18 @@
+<langpack>
+  <str id="configuration_options" txt="Configuration Options"/>
+  <str id="re3_max_allowed_memory" txt="Max allowed memory:"/>
+  <str id="re3_max_memory_description" txt="Please enter the maximum amount of memory Rapid Evolution 3 should use, in megabytes (MB)."/>
+  <str id="basic_configuration_options" txt="Basic options that should be reviewed by all users."/>
+  <str id="re3_library_location" txt="Library path:"/>    
+  <str id="re3_autoupdate_tags_description" txt="If you would like the tags of your media files to be updated automatically, check the box below.  Note: please test RE3 to make sure it writes tags acceptably before you enable this."/>  
+  <str id="re3_autoupdate_tags" txt="Automatically update tags"/>  
+  
+  <str id="advanced_configuration_options" txt="More advanced options for users who want full control of RE3's behavior from the start."/>
+  <str id="re3_enable_lazy_mode_text" txt="Enable lazy search mode"/>
+  <str id="re3_enable_lazy_mode_description" txt="For large collections, performance and memory usage can be improved by enabling lazy search mode.  In this mode, the default views will be empty until search criteria is provided by the user."/>
+  <str id="re3_enable_data_mining_text" txt="Enable data mining"/>
+  <str id="re3_enable_music_discovery_text" txt="Enable music discovery"/>  
+  <str id="re3_enable_data_mining_description" txt="With data mining enabled, Rapid Evolution will automatically collect metadata about your music collection from a variety of sources.  This will improve many functions of the program, and help you find new music, but if you are not interested in this functionality then disabling it will save memory and improve performance."/>
+  <str id="re3_enable_quicktime_codecs_text" txt="Enable Quicktime Codecs"/>  
+  <str id="re3_enable_xuggle_codecs_text" txt="Enable Xuggle Codecs"/>  
+</langpack>

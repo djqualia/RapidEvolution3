@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_32" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+  <void property="additionalMbids"> 
+   <void method="add"> 
+    <string>4ea6b978-726a-4c65-834b-296947ba466e</string> 
+   </void> 
+   <void method="add"> 
+    <string>2a72cd7b-f566-4c91-8e9b-7b33b95dfff7</string> 
+   </void> 
+  </void> 
+  <void property="artistDescription"> 
+   <string>Boards of Canada</string> 
+  </void> 
+  <void property="artistMbid"> 
+   <string>69158f97-4c07-4c4e-baf8-4e4ab1ed666e</string> 
+  </void> 
+  <void property="avgRating"> 
+   <float>4.0</float> 
+  </void> 
+  <void property="duration"> 
+   <int>148000</int> 
+  </void> 
+  <void property="mbId"> 
+   <string>874060fd-9cd9-4019-ae66-bfb3548fe1da</string> 
+  </void> 
+  <void property="numRaters"> 
+   <int>3</int> 
+  </void> 
+  <void property="puids"> 
+   <void method="add"> 
+    <string>daf46a18-967b-a102-29a9-f8a1f9cf8691</string> 
+   </void> 
+   <void method="add"> 
+    <string>7dc663bc-5fa7-df49-6938-35a49e071787</string> 
+   </void> 
+   <void method="add"> 
+    <string>4fdd4df9-9568-5fae-4ae2-3f56622cd159</string> 
+   </void> 
+   <void method="add"> 
+    <string>0b55fffa-8ed7-33ed-f8d7-862ab1a0b0fa</string> 
+   </void> 
+   <void method="add"> 
+    <string>13d66f77-5add-7138-bcf4-ecb61bc687ad</string> 
+   </void> 
+   <void method="add"> 
+    <string>17c67456-7997-8b75-9b6e-df44b333d8e4</string> 
+   </void> 
+   <void method="add"> 
+    <string>2947b99d-39fd-d1dd-b547-7a014a67fb83</string> 
+   </void> 
+   <void method="add"> 
+    <string>c329a5a7-c2c3-4b0f-6adc-5f2b9d4b0e3a</string> 
+   </void> 
+   <void method="add"> 
+    <string>b9fb9b7a-cc51-c763-ab0f-24b4da67aa7a</string> 
+   </void> 
+   <void method="add"> 
+    <string>175e179d-6515-70cb-9571-6e9bdc173662</string> 
+   </void> 
+   <void method="add"> 
+    <string>0765b73b-a304-eeda-7734-af4341588ede</string> 
+   </void> 
+   <void method="add"> 
+    <string>6973cb61-2605-fce9-d8f5-516b9b7c70cd</string> 
+   </void> 
+   <void method="add"> 
+    <string>17914b76-d2f3-b12d-b55f-c1302dce7fba</string> 
+   </void> 
+   <void method="add"> 
+    <string>7c8b7f85-404f-e1bf-fc6d-1c0a4bc6eda0</string> 
+   </void> 
+   <void method="add"> 
+    <string>090e8547-93d7-a1e8-e8fd-68b59b6e721c</string> 
+   </void> 
+   <void method="add"> 
+    <string>41b8ea1c-3cb1-e7f4-b598-1e711008f279</string> 
+   </void> 
+   <void method="add"> 
+    <string>3911aabf-8392-48a7-dbdf-62fbd76b5495</string> 
+   </void> 
+   <void method="add"> 
+    <string>2331a43a-b176-7623-8913-93af5a18be07</string> 
+   </void> 
+   <void method="add"> 
+    <string>77fcba2a-9e06-2e1d-65ae-2abf1757b714</string> 
+   </void> 
+   <void method="add"> 
+    <string>3f9d7b6f-f72d-a1c9-87fa-0d384d53f340</string> 
+   </void> 
+   <void method="add"> 
+    <string>d27b7e7d-c1b2-4284-aa55-2ddb9e01aca7</string> 
+   </void> 
+  </void> 
+  <void property="releaseMbids"> 
+   <void method="add"> 
+    <string>0c8e3a9c-8a00-4c49-9f81-97d64a71c80b</string> 
+   </void> 
+   <void method="add"> 
+    <string>1ec048d9-05c6-3481-9dec-db502b9a29c6</string> 
+   </void> 
+   <void method="add"> 
+    <string>41e4bb86-bd06-45ab-899e-25418e51625e</string> 
+   </void> 
+   <void method="add"> 
+    <string>a032f55a-34b1-415c-8626-88b6a763e679</string> 
+   </void> 
+   <void method="add"> 
+    <string>f1716aa3-0d93-428a-8b9b-b2d90d496a98</string> 
+   </void> 
+   <void method="add"> 
+    <string>3fdcf49c-e297-4c21-880d-dba4c40d98dd</string> 
+   </void> 
+   <void method="add"> 
+    <string>13d33fb2-6df2-4749-ace7-4781a4805869</string> 
+   </void> 
+   <void method="add"> 
+    <string>148a35c6-e53c-3790-a1ab-f6699bea96ad</string> 
+   </void> 
+   <void method="add"> 
+    <string>2f018bb8-f299-3eb6-8cd4-ccb68bce8ebd</string> 
+   </void> 
+   <void method="add"> 
+    <string>c8937df0-1859-34f6-a973-2c09331dbbf8</string> 
+   </void> 
+   <void method="add"> 
+    <string>c77121b6-4552-3127-9f19-685a7f8f090f</string> 
+   </void> 
+   <void method="add"> 
+    <string>cb4f8b4e-4eb7-3a4c-97ea-5f4a134b5248</string> 
+   </void> 
+   <void method="add"> 
+    <string>d4d64445-c1e0-32e6-82c6-01d98d70ae9e</string> 
+   </void> 
+   <void method="add"> 
+    <string>4b20245e-c453-37b9-af91-e0a9230784cc</string> 
+   </void> 
+   <void method="add"> 
+    <string>6360f948-17d1-4135-a580-34dc200930d8</string> 
+   </void> 
+   <void method="add"> 
+    <string>b41911fb-2200-3c25-ba6d-c7473e36476b</string> 
+   </void> 
+   <void method="add"> 
+    <string>52295596-c761-4871-bd4e-1821862e4288</string> 
+   </void> 
+   <void method="add"> 
+    <string>ddf0db8d-1e82-4262-b5d5-0785b0a5a57c</string> 
+   </void> 
+   <void method="add"> 
+    <string>81f25cf9-e5a1-493c-81fd-cb2c67ea6bab</string> 
+   </void> 
+   <void method="add"> 
+    <string>f1f62d38-0b58-40be-b0b7-f811a99317d2</string> 
+   </void> 
+   <void method="add"> 
+    <string>80c15ad8-125a-4737-95f0-5a7b2b663292</string> 
+   </void> 
+   <void method="add"> 
+    <string>991218ef-0641-3395-b9bb-dcf6b7df75c1</string> 
+   </void> 
+   <void method="add"> 
+    <string>3d91913e-a9b4-43f7-b1f6-4dd4a7585e63</string> 
+   </void> 
+   <void method="add"> 
+    <string>b77d7306-78d4-4e88-acb3-c83aabd72308</string> 
+   </void> 
+   <void method="add"> 
+    <string>28a04660-ce9e-4682-b7c6-e047cb97c0c9</string> 
+   </void> 
+   <void method="add"> 
+    <string>57d4dc9a-7bd3-489a-85bc-c4fb2b9f2085</string> 
+   </void> 
+  </void> 
+  <void property="releaseTitles"> 
+   <void method="add"> 
+    <string>FabricLive 17: Aim</string> 
+   </void> 
+   <void method="add"> 
+    <string>Ministry of Sound: The Chillout Session 2002</string> 
+   </void> 
+   <void method="add"> 
+    <string>Bleep: A Guide to Electronic Music</string> 
+   </void> 
+   <void method="add"> 
+    <string>100 Chillout Classics: The Ultimate Chillout Collection</string> 
+   </void> 
+   <void method="add"> 
+    <string>Music Has the Right to Children</string> 
+   </void> 
+   <void method="add"> 
+    <string>Telephasic Workshop / Roygbiv</string> 
+   </void> 
+   <void method="add"> 
+    <string>Boc Maxima</string> 
+   </void> 
+   <void method="add"> 
+    <string>Everything Is Nice: The Matador Records 10th Anniversary Anthology</string> 
+   </void> 
+   <void method="add"> 
+    <string>NME: Annual Probe, Volume 2</string> 
+   </void> 
+   <void method="add"> 
+    <string>Angel Beach</string> 
+   </void> 
+   <void method="add"> 
+    <string>Warp20 (Chosen)</string> 
+   </void> 
+   <void method="add"> 
+    <string>Warp20</string> 
+   </void> 
+   <void method="add"> 
+    <string>Karma Lounge 2</string> 
+   </void> 
+   <void method="add"> 
+    <string>It Sounds Different: Sweet Electro</string> 
+   </void> 
+   <void method="add"> 
+    <string>Trip Hop Anthology</string> 
+   </void> 
+  </void> 
+  <void property="songDescription"> 
+   <string>Roygbiv</string> 
+  </void> 
+  <void property="tags"> 
+   <void method="put"> 
+    <string>abstract</string> 
+    <int>1</int> 
+   </void> 
+   <void method="put"> 
+    <string>ambient techno</string> 
+    <int>1</int> 
+   </void> 
+   <void method="put"> 
+    <string>idm</string> 
+    <int>3</int> 
+   </void> 
+   <void method="put"> 
+    <string>electronic</string> 
+    <int>3</int> 
+   </void> 
+  </void> 
+ </object> 
+</java> 

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_32" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.idiomag.artist.IdiomagArtistProfile"> 
+  <void property="articles"> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.idiomag.artist.IdiomagArtistArticle"> 
+     <void property="author"> 
+      <string>Clubevents.info</string> 
+     </void> 
+     <void property="date"> 
+      <string>Mon, 19 Jan 2009 07:45:35 +0000</string> 
+     </void> 
+     <void property="description"> 
+      <string>When Sebastian Mullaert and Marcus Henriksson founded Minilogue in 2000, it was not only a musical project but also a visual one. From the beginning, the two musicians thought animals to be the front for Minilogue. With Animals? The Movie, Minilogue&apos;s visual world comes fully into existence.</string> 
+     </void> 
+     <void property="sourceUrl"> 
+      <string>http://www.clubevents.info/news.php?news_id=472</string> 
+     </void> 
+     <void property="title"> 
+      <string>Minilogue - Animals</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.idiomag.com/peek/59578/?utm_source=bc1f1372d2a7000fbe3cda39f8cf67df&amp;utm_medium=link&amp;utm_campaign=api</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.idiomag.artist.IdiomagArtistArticle"> 
+     <void property="author"> 
+      <string>David Javate</string> 
+     </void> 
+     <void property="date"> 
+      <string>Wed, 23 Apr 2008 08:21:15 +0000</string> 
+     </void> 
+     <void property="description"> 
+      <string>React NowAfter a slew of enigmatic releases, Minilogue, finally releases a full length album, and it is worth the wait. For those unfamiliar, Minilogue consists of Swedish artists Marcus Henriksson and Sebastian Mullaert. Marcus, a DJ, and Sebastian, a musician, have been releasing a number of stellar releases on labels...</string> 
+     </void> 
+     <void property="sourceUrl"> 
+      <string>http://www.365mag.com/index.php?pg=mucd&amp;recnum=2754</string> 
+     </void> 
+     <void property="title"> 
+      <string>Animals</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.idiomag.com/peek/31168/?utm_source=bc1f1372d2a7000fbe3cda39f8cf67df&amp;utm_medium=link&amp;utm_campaign=api</string> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="artistName"> 
+   <string>Minilogue</string> 
+  </void> 
+  <void property="photoUrls"> 
+   <void method="add"> 
+    <string>http://images.idiomag.com/204463348.jpg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://images.idiomag.com/257198041.jpg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://images.idiomag.com/321562819.jpg</string> 
+   </void> 
+  </void> 
+  <void property="recommendedArtistNames"> 
+   <void method="add"> 
+    <string>Audiofly</string> 
+   </void> 
+   <void method="add"> 
+    <string>Guy Gerber</string> 
+   </void> 
+   <void method="add"> 
+    <string>Claude VonStroke</string> 
+   </void> 
+   <void method="add"> 
+    <string>Extrawelt</string> 
+   </void> 
+   <void method="add"> 
+    <string>Stephan Bodzin</string> 
+   </void> 
+   <void method="add"> 
+    <string>Robert Babicz</string> 
+   </void> 
+   <void method="add"> 
+    <string>Marek Bois</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dominik Eulberg</string> 
+   </void> 
+   <void method="add"> 
+    <string>Paolo Mojo</string> 
+   </void> 
+   <void method="add"> 
+    <string>Gabriel Ananda</string> 
+   </void> 
+   <void method="add"> 
+    <string>Alex Smoke</string> 
+   </void> 
+   <void method="add"> 
+    <string>Troy Pierce</string> 
+   </void> 
+   <void method="add"> 
+    <string>Ricardo Villalobos</string> 
+   </void> 
+   <void method="add"> 
+    <string>James Holden</string> 
+   </void> 
+   <void method="add"> 
+    <string>Swat-Squad</string> 
+   </void> 
+  </void> 
+  <void property="recommendedArtists"> 
+   <void method="put"> 
+    <string>audiofly</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>guy gerber</string> 
+    <float>0.93</float> 
+   </void> 
+   <void method="put"> 
+    <string>claude vonstroke</string> 
+    <float>0.78</float> 
+   </void> 
+   <void method="put"> 
+    <string>extrawelt</string> 
+    <float>0.77</float> 
+   </void> 
+   <void method="put"> 
+    <string>stephan bodzin</string> 
+    <float>0.75</float> 
+   </void> 
+   <void method="put"> 
+    <string>robert babicz</string> 
+    <float>0.72</float> 
+   </void> 
+   <void method="put"> 
+    <string>marek bois</string> 
+    <float>0.71</float> 
+   </void> 
+   <void method="put"> 
+    <string>dominik eulberg</string> 
+    <float>0.69</float> 
+   </void> 
+   <void method="put"> 
+    <string>paolo mojo</string> 
+    <float>0.68</float> 
+   </void> 
+   <void method="put"> 
+    <string>gabriel ananda</string> 
+    <float>0.64</float> 
+   </void> 
+   <void method="put"> 
+    <string>alex smoke</string> 
+    <float>0.59</float> 
+   </void> 
+   <void method="put"> 
+    <string>troy pierce</string> 
+    <float>0.55</float> 
+   </void> 
+   <void method="put"> 
+    <string>ricardo villalobos</string> 
+    <float>0.52</float> 
+   </void> 
+   <void method="put"> 
+    <string>james holden</string> 
+    <float>0.49</float> 
+   </void> 
+   <void method="put"> 
+    <string>swat-squad</string> 
+    <float>0.44</float> 
+   </void> 
+  </void> 
+  <void property="urls"> 
+   <void method="add"> 
+    <string>http://www.idiomag.com/artist/minilogue/?utm_source=bc1f1372d2a7000fbe3cda39f8cf67df&amp;utm_medium=link&amp;utm_campaign=api</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.idiomag.com/artist/audiofly/?utm_source=bc1f1372d2a7000fbe3cda39f8cf67df&amp;utm_medium=link&amp;utm_campaign=api</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.idiomag.com/artist/guy_gerber/?utm_source=bc1f1372d2a7000fbe3cda39f8cf67df&amp;utm_medium=link&amp;utm_campaign=api</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.idiomag.com/artist/claude_vonstroke/?utm_source=bc1f1372d2a7000fbe3cda39f8cf67df&amp;utm_medium=link&amp;utm_campaign=api</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.idiomag.com/artist/extrawelt/?utm_source=bc1f1372d2a7000fbe3cda39f8cf67df&amp;utm_medium=link&amp;utm_campaign=api</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.idiomag.com/artist/stephan_bodzin/?utm_source=bc1f1372d2a7000fbe3cda39f8cf67df&amp;utm_medium=link&amp;utm_campaign=api</string> 
+   </void> 
+  </void> 
+  <void property="valid"> 
+   <boolean>true</boolean> 
+  </void> 
+ </object> 
+</java> 

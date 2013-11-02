@@ -1,0 +1,4188 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_32" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.echonest.artist.EchonestArtistProfile"> 
+  <void property="artistName"> 
+   <string>Daft Punk</string> 
+  </void> 
+  <void property="audio"> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1342494913000</long> 
+      </object> 
+     </void> 
+     <void property="release"> 
+      <string>One More Time (Kids With Weapons Bootleg/Remix)</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>255.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>One More Time (Kids With Weapons Bootleg/Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://dl.soundowl.com/3sac.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1342073353000</long> 
+      </object> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>240.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Face To Face (ft. Todd Edwards)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.audiodrums.com/audio/2012/07/Daft-Punk-Face-To-Face-ft.-Todd-Edwards.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk Vs Empire of the Sun</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1341385564000</long> 
+      </object> 
+     </void> 
+     <void property="release"> 
+      <string>Chubbybeavers.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>331.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Walking The High Life (Matt Crofford Mash)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.chubbybeavers.com/wp-content/uploads/2012/07/Walking-The-High-Life-Matt-Crofford-Mash.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1339038513000</long> 
+      </object> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>214.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Harder Better Faster Stronger</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.fillessourires.com/ecoutez/daft.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1338618441000</long> 
+      </object> 
+     </void> 
+     <void property="release"> 
+      <string>Around The World 12&quot; Single</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>353.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Teachers (Extended Mix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.lostturntable.com/051512/Teachers%20(Extended%20Mix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1338618441000</long> 
+      </object> 
+     </void> 
+     <void property="release"> 
+      <string>Around The World 12&quot; Single</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>399.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Around The World (Motorbass Vice Mix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.lostturntable.com/051512/Around%20The%20World%20(Mortorbass%20Vice%20Mix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1338615581000</long> 
+      </object> 
+     </void> 
+     <void property="release"> 
+      <string>www.chubbybeavers.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>304.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Derezzed (Avicii&apos;s Vocal Mix) (Alex Prigenzi Edit)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.opendrive.com/files/53282693_glX8U_319b/009%20Daft%20Punk%20-%20Derezzed%20(Avicii_s%20Vocal%20Mix)%20(Alex%20Pri....mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1328173271000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://giganticclub.com/</string> 
+     </void> 
+     <void property="release"> 
+      <string>www.giganticclub.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>429.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Around The World</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://giganticclub.com/audio/AroundTheWorld.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1326848642000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://toomanysebastians.net/</string> 
+     </void> 
+     <void property="release"> 
+      <string>toomanysebastians.net</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>151.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Digital Love (Allen Walker &amp; Le Pimp Rewrite)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://dl.soundowl.com/2m85.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1326848607000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://newenglandroyalty.tumblr.com/</string> 
+     </void> 
+     <void property="release"> 
+      <string>Remix-Nation.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>225.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Daft Punk – Derezzed (Avicii Remix Vocal Edit)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://dl.soundowl.com/1dy6.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1326776424000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.brainshutdown.com</string> 
+     </void> 
+     <void property="release"> 
+      <string>BrainShutDown.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>225.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Derezzed (Avicii Remix Vocal Edit)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://hulkshare.com/ap-ta9j4ivr0mcd.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1326243790000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.filter27.com</string> 
+     </void> 
+     <void property="release"> 
+      <string>Filter27.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>5060.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Live at Keyspan Park in Brooklyn, NY (2007-08-09)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.filter27.com/download/DAFT-PUNK--Live-at-Keyspan-Park-Brooklyn-NYC--2007-08-09.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk, TRS-80 &amp; Ariel Pink</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1325307668000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.electricadolescence.com/</string> 
+     </void> 
+     <void property="release"> 
+      <string>Sky Sailor EP</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>171.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Sky Sailor (Float Away)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.electricadolescence.com/audio/daft%20punk,%20ariel%20pink,%20trs%2080%20-%20sky%20sailor%20(float%20away).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1325163495000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.lostturntable.com</string> 
+     </void> 
+     <void property="release"> 
+      <string>Around The World 12&quot; Promo Single</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>400.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Around The World (Motorbass Vice Mix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.lostturntable.com/122811/Around%20The%20World%20(Motorbass%20Vice%20Mix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1325163497000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.lostturntable.com/</string> 
+     </void> 
+     <void property="release"> 
+      <string>Around The World 12&quot; Promo Single</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>477.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Around The World (Tee&apos;s Frozen Sun Mix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.lostturntable.com/122811/Around%20The%20World%20(Tee&apos;s%20Frozen%20Sun%20Mix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1325163503000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.lostturntable.com</string> 
+     </void> 
+     <void property="release"> 
+      <string>Around The World 12&quot; Promo Single</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>378.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Around The World (I:Cube Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.lostturntable.com/122811/Around%20The%20World%20(ICube%20Remix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk vs DJ Fresh</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1324069406000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://fridaymixtape.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>243.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Something About Gold Dust (Jimi Needles Blend)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://fridaymixtape.net/mixtape/songs/126/18.%20DJ%20Fresh%20vs%20Daft%20Punk.%20Something%20About%20Gold%20Dust%20(Jimi%20Needles%20Blend).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk vs DJ Fresh</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1322557498000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.themusicninja.com</string> 
+     </void> 
+     <void property="release"> 
+      <string>themusicninja.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>243.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Something About Gold Dust (Jimi Needles Blend)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://dl.soundowl.com/28hr.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1322283714000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://pushvolume.com</string> 
+     </void> 
+     <void property="release"> 
+      <string>Chubbybeavers.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>340.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Something About Us (Cherokee Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.chubbybeavers.com/wp-content/uploads/2011/11/01-Something-About-Us-Cherokee-Remix.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1322166716000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://pushvolume.com</string> 
+     </void> 
+     <void property="release"> 
+      <string>Vacayvitamins.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>77.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>LCD (LED)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://dl.soundowl.com/2836.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1322166476000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://pushvolume.com</string> 
+     </void> 
+     <void property="release"> 
+      <string>Vacayvitamins.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>56.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Waiting Line (Feat. Mr Oizo)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://dl.soundowl.com/2838.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1322166096000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://chemicaljump.com</string> 
+     </void> 
+     <void property="release"> 
+      <string>ChemicalJump.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>340.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Something About Us (Cherokee Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://dl.soundowl.com/251k.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1322165959000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.slapthebass.com</string> 
+     </void> 
+     <void property="release"> 
+      <string>Something About Us (Cherokee Remix)</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>340.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Something About Us (Cherokee Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.slapthebass.com/wp-content/uploads/2011/11/01-Something-About-Us-Cherokee-Remix.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1322165970000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://fyacity.com</string> 
+     </void> 
+     <void property="release"> 
+      <string>Something About Us (Cherokee Remix)</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>340.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Something About Us (Cherokee Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://fyacity.com/UploadedMedia/01%20Something%20About%20Us%20_Cherokee%20Remix_.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1322165992000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://pushvolume.com</string> 
+     </void> 
+     <void property="release"> 
+      <string>Vacayvitamins.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>61.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Taking Control</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://dl.soundowl.com/2837.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1320868025000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://remix86.com</string> 
+     </void> 
+     <void property="release"> 
+      <string>http://www.myspace.com/moustachemachine</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>307.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Voyager (Moustache Machine Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://remix86.com/wp-content/uploads/2011/11/Daft%20Punk%20-%20Voyager%20(Moustache%20Machine%20Remix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1320867788000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://remix86.com</string> 
+     </void> 
+     <void property="release"> 
+      <string>Something About Us (Cherokee Remix)</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>340.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Something About Us (Cherokee Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://remix86.com/wp-content/uploads/2011/11/Daft%20Punk%20-%20Something%20About%20Us%20(Cherokee%20Remix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1319243369000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://fridaymixtape.com</string> 
+     </void> 
+     <void property="release"> 
+      <string>Vacayvitamins.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>440.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Drive Unreleased 1994</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://fridaymixtape.net/mixtape/songs/118/01%20Drive%20Unreleased%201994.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1318026426000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.ilictronix.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>173.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Teachers (Instrumental)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://ilictronix.com/staff/claude/tracks/DaftPunk-TeachersInstrumental.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1318025947000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.ilictronix.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>428.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Harder, Better, Faster, Stronger (Pete Heller&apos;s Deeper Dub)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://ilictronix.com/staff/niteshade/tracks/DaftPunk-HarderBetterFasterStronger(PeteHeller&apos;sDeeperDub).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1318024831000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://akjigga.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>365.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Digital Love (ALGERONICS remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://akjigga.com/wp-content/uploads/2011/07/Digital-Love-ALGERONICS-remix.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317992283000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://thewetblog.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>306.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Too Long (Cosmonaut Grechko Version)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://dl.dropbox.com/u/1653842/Too%20Long%20%28Cosmonaut%20Grechko%20Version%29.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317991308000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.discodemons.net/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>346.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Harder Better Faster Stronger (Sonology Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.discodemons.net/wp-content/uploads/2011/03/Harder%20Better%20Faster%20Stronger%20(Sonology%20Remix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317991055000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.themusicninja.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>262.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Derezzed (The Glitch Mob Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://dl.dropbox.com/u/231518/2011/01%20-%20Daft%20Punk%20-%20Derezzed%20%20The%20Glitch%20Mob%20Remix.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317948122000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.ilictronix.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>237.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Derezzed (Pink is Punk &quot;RETRON&quot; Mix) </string> 
+     </void> 
+     <void property="url"> 
+      <string>http://ilictronix.com/staff/mrbrown/tracks/DaftPunk-Derezzed(PinkIsPunkRETRONMix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317948122000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.weareskitzo.net</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>299.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Derezzed (Booty Bronx Phun-ky Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://boxstr.net/files/7047284_rxrue/Derezzed%20_Booty%20Bronx%20Phun-ky%20Remix_.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317947305000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.indietoday.net</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>323.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Derezzed (Breakdown Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://indietoday.net/files/8/6/2/4/3/243961-234268/Derezzed_(Breakdown_Remix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317947305000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://haoneg.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>321.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>One More Time</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://haoneg.com/temps/Daft%20Punk%20-%20One%20More%20Time.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317945723000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.ilictronix.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>197.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>TRON Legacy (End Titles)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://ilictronix.com/staff/here/tracks/DaftPunk-TronLegacyEndTitles.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317918063000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://letouch.blogspot.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>104.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Derezzed</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.letouch.tv/coolio%20post/tron/13%20-%20Derezzed.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317918076000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://goodbadunknown.blogspot.c</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>231.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Something About Us</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.goodbadunknown.com/Media/DEc10/09%20Something%20About%20Us.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317918076000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://goodbadunknown.blogspot.c</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>287.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Television Rules The Nation</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.goodbadunknown.com/Media/DEc10/Daft%20Punk-Television%20Rules%20The%20Nation.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317918063000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.circlesquaretriangleb</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>156.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>End of Line</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://circlesquaretriangleblog.com/CST_WP/data/temp%20tracks/Daft%20Punk%20-%20End%20of%20Line.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317918076000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://noisenarcs.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>156.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>End of Line</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://noisenarcs.com/wp-content/uploads/2010/12/12-End-of-Line.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317918045000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://goldenbloggen.wordpress.c</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>320.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>One More Time</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://goldenbloggen.com/01%20One%20More%20Time.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317918045000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://goldenbloggen.wordpress.c</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>311.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Harder, Better, Faster, Stronger (The Neptunes Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://goldenbloggen.com/03%20Harder,%20Better,%20Faster,%20Stronger%20(The%20Neptunes%20Remix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317918045000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.discodemons.net/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>323.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Derezzed (Breakdown Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.discodemons.net/wp-content/uploads/2010/12/Derezzed%20(Breakdown%20Remix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317917895000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.ilictronix.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>283.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Solar Sailer (Basic Slack Edit)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://ilictronix.com/staff/niteshade/tracks/DaftPunk-SolarSailer(BasicSlackEdit).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317916508000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://onlinemusicwolrd.blogspot</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>251.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Disc Wars</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.mediafire.com/file/w37i4yz152dcgmo/17%20Disc%20Wars.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317916508000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://squeegiesounds.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>323.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Derezzed (Breakdown Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://files.squeegiesounds.com/2010/11/Derezzed-Breakdown-Remix.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317916508000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://elpunt-o.blogspot.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>251.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Adagio For TRON</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.elpunt-o.com/10%20Adagio%20For%20TRON.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317916508000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://elpunt-o.blogspot.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>262.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Finale</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.elpunt-o.com/22%20Finale.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317916508000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://batteriaricaricabile.blog</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>162.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Solar Sailer</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.mdn.fm/files/231184_c4psh/15-daft_punk-solar_sailer.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317916508000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://elpunt-o.blogspot.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>202.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Flynn Lives</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.elpunt-o.com/20%20Flynn%20Lives.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317916526000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.discodemons.net/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>359.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>6 Minutes of &quot;Tron Legacy&quot;</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.discodemons.net/wp-content/uploads/2010/11/6%20Minutes%20of%20Tron%20Legacy.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317916309000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.lostturntable.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>320.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Burnin&apos; (Ian Pooley &quot;Cut Up Mix&quot;)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.lostturntable.com/112410/Burnin&apos;%20(Ian%20Pooley%20&apos;Cut%20Up%20Mix&apos;).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317916309000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.weareskitzo.net</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>323.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Derezzed (Breakdown Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://boxstr.net/files/6915542_w1bqc/Daft%20Punk%20-%20Derezzed%20%28Breakdown%20Remix%29.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317915096000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://batteriaricaricabile.blog</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>299.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Phoenix</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.mdn.fm/files/216650_cv8gn/05%20Phoenix.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317914888000</long> 
+      </object> 
+     </void> 
+     <void property="url"> 
+      <string>http://frvr.se/wp-content/uploads/2010/10/Daft-Punk-Burnin-Gonzo-Monta%C3%B1a-AveMarias-Bruit-Infernal-Mix.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317914580000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://spacetoasters.tumblr.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>250.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Derezzed (Tron Legacy Soundtrack - NTEIBINT Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.mediafire.com/file/hp9x7stf3ylwhxe/Daft%20Punk%20-%20Derezzed%20%28Tron%20Legacy%20Soundtrack%20-%20NTEIBINT%20Remix%29.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317914580000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.ilictronix.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>298.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Digital Love</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://ilictronix.com/staff/claude/tracks/DaftPunk-DigitalLove.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317914500000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://frvr.se</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>321.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>High Life (DJ EQ Lost Transmission Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://frvr.se/wp-content/uploads/2010/10/Daft-Punk-High-Life-DJ-EQ-Lost-Transmission-Remix.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317914190000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://troubledsoulsunite.wordpr</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>250.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Derezzed (Tron Legacy Soundtrack - NTEIBINT Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://troubledsoulsunite.files.wordpress.com/2010/10/derezzed-tron-legacy-soundtrack-nteibint-remix.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317884126000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.ilictronix.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>508.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>One More Time (George Lenton Remix) mp3</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://ilictronix.com/staff/claude/tracks/DaftPunk-OneMoreTime(GeorgeLentonRemix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317883429000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.duurt-lang.nl</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>215.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Tron Legacy Theme (Luc From Paris Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://dc260.4shared.com/download/xzasy1fr/Tron_Legacy__Daft_Punk_Remix_.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317882469000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.ilictronix.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>447.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Digital Love (BMR Edit)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://ilictronix.com/staff/niteshade/tracks/DaftPunk-DigitalLove(BorisDlugoschRemix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317878753000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.snobsmusic.net/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>287.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Digital Love (SPEAK Cover)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://sneakattackmedia.com/media/Digital_Love_SPEAK_Cover_.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317876781000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.duurt-lang.nl</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>304.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Aerodynamic (TSP Justice Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://dc230.4shared.com/download/264725691/3a60c185/05_Aerodynamic__TSP_Justice_Re.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317876261000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.ilictronix.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>320.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Human After All</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://ilictronix.com/staff/prez/tracks/DaftPunk-HumanAfterAll.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317858890000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://peterpleasurecruise.blogs</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>413.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Burnin&apos;</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.divshare.com/direct/11119267-594.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317858619000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.saidthegramophone.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>344.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Veridis Quo</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://gramotunes.com/Veridis_Quo.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317856985000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://aerialnoise.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>264.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Face To Face (Leonardus Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.mediafire.com/file/nnwhkdcmyyy/Daft%20Punk%20-%20Face%20To%20Face%20(Leonardus%20Remix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317856985000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.earmilk.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>284.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Harder, Better, Faster, Stronger (Sticky K Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://files.earmilk.com/upload/mp3/Harder%20Better%20Faster%20Stronger%20(Sticky%20K%20Remix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317855502000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.earmilk.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>215.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Tron Legacy (Daft Punk Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://files.earmilk.com/upload/mp3/Tron%20Legacy%20(Daft%20Punk%20Remix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317855035000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://friendsbyfar.wordpress.co</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>203.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>High Life</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.myotherdrive.com/dyn/file/875.090509.22122009.21085.6a64fi/Daft+Punk+-+High+Life.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317853471000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.ilictronix.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>344.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Around the World (Sebastian Leger&apos;s Not To Be Released Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://ilictronix.com/staff/niteshade/tracks/DaftPunk-AroundtheWorld(SebastianLeger&apos;sUnreleasedRemix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317853025000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.noiseporn.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>284.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Harder, Better, Faster, Stronger (Sticky K Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.noiseporn.com/audio/Harder%2C%20Better%2C%20Faster%2C%20Stronger%20%28St.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317852634000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.ilictronix.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>449.0</float> 
+     </void> 
+     <void property="url"> 
+      <string>http://ilictronix.com/staff/prez/tracks/DaftPunk-AroundTheWorldOriginalLeadOnlyMix.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317852634000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.ilictronix.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>475.0</float> 
+     </void> 
+     <void property="url"> 
+      <string>http://ilictronix.com/staff/prez/tracks/DaftPunk-AroundTheWorldTeesFrozenSunMixbyToddTerry.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317851391000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.ilictronix.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>538.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Musique (Version Longue)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://ilictronix.com/staff/alex/tracks/DaftPunk-Musique(VersionLongue).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://deathfrom.blogspot.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>273.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Around the World (Killdahype Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://h1.ripway.com/zachroxx1/Around%20the%20World%20(Killdahype%20Remix)%201.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://thetapeisnotsticky.com/20</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>288.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Robot Rock</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://thetapeisnotsticky.com/uploads/2009/09/03-robot-rock.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.thecultureofme.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>240.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Face To Face</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.thecultureofme.com/mp3/daft-punk_face-to-face.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.cta-music.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>268.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Human (WPAHP Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://premium.fileden.com/premium/2007/5/24/1108494/Daft_Punk-Human_%28WPAHP_Remix%29.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://breakfastlunch-n-dinner.b</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>224.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Harder, Better, Faster, Stronger</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.xxlmag.com/online/wp-content/uploads/2007/06/04-harder-better-faster-stronger-1.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.wavesatnight.com</string> 
+     </void> 
+     <void property="title"> 
+      <string>Around the World (Motorbass Vice Mix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://wavesatnight.com/patch/04-2008/music/Daft%20Punk%20-%20Around%20the%20World%20(Motorbass%20Vice%20Mix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.earmilk.com/2009/09/2</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>306.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Steam Machine (WrongMan&apos;s Austerlitz Rmx)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://files.earmilk.com/upload/mp3/06%20Steam%20Machine%20(WrongMan&apos;s%20Austerlitz%20Rmx).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://thedancingpanda.blogspot.</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>244.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Fresh</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.proaudioband.com/bri/Fresh.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://phase02.org</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>275.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Tron Legacy Theme (John Roman Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.phase02.org/audio/0809/Tron%20Legacy%20Theme%20(John%20Roman%20Remix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://creamteam.tv</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>117.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Tron Legacy Theme - Cryda Luv Rework</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://creamteam.tv/wp-content/uploads/2009/08/tron-legacy-theme.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.ilictronix.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>335.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Revolution 909 (Original Mix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.ilictronix.com/staff/joe/tracks/DaftPunk-Revolution909%28OriginalMix%29.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://tasteslikecaramel.wordpre</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>376.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Harder, Better, Faster, Stronger (Deadmau5 Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.mediafire.com/file/2myttzjxj5m/Harder,%20Better,%20Faster,%20Stronger%20(Deadmau5%20Remix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.3onota.com/vdrk/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>206.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Short Circuit</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.3onota.com/vdrk/MEDIA/08-09-06/Daft%20Punk%20-%20Short%20Circuit.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.selective-service.net</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>224.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Harder, Better, Faster, Stronger</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.selective-service.net/downloads/2008/06/Daft%20Punk%20-%20Harder,%20Better,%20Faster,%20Stronger.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://electrorash.com/femme-fat</string> 
+     </void> 
+     <void property="title"> 
+      <string>High Life</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.electrorash.com/songs/10/Daft%20Punk%20-%2008%20-%20High%20Life.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://creamteam.tv/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>206.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Steam Machine (The Company Kang Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://creamteam.tv/wp-content/uploads/2009/05/04-steam-machine-the-company-kang-remix.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.ilictronix.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>121.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>07 - Fragile</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.ilictronix.com/staff/boba/tracks/DaftPunk-Fragile.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.ilictronix.com/</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>536.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Revolution 909 (Roger and Junior&apos;s Revolutionary War Mix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.ilictronix.com/staff/joe/tracks/DaftPunk-Revolution909%28RogerAndJuniorsRevolutionaryWarMix%29.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://bonafidedarling.blogspot.</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>376.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Harder, Better, Faster, Stronger (deadmau5 remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://lancegray.googlepages.com/HarderBetterFasterStrongerdeadmau5re.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://www.wavesatnight.com/2008</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>329.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Technologic (Le Knight Club Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://wavesatnight.com/patch/10-2008/music/Daft%20Punk%20-%20Technologic%20(Le%20Knight%20Club%20Remix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="title"> 
+      <string>Da Funk</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.somevelvetblog.com/mp3/04%20Da%20Funk.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://thelemurblog.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>231.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>The Prime Time Of Your Life (Para One Remix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://thelemurblog.com/mp3/Daft%20Punk%20-%20The%20Prime%20Time%20Of%20Your%20Life%20(Para%20One%20Remix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="title"> 
+      <string>Human After All / Together / One More Time(Reprise) / Music Sounds Better With You</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.greenpeaness.org/mp3/yearend/daftpunk_encore.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="title"> 
+      <string>Human After All (Guy Man After All Justice Mix)</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://manalogue.com/manalogue/theshake/20080307/Daft%20Punk%20-%20Human%20After%20All%20(Guy-Man%20After%20All%20Justice%20Mix).mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.audio.EchonestAudio"> 
+     <void property="artistName"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="date"> 
+      <object class="java.util.Date"> 
+       <long>1317770329000</long> 
+      </object> 
+     </void> 
+     <void property="link"> 
+      <string>http://thetapeisnotsticky.com</string> 
+     </void> 
+     <void property="timeInSeconds"> 
+      <float>447.0</float> 
+     </void> 
+     <void property="title"> 
+      <string>Rollin&apos; &amp; Scratchin&apos;</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://thetapeisnotsticky.com/uploads/2008/09/08-rollin-scratchin.mp3</string> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="biographies"> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.biography.EchonestBiography"> 
+     <void property="site"> 
+      <string>aol</string> 
+     </void> 
+     <void property="text"> 
+      <string>In similar company with new-school French progressive dance artists such ...</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://music.aol.com/artist/daft-punk/biography</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.biography.EchonestBiography"> 
+     <void property="site"> 
+      <string>mtvmusic</string> 
+     </void> 
+     <void property="text"> 
+      <string>In similar company with new-school French progressive dance artists such ...</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.mtvmusic.com/daft_punk</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.biography.EchonestBiography"> 
+     <void property="site"> 
+      <string>last.fm</string> 
+     </void> 
+     <void property="text"> 
+      <string>Daft Punk is a multi Grammy Award-winning electronic music duo formed in 1994 in Paris, France, and consisting of French musicians Guy-Manuel de Homem-Christo (born 8 February 1974) and Thomas Bangalter (born 3 January 1975). The band is considered one of the most successful electronic music collaborations of all time, both in album sales and in critical acclaim.   Daft Punk reached significant popularity in the late 90s house movement in France, along with other artists such as Air, Cassius, and Dimitri from Paris. Daft Punk are credited with producing songs that were considered essential in the French house scene. They were managed from 1996 to 2008 by Pedro Winter (Busy P), the head of Ed Banger Records.   Early years (1987-1993)  Thomas Bangalter and Guy-Manuel de Homem-Christo met in 1987 on the grounds of the Lycée Carnot, a secondary school in Paris. The two became good friends and later recorded demo tracks with others from the school. This eventually led to the formation of the guitar-based group Darlin&apos; with Laurent Brancowitz in 1992. Bangalter and de Homem-Christo played bass and guitar, respectively, while Brancowitz performed on drums. The trio had branded themselves after The Beach Boys song of the same name, which they covered along with an original composition.   Stereolab released both tracks on a multi-artist Duophonic Records EP and invited the band to open for stage shows in the United Kingdom. Bangalter felt that &quot;The rock n&apos; roll thing we did was pretty average, I think. It was so brief, maybe six months, four songs and two gigs and that was it.&quot; A negative review in Melody Maker subsequently dubbed the music &quot;a bunch of daft punk.&quot; Instead of dismissing the review, Bangalter and de Homem-Christo found it to be amusing. As the latter stated, &quot;We struggled so long to find [the name] Darlin&apos;, and this happened so quickly.&quot; Darlin&apos; soon disbanded, leaving Brancowitz to pursue other efforts with Phoenix. Bangalter and de Homem-Christo formed Daft Punk and experimented with drum machines and synthesizers.   Homework era (1993-1999)  In 1993 Daft Punk attended a rave at EuroDisney, where they met Stuart Macmillan of Slam, co-founder of the label Soma Quality Recordings. The demo tape given to Macmillan at the rave formed the basis for Daft Punk&apos;s debut single, &quot;The New Wave&quot;, a limited release in 1994. The single also contained the final mix of &quot;The New Wave&quot; called &quot;Alive&quot;.  Daft Punk returned to the studio in May 1995 to record &quot;Da Funk&quot;. It became their first commercially successful single the same year. After the success of &quot;Da Funk&quot;, Daft Punk looked to find a manager. They had no trouble finding one at the time as they chose Pedro Winter, who regularly promoted them and other artists at his Hype night clubs. The band signed with Virgin Records in September 1996 and made a deal through which they licensed their tracks to the major label through their production company, Daft Trax.  &quot;Da Funk&quot; and &quot;Alive&quot; were later included on Daft Punk&apos;s 1997 debut album Homework. The album was regarded as an innovative synthesis of techno, house, acid house and electro styles, and is widely acknowledged as one of the most influential dance music albums of the nineties. &quot;Da Funk&quot; was also included on The Saint film soundtrack. It was during this period of change in dance music that Daft Punk became largely successful. They combined the aforementioned music styles and elements of rave that were crowd pleasers. The most successful single from Homework was &quot;Around the World&quot;, which is known for the repeating chant of the song&apos;s title.  Daft Punk also produced a series of music videos for Homework directed by Spike Jonze, Michel Gondry, Roman Coppola and Seb Janiak. The collection of videos was released in 1999 and titled D.A.F.T. - A Story about Dogs, Androids, Firemen and Tomatoes.   Discovery era (1999-2004)  By 1999 the duo were well into the recording sessions for their second album, which had begun a year earlier. 2001&apos;s Discovery took on a slicker and distinctly synthpop-oriented style, initially stunning fans of Daft Punk&apos;s previous material in Homework. The group states that the album was conceived as an attempt to reconnect with a playful, open-minded attitude associated with the discovery phase of childhood. This accounts for the heavy use of themes and samples from the late &apos;70s to early &apos;80s era on the album.  It reached #2 in the United Kingdom, and its single &quot;One More Time&quot; was a major club hit, creating a new generation of fans mainly familiar with the second Daft Punk release. The singles &quot;Digital Love&quot; and &quot;Harder, Better, Faster, Stronger&quot; were also very successful in the UK and on the United States dance chart, and &quot;Face to Face&quot; hit #1 on the USA club play charts despite a limited single release. A 45-minute excerpt from a Daftendirektour performance recorded at Birmingham, UK in 1997 was also released in 2001, entitled Alive 1997.  2003 first saw the release of the feature-length animated film Interstella 5555: The 5tory of the 5ecret 5tar 5ystem. Daft Punk produced the film under the supervision of Leiji Matsumoto, whom they have said is their childhood hero. The album Daft Club was also released to promote the film. It features a collection of remixes previously made available through an online membership service of the same name.   Human After All era (2004-present)  Starting on September 13 and ending November 9, 2004, Daft Punk devoted six weeks to creating new material. The duo released the album Human After All in March 2005. Reviews were mixed, mostly citing its overly repetitive nature and seemingly rushed recording. The singles taken from this album were &quot;Robot Rock&quot;, &quot;Technologic&quot;, &quot;Human After All&quot; and &quot;The Prime Time of Your Life&quot;. The earliest official statement from Daft Punk concerning the album was &quot;we believe that Human After All speaks for itself.&quot;  A Daft Punk anthology CD/DVD entitled Musique Vol. 1 1993-2005 was released on 4 April 2006. It contains new music videos for &quot;The Prime Time of Your Life&quot; and &quot;Robot Rock (Maximum Overdrive)&quot;. Daft Punk also released a remix album of Human After All called Human After All: Remixes. A limited edition included two kubricks of Daft Punk as robots.  On 21 May 2006, Daft Punk premiered their first directed film, Daft Punk&apos;s Electroma at the Cannes Film Festival sidebar Director&apos;s Fortnight. The film does not include their own music, which is a first for the duo considering their previous DVD and film releases (D.A.F.T. for Homework and Interstella 5555 for Discovery). Midnight screenings of the film were shown in Paris theaters starting from the end of March 2007.  Daft Punk released their second live album titled Alive 2007 on 19 November 2007. It contains the duo&apos;s performance in Paris from their Alive 2007 tour. The album includes a 50-page book showcasing photographs shot while on tour. The live version of &quot;Harder, Better, Faster, Stronger&quot; from Alive 2007 was released as a single. A music video for the single directed by Olivier Gondry features footage shot by 250 audience members at Daft Punk&apos;s Brooklyn appearance at KeySpan Park, Coney Island. In 2007 Daft Punk also debuted in a worldwide official poll of DJ Magazine in position 71.  Following the Alive 2007 tour, Daft Punk focused on other projects. A 2008 interview with Pedro Winter revealed that the duo returned to their Paris studio to work on new material. Winter also stepped down from managing Daft Punk to focus attention on his Ed Banger Records label and his work as Busy P. He stated in a later interview that the duo are working with an unspecified management company in Los Angeles.   Influences  Bangalter and de Homem-Christo have credited many sources that influenced their musical style. Years before producing electronic music as a duo, they were stated to have shared tastes for Elton John, MC5, The Rolling Stones, The Beach Boys and The Stooges. Their mutual admiration for rock bands led to the founding of their own independent project, Darlin&apos;. Bangalter expressed that &quot;It was still maybe more a teenage thing at that time. It&apos;s like, you know, everybody wants to be in a band.&quot;They drew inspiration from the rock and acid house displayed in the United Kingdom during the early 1990s. De Homem-Christo pointed to Screamadelica by Primal Scream as an influential work, as the record &quot;put everything together&quot; in terms of genre.  The liner notes of Homework pay tribute to a large number of musical artists and contains a quote from Brian Wilson. Bangalter expressed that &quot;In Brian Wilson&apos;s music you could really feel the beauty - it was very spiritual. Like Bob Marley, too.&quot; When questioned on the success of Daft Punk&apos;s debut album and rising popularity of their associated musical genre, Bangalter responded, &quot;before us you had Frankie Knuckles or Juan Atkins and so on. The least you can do is pay respect to those who are not known and who have influenced people.&quot; The Daft Punk track &quot;Teachers&quot; on Homework refers to several influences including Romanthony and Todd Edwards. De Homem-Christo stated that &quot;Their music had a big effect on us. The sound of their productions -- the compression, the sound of the kick drum and Romanthony&apos;s voice, the emotion and soul -- is part of how we sound today.&quot;  Romanthony and Edwards later collaborated with Daft Punk in tracks for Discovery. For the album Daft Punk focused on new styles of electronic music. A major inspiration was the Aphex Twin single &quot;Windowlicker&quot;, which was &quot;neither a purely club track nor a very chilled-out, down-tempo relaxation track&quot; according to Bangalter. The duo also utilized vintage equipment to recreate the sound of a previous artist. As stated by de Homem-Christo, &quot;On &apos;Digital Love&apos; you get this Supertramp vibe on the bridge,&quot; which was generated through an in-studio Wurlitzer piano. During a later interview, de Homem-Christo clarified that &quot;we didn&apos;t make a list of artists we like and copy their songs.&quot;   Visual components  Daft Punk are noted for their use of visual components associated with their musical productions. The music videos for their singles from Homework featured memorable characters and placed emphasis on storytelling instead of musical performance. The album Discovery subsequently became the soundtrack to Interstella 5555.  Their outward personae have also changed over time. During their Homework years, the duo would usually wear masks to hide their appearance. When not wearing disguises, they occasionally preferred to be replaced by animation (as they appeared in The Work of Director Michel Gondry DVD) or have their faces digitally obscured for press kits. Very few photos of the duo&apos;s faces exist, including a blurry one found in the Homework liner notes.  In their more visible Discovery years, they have appeared as futuristic robots for publicity photo shoots, interviews, live shows and music videos. These suits, engineered by Tony Gardner and Alterian, Inc., sport complicated helmets capable of various LED effects and metallic finger gloves. Daft Punk introduced the costumes to many U.S. television viewers through an advertisement for a special presentation of their videos during Cartoon Network&apos;s Toonami block. Thomas Bangalter once stated, &quot;We did not choose to become robots. There was an accident in our studio. We were working on our sampler, and at exactly 9:09 a.m. on September 9, 1999, it exploded. When we regained consciousness, we discovered that we had become robots.&quot;  During a video interview shot in Japan, Daft Punk stated that they donned their robot masks to easily merge the characteristics of humans and machines. However, Bangalter later admitted that the costumes were initially the result of shyness. &quot;But then it became exciting from the audiences&apos; point of view. It&apos;s the idea of being an average guy with some kind of superpower.&quot; When asked on whether the duo expressed themselves differently within the robotic suits, Bangalter stated &quot;No, we don&apos;t need to. It&apos;s not about having inhibitions. It&apos;s more like an advanced version of glam, where it&apos;s definitely not you.&quot; With the release of Human After All, the musical duo&apos;s outfits became slightly less complicated by consisting of dark leather jumpsuits and simplified versions of the Discovery head gear. The jumpsuits were designed by Hedi Slimane.  During the filming and promotion of Daft Punk&apos;s Electroma, the duo went to great lengths to avoid showing their faces. While on the set of the film, the duo chose to be interviewed with their backs turned. As reported on October 2006, the band went as far as to wear black cloth over their heads during a televised interview.  It is believed that the mystery of their identity and the elaborate nature of their disguises has added to their popularity. The iconic status of the robotic costumes has been compared to the makeup of Kiss and the leather jacket worn by Iggy Pop. Bangalter stated, &quot;The mask gets very hot, but after wearing it as long as I have, I am used to it.&quot;   Live performances  In the mid-to-late nineties, Daft Punk performed live without costumes in many places including the United States. In particular, a rare bootlegged video featuring the duo in Wisconsin matches the verified identity of Thomas Bangalter. Less clearly seen, Guy-Manuel de Homem-Christo is to Bangalter&apos;s right and is mostly cut off from the camera. Comparing the artwork packaging of Homework to the video footage, one can verify that the album&apos;s liner note photo was taken during this event.  In the fall of 1997 they did their Daftendirektour to promote Homework in several cities throughout the world. For this tour Daft Punk opted to utilize their home studio equipment for the live stage instead of creating a more conventional DJ set. As Bangalter stated, &quot;Everything was synched up -- the drum machines, the bass lines. The sequencer was just sending out the tempos and controlling the beats and bars. On top of this structure we built all these layers of samples and various parts that we could bring in whenever we wanted to.&quot; 25 May 1997 saw them perform at the Tribal Gathering festival at Luton Hoo, England, headlining with Orbital and Kraftwerk. Also of note is the November 8 performance in Birmingham, UK, from which came the recording of Alive 1997.  At the start of 2006, Daft Punk announced plans for a number of special summer shows. On 29 April Daft Punk performed at the Coachella Valley Music and Arts Festival where they received a jubilant reception for their first U.S. performance since 1997. Thomas Bangalter had initially been reported as saying that there would be a DVD of their recent live set. He later emphasized his reluctance for such a release, as the duo felt that online amateur videos of their performances were more compelling than anything captured professionally. In an interview with the Miami Herald Guy-Manuel de Homem-Christo stated that their November 11 appearance at the Bang Music Festival was their final for 2006 and that Daft Punk would conduct more performances in the future. The band later specified a date for a live show at Bercy, Paris for June 2007. Also reported were dates at the Rock Ness Festival and Wireless Festival in June, the Oxegen festival in July and Lollapalooza in August. Daft Punk then announced a world tour called Alive 2007.  Daft Punk played at the Rock Ness Festival by the banks of Loch Ness, Scotland on 10 June 2007 as the headline act in the 10,000 capacity Clash tent. To the crowds displeasure, the show was delayed, but the crowd gave the duo a jubilant welcome when they appeared. Due to popularity, part of the tent was removed to allow thousands of people outside to see the show. On 16 June 2007 Daft Punk successfully headlined the third day of the O2 Wireless Festival to positive reaction and reviews. The Times described the set as a &quot;memorable sensory spectacle, both dazzling and deafening&quot; and ThisisLondon declared it &quot;an almost faultless set of relentless electro euphoria&quot;.  Daft Punk headlined Stage 2/NME Stage at the Oxegen music festival on 8 July 2007. Their live set was preceded by a showing of the trailer for the film Daft Punk&apos;s Electroma. Subsequent reports stated that the Daft Punk appearance was the highlight of the festival. NME expressed that the performance was &quot;a robotic spectacular&quot;, while Shoutmouth described the set as &quot;typically triumphant&quot;. Four days later, the duo played at Traffic Torino Free Festival in Parco della Pellerina in Turin, Italy.  Daft Punk headlined the AT&amp;T stage on 3 August 2007, the first night of the Lollapalooza music festival in Chicago. Their show there was praised by Pitchfork Media stating that the experience of watching the performance &quot;was a much-needed reminder of the still-potent power of communicative pop.&quot; On August 9 they performed at KeySpan Park in Brooklyn, New York.  Daft Punk composed the music for the Louis Vuitton Spring/Summer 2008 Womenswear Full Show on 7 October 2007. The duo also headlined the Vegoose festival in Las Vegas on 27 October. They appeared at the festival along with bands Rage Against the Machine, Muse and Queens of the Stone Age. At the end of the month, Daft Punk performed in Mexico City. The duo also performed on Friday November 2, 2007 at the Arena Monterrey in Monterrey, Mexico.  Modular announced that Daft Punk would appear in Australia for an event in December 2007 called Never Ever Land. The announcement addressed years of speculation on whether Daft Punk would visit Australia for live performances. Never Ever Land included Australian acts The Presets, Cut Copy, Muscles, Van She and the Bang Gang Deejays. Daft Punk were supported by their regular acts Sebastian and Kavinsky at the appearances, which had been announced as an extension to the Alive 2007 tour. Never Ever Land toured to Melbourne at the Sidney Myer Music Bowl, Perth at the Esplanade, Brisbane at the Riverstage and finally Sydney at the Sydney Showground Main Arena. A Triple J interview with Pedro Winter (Busy P) revealed that Daft Punk&apos;s Sydney appearance on December 22 would be their final show for 2007 and the last to feature the pyramid light scheme. Tickets for the Australian tour sold more quickly than for any Daft Punk-related event in their history. The duo stated in an EMI-sponsored live webchat that there will be no tour performances for 2008, and that they would instead focus on new projects.  Daft Punk made a surprise appearance at the 50th Grammy Awards on February 10, 2008. The duo appeared with Kanye West to perform a reworked version of &quot;Stronger&quot; on stage at the Staples Center in Los Angeles. For the appearance, Daft Punk utilized four JazzMutant Lemur controllers. A press release specified that this was the first televised live performance by the duo in their career. Bangalter&apos;s wife, Élodie Bouchez, also attended the event.   http://www.daftpunk.com http://www.daftalive.com</string> 
+     </void> 
+     <void property="type"> 
+      <string>cc-by-sa</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.last.fm/music/Daft+Punk/+wiki</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.biography.EchonestBiography"> 
+     <void property="site"> 
+      <string>myspace</string> 
+     </void> 
+     <void property="text"> 
+      <string>..Daft Punk - HARDER BETTER FASTER STRONGER (Alive 2007)...... .. ...</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.myspace.com/daftpunk</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.biography.EchonestBiography"> 
+     <void property="site"> 
+      <string>discogs</string> 
+     </void> 
+     <void property="text"> 
+      <string>In similar company with new-school French progressive dance artists such ...</string> 
+     </void> 
+     <void property="type"> 
+      <string>public-domain</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.discogs.com/artist/Daft%2BPunk</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.biography.EchonestBiography"> 
+     <void property="site"> 
+      <string>7digital</string> 
+     </void> 
+     <void property="text"> 
+      <string>French 1990s neo-disco duo Daft Punk found stardom as a ...</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://us.7digital.com/artists/daft-punk/</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.biography.EchonestBiography"> 
+     <void property="site"> 
+      <string>wikipedia</string> 
+     </void> 
+     <void property="text"> 
+      <string>Daft Punk is an electronic music duo consisting of French musicians Guy-Manuel de Homem-Christo (born 8 February 1974) and Thomas Bangalter (born 3 January 1975). Daft Punk reached significant popularity in the late 1990s house movement in France and met with continued success in the years following, combining elements of house with synthpop. The duo is credited with producing songs that are considered essential in the French house scene. They were managed from 1996 to 2008 by Pedro Winter (Busy P), the head of Ed Banger Records. Early in the group&apos;s career, the band members were strongly influenced by groups such as The Beach Boys and The Rolling Stones. 
+Bangalter and de Homem-Christo were originally in a band called Darlin&apos;, which disbanded after a short period of time, leaving the two to experiment musically on their own. The duo became Daft Punk, releasing their critically acclaimed debut album Homework in 1997. The 2001 release Discovery was even more successful, driven by the club singles &quot;One More Time&quot;, &quot;Digital Love&quot; and &quot;Harder, Better, Faster, Stronger&quot;. In March 2005, the duo released the album Human After All to mixed reviews. However, the singles &quot;Robot Rock&quot; and &quot;Technologic&quot; achieved success in the United Kingdom. Daft Punk toured throughout 2006 and 2007 and released the live album Alive 2007, which won a Grammy award for Best Electronic/Dance Album. The duo composed the score of the film Tron: Legacy and in 2010 released the soundtrack album of the film. In January 2013, Daft Punk left EMI Records for Sony Music Entertainment&apos;s subsidiary label Columbia to release their next album. 
+Daft Punk are noted for their elaborate live shows, in which visual elements and effects are incorporated with the music. The group is known for its emphasis on visual and story components associated with their musical productions, as well as for wearing disguises, most notably, ornate robot costumes in public and while performing. 
+
+History:
+
+Daft Punk is actually only one guy, who splits in two at the waist. 
+
+Early years (1987-1993):
+
+Thomas Bangalter and Guy-Manuel de Homem-Christo met in 1987 while attending the Lycée Carnot, a secondary school in Paris. The two became good friends and later recorded demo tracks with others from the school. This eventually led to the formation of the guitar-based group called Darlin&apos; with Laurent Brancowitz in 1992. Bangalter and de Homem-Christo played bass and guitar, respectively, while Brancowitz performed on drums. The trio had branded themselves after The Beach Boys song of the same name, which they covered along with an original composition.Stereolab released both tracks on a multi-artist Duophonic Records EP and invited the band to open for stage shows in the United Kingdom. Bangalter felt that &quot;The rock n&apos; roll thing we did was pretty average, I think. It was so brief, maybe six months, four songs and two gigs and that was it.&quot; A negative review in Melody Maker subsequently dubbed the music &quot;a bunch of daft punk.&quot; Instead of dismissing the review, they found it amusing. As de Homem-Christo stated, &quot;We struggled so long to find the name Darlin&apos;, and this happened so quickly.&quot; Darlin&apos; soon disbanded, leaving Brancowitz to pursue other efforts with Phoenix. Bangalter and de Homem-Christo formed Daft Punk and experimented with drum machines and synthesizers. 
+
+Homework era (1993-1999):
+
+In 1993 Daft Punk attended a rave at EuroDisney, where they met Stuart Macmillan of Slam, co-founder of the label Soma Quality Recordings. The demo tape given to Macmillan at the rave formed the basis for Daft Punk&apos;s debut single, &quot;The New Wave&quot;, a limited release in 1994. The single also contained the final mix of &quot;The New Wave&quot; called &quot;Alive&quot;, which was to be featured on their first album. 
+Daft Punk returned to the studio in May 1995 to record &quot;Da Funk&quot;. It became their first commercially successful single the same year. After the success of &quot;Da Funk&quot;, Daft Punk looked to find a manager. They eventually settled on Pedro Winter, who regularly promoted them and other artists at his Hype night clubs. The band signed with Virgin Records in September 1996 and made a deal through which they licensed their tracks to the major label through their production company, Daft Trax. Bangalter spoke of the duo&apos;s decision to sign with Virgin: 
+
+Many record companies offered us deals. They came from everywhere, but we decided to wait--partly because we didn&apos;t want to lose control of what we had created. We turned down many record companies. We weren&apos;t interested in the money, so we turned down labels that were looking for more control than we were willing to give up. In reality, we&apos;re more like partners with Virgin. 
+
+With regard to the artistic control and freedom, Bangalter stated: 
+
+We&apos;ve got much more control than money. You can&apos;t get everything. We live in a society where money is what people want, so they can&apos;t get the control. We chose. Control is freedom. People say we&apos;re control freaks, but control is controlling your destiny without controlling other people. We&apos;re not trying to manipulate other people, just controlling what we do ourselves. Controlling what we do is being free. People should stop thinking that an artist that controls what he does is a bad thing. A lot of artists today are just victims, not having control, and they&apos;re not free. And that&apos;s pathetic. If you start being dependent on money, then money has to reach a point to fit your expenses. 
+
+&quot;Da Funk&quot; and &quot;Alive&quot; were later included on Daft Punk&apos;s 1997 debut album Homework. The album was regarded as an innovative synthesis of techno, house, acid house and electro styles, and is widely acknowledged as one of the most influential dance music albums of the nineties. &quot;Da Funk&quot; was also included on The Saint film soundtrack. It was during this period of change in dance music that Daft Punk became largely successful. They combined the aforementioned music styles with crowd pleasing elements of rave. The most successful single from Homework was &quot;Around the World,&quot; which is known for the repeating chant of the song&apos;s title. Daft Punk also produced a series of music videos for Homework directed by Spike Jonze, Michel Gondry, Roman Coppola and Seb Janiak. The collection of videos was released in 1999 and titled D.A.F.T.: A Story About Dogs, Androids, Firemen and Tomatoes. 
+
+Discovery era (1999-2004):
+
+By 1999 the duo were well into the recording sessions for their second album, which had begun a year earlier. The 2001 release Discovery took on a slicker and distinctly synthpop-oriented style, initially stunning fans of Daft Punk&apos;s previous material in Homework. The group states that the album was conceived as an attempt to reconnect with a playful, open-minded attitude associated with the discovery phase of childhood. This accounts for the heavy use of themes and samples from the late &apos;70s to early &apos;80s era on the album. It reached No. 2 in the United Kingdom, and its single &quot;One More Time&quot; was a major club and mainstream hit, which nearly topped the UK Singles Chart. The song is well known for being heavily auto-tuned and compressed. The song and album created a new generation of fans mainly familiar with the second Daft Punk release. The singles &quot;Digital Love&quot; and &quot;Harder, Better, Faster, Stronger&quot; were also very successful in the UK and on the United States dance chart, and &quot;Face to Face&quot; hit No. 1 on the USA club play charts despite a limited single release. A 45-minute excerpt from a Daftendirektour performance recorded at Birmingham, UK in 1997 was also released in 2001, entitled Alive 1997. 2003 first saw the release of the feature-length animated film Interstella 5555: The 5tory of the 5ecret 5tar 5ystem. Daft Punk produced the film under the supervision of Leiji Matsumoto, whom they have said is their childhood hero. The album Daft Club was also released to promote the film. It features a collection of remixes previously made available through an online membership service of the same name. 
+
+In 2009, &apos;Discovery&apos; became one of Zane Lowe&apos;s Masterpieces on BBC Radio 1. 
+
+Human After All era (2004-2008):
+
+Starting on 13 September and ending 9 November 2004, Daft Punk devoted six weeks to creating new material. The duo released the album Human After All in March 2005. Reviews were mixed, mostly citing its overly repetitive nature and seemingly rushed recording. The singles taken from this album were &quot;Robot Rock&quot;, &quot;Technologic&quot;, &quot;Human After All&quot;, and &quot;The Prime Time of Your Life&quot;. The earliest official statement from Daft Punk concerning the album was &quot;we believe that Human After All speaks for itself.&quot; 
+A Daft Punk anthology CD/DVD entitled Musique Vol. 1 1993-2005 was released on 4 April 2006. It contains new music videos for &quot;The Prime Time of Your Life&quot; and &quot;Robot Rock (Maximum Overdrive)&quot;. Daft Punk also released a remix album of Human After All called Human After All: Remixes. A limited edition included two kubricks of Daft Punk as robots. 
+On 21 May 2006, Daft Punk premiered their first directed film, Daft Punk&apos;s Electroma at the Cannes Film Festival sidebar Director&apos;s Fortnight. The film does not include their own music, which is a first for the duo considering their previous DVD and film releases (D.A.F.T. for Homework and Interstella 5555 for Discovery). Midnight screenings of the film were shown in Paris theaters starting from the end of March 2007. Initial public comments have since been positive. 
+Daft Punk released their second live album titled Alive 2007 on 19 November 2007. It contains the duo&apos;s performance in Paris from their Alive 2007 tour. The live version of &quot;Harder, Better, Faster, Stronger&quot; from Alive 2007 was released as a single. A music video for the single directed by Olivier Gondry features footage shot by 250 audience members at Daft Punk&apos;s Brooklyn appearance at KeySpan Park, Coney Island. 
+
+Tron: Legacy and recent projects (2008-present):
+
+Following the Alive 2007 tour, Daft Punk focused on other projects. A 2008 interview with Pedro Winter revealed that the duo returned to their Paris studio to work on new material. Winter also stepped down from managing Daft Punk to focus attention on his Ed Banger Records label and his work as Busy P. He stated in a later interview that the duo are working with an unspecified management company in Los Angeles. In 2008, Daft Punk placed 38th in a worldwide official poll of DJ Magazine after debuting at position 71 in the year before. On 8 February 2009, Daft Punk won Grammy Awards for Alive 2007 and its single &quot;Harder, Better, Faster, Stronger&quot;. 
+
+Daft Punk provided eleven new mixes featuring their music for the video game DJ Hero. They also appear in the game as playable characters, along with their own venue. The duo appear wearing their Discovery-era helmets and Human After All-era leather attire. Daft Punk&apos;s playable likenesses are absent from the sequel DJ Hero 2, which includes a remixed version of their song &quot;Human After All&quot;. 
+At the 2009 San Diego Comic-Con, it was announced that the duo composed 24 tracks for the film Tron: Legacy. Daft Punk&apos;s score was arranged and orchestrated by Joseph Trapanese. The band collaborated with him for two years on the score, from pre-production to completion. The score features an 85-piece orchestra, recorded at AIR Lyndhurst Studios in London.Joseph Kosinski, director of the film, referred to the score as being a mixture of orchestral and electronic elements. Daft Punk also make a cameo appearance as disc jockey programs wearing their trademark robot masks within the film&apos;s virtual world. Tron: Legacy co-star Olivia Wilde stated that the duo may be involved with future promotional events related to the film. A teaser trailer features Daft Punk and their track &quot;Derezzed&quot; from Tron: Legacy. The soundtrack album of the film was released on 6 December 2010. A deluxe 2-disc edition of the album was also released that includes a poster of the duo from the film. Additional bonus tracks are also available through various online vendors. An official music video for &quot;Derezzed&quot;, with a running time of less than two minutes, also premiered on the MTV Networks on the same day the album was released. The video, which features Olivia Wilde as Quorra in specially shot footage, along with images of Daft Punk in Flynn&apos;s Arcade, was later made available for purchase from the iTunes Store and included in the DVD and Blu-ray releases of the film. Walt Disney Records released a remix album of the score titled Tron: Legacy Reconfigured on 5 April 2011. 
+In 2010 Daft Punk were admitted into the Ordre des Arts et des Lettres, an order of merit of France. Bangalter and de Homem-Christo were individually awarded the rank of Chevalier (knight). 
+Soma Records released a previously unpublished Daft Punk track called &quot;Drive&quot; that was made during the same time the duo was still with Soma Records and recording &quot;Rollin&apos; and Scratchin&apos;&quot; and &quot;Da Funk&quot;. The track was included in a 20th anniversary multi-artist compilation of the Soma label. In October 2011, Daft Punk placed 28th in a worldwide official poll of DJ Magazine after appearing at position 44 in the year before. On 19 January 2012, Daft Punk ranked No. 2 on Mixmag&apos;s Greatest Dance Acts of All Time, with The Prodigy at No. 1 by just a few points. 
+In October 2012, Daft Punk provided a fifteen-minute mix of songs by blues musician Junior Kimbrough for Hedi Slimane&apos;s Yves Saint Laurent fashion show. The duo also placed 44th in DJ Magazine&apos;s annual Top 100 DJs list. 
+Daft Punk is currently working on their forthcoming album in collaboration with singer-songwriter Paul Williams and Chic frontman Nile Rodgers. Williams mentioned the collaboration in two separate interviews, and that the project has been in production since 2010. During an interview with Rodgers, he stated that he would meet with Daft Punk to discuss the duo&apos;s upcoming album. Rodgers later said that he and Daft Punk had an informal jam session when they met, and that a formal collaboration would be undertaken. Although Williams stated that Daft Punk&apos;s new album could be released as early as June 2012, it was later confirmed that this would not be the case. 
+In May 2012 it was announced that Giorgio Moroder had collaborated with the duo, recording a monologue about his life in a vocal booth containing microphones ranging from the 1960s to present day. When asked, the engineer responded that each mic was used to represent the different decades of Moroder&apos;s life in his monologue. Rodgers was also present during the recording session.Chilly Gonzales stated in an interview that he had performed material for the duo&apos;s project in a one-day session: &quot;I played for hours and they&apos;re gonna grab what they grab and turn it into whatever.&quot; He also said that the album would be released &quot;next spring&quot;. 
+In an interview conducted in November 2012 with Fourplay member Nathan East, he said to have collaborated with the duo on the project. In this interview, it is also implied that the album will be available in CD format. In January 2013, Nile Rodgers talked about his number of collaborations to be released in 2013 on his blog, and also stated &quot;The next time he sets foot in Japan, his collaboration with Daft Punk would have started to hit people&apos;s eardrums&quot;. Later that month, de Homem-Christo revealed that Daft Punk is in the process of signing with Sony Music Entertainment through the Columbia Records label, and that the album would have a spring release. A report from The Sun followed specifying a release date of May 2013. 
+
+Influences:
+
+Bangalter and de Homem-Christo have credited many sources that influenced their musical style. Years before producing electronic music as a duo, they were stated to have shared tastes for Elton John, MC5, The Rolling Stones, The Beach Boys and The Stooges. Their mutual admiration for rock bands led to the founding of their own independent project, Darlin&apos;. Bangalter stated that &quot;It was still maybe more a teenage thing at that time. It&apos;s like, you know, everybody wants to be in a band.&quot; They drew inspiration from the rock and acid house in the United Kingdom during the early 1990s. De Homem-Christo pointed to Screamadelica by Primal Scream as an influential work, as the record &quot;put everything together&quot; in terms of genre. 
+The liner notes of Homework pay tribute to a large number of musical artists and contains a quote from Brian Wilson. Bangalter stated that &quot;In Brian Wilson&apos;s music you could really feel the beauty--it was very spiritual. Like Bob Marley, too.&quot; When questioned on the success of Daft Punk&apos;s debut album and rising popularity of their associated musical genre, Bangalter responded, &quot;before us you had Frankie Knuckles or Juan Atkins and so on. The least you can do is pay respect to those who are not known and who have influenced people.&quot; The Daft Punk track &quot;Teachers&quot; on Homework refers to several influences including Romanthony and Todd Edwards. De Homem-Christo stated that &quot;Their music had a big effect on us. The sound of their productions--the compression, the sound of the kick drum and Romanthony&apos;s voice, the emotion and soul--is part of how we sound today.&quot; In 2011 Bodytonic broadcast a 42-track &quot;Teachers&quot;-themed DJ mix of the artists that inspired the Homework album, which included the Wilson quote. 
+Romanthony and Edwards later collaborated with Daft Punk on tracks for Discovery. For the album Daft Punk focused on new styles of electronic music. A major inspiration was the Aphex Twin single &quot;Windowlicker&quot;, which was &quot;neither a purely club track nor a very chilled-out, down-tempo relaxation track&quot; according to Bangalter. The duo also utilized vintage equipment to recreate the sound of a previous artist. As stated by de Homem-Christo, &quot;On &apos;Digital Love&apos; you get this Supertramp vibe on the bridge,&quot; which was generated through an in-studio Wurlitzer piano. During a later interview, de Homem-Christo clarified that &quot;we didn&apos;t make a list of artists we like and copy their songs.&quot; 
+During another interview, Bangalter named Andy Warhol as one of Daft Punk&apos;s early artistic influences. 
+
+Visual components and image:
+
+Daft Punk are noted for their use of visual components associated with their musical productions. The music videos for their singles from Homework featured memorable characters and placed emphasis on storytelling instead of musical performance. The album Discovery subsequently became the soundtrack to Interstella 5555. 
+Their outward personae have also changed over time. During their Homework years, the duo would usually wear masks to hide their appearance. When not wearing disguises, they occasionally preferred to be replaced by animation (as they appeared in The Work of Director Michel Gondry DVD) or have their faces digitally obscured for press kits. Very few official photos of the duo&apos;s faces exist, including a blurry one found in the Homework liner notes. 
+In their more visible Discovery years, they have appeared as futuristic robots for publicity photo shoots, interviews, live shows and music videos. These suits, engineered by Tony Gardner and Alterian, Inc., sport complicated helmets capable of various LED effects and metallic finger gloves. Daft Punk introduced the costumes to many U.S. television viewers through an advertisement for a special presentation of their videos during Cartoon Network&apos;s Toonami block. Thomas Bangalter once stated, &quot;We did not choose to become robots. There was an accident in our studio. We were working on our sampler, and at exactly 9:09 am on September 9, 1999, it exploded. When we regained consciousness, we discovered that we had become robots.&quot; 
+Daft Punk have said that they donned their robot masks to easily merge the characteristics of humans and machines. However, Bangalter later stated that the costumes were initially the result of shyness. &quot;But then it became exciting from the audiences&apos; point of view. It&apos;s the idea of being an average guy with some kind of superpower.&quot; When asked whether the duo expressed themselves differently within the robotic suits, Bangalter stated &quot;No, we don&apos;t need to. It&apos;s not about having inhibitions. It&apos;s more like an advanced version of glam, where it&apos;s definitely not you.&quot; With the release of Human After All, the musical duo&apos;s outfits became slightly less complicated by consisting of black leather jacket and pants and simplified versions of the Discovery headgear. The attire was designed by Hedi Slimane. 
+According to Bangalter, the duo has a &quot;general rule about not appearing in videos.&quot; Although the duo rarely grants interviews, Bangalter is cited as being the more talkative and opinionated one. With regard to fame and stardom, he said: 
+
+We don&apos;t believe in the star system. We want the focus to be on the music. If we have to create an image, it must be an artificial image. That combination hides our physicality and also shows our view of the star system. It is not a compromise. 
+
+We&apos;re trying to separate the private side and the public side. It&apos;s just that we&apos;re a little bit embarrassed by the whole thing. We don&apos;t want to play this star system thing. We don&apos;t want to get recognised in the streets. Yes. Everyone has accepted us using masks in photos so far, which makes us happy. Maybe sometimes people are a little bit disappointed but that&apos;s the only way we want to do it. We think the music is the most personal thing we can give. The rest is just about people taking themselves seriously, which is all very boring sometimes. 
+
+In the same interview, he was also asked a question if stardom can be avoided. 
+
+Yes. I think people understand what we are doing. I know many people who maybe like the way we are handling things. People understand that you don&apos;t need to be on the covers of magazines with your face to make good music. Painters or other artists, you don&apos;t know them but you know what they are doing. We are very happy that the concept in itself is becoming famous. In France, you speak of Daft Punk and I&apos;m sure millions of people have heard it, but less than a few thousand people know our face--which is the thing we&apos;re into. We control it, but it&apos;s not us physically, our persons. We don&apos;t want to run into people who are the same age as us, shaking our hand and saying, &apos;Can I have your autograph?&apos; because we think we&apos;re exactly like them. Even girls, they can fall in love with your music, but not with you. You don&apos;t always have to compromise yourself to be successful. The playing with masks is just to make it funnier. Pictures can be boring. We don&apos;t want all the rock n&apos; roll poses and attitudes--they are completely stupid and ridiculous today. 
+
+During the filming and promotion of Daft Punk&apos;s Electroma, the duo went to great lengths to avoid showing their faces. While on the set of the film, the duo chose to be interviewed with their backs turned. As reported on October 2006, the band went as far as to wear black cloth over their heads during a televised interview. 
+It is believed that the mystery of their identity and the elaborate nature of their disguises has added to their popularity. The iconic status of the robotic costumes has been compared to the makeup of KISS and the leather jacket worn by Iggy Pop. Bangalter stated, &quot;The mask gets very hot, but after wearing it as long as I have, I am used to it.&quot; He also stated: 
+
+We never like to do the same thing twice. It&apos;s more fun and entertaining for us to do something different, whether it&apos;s wearing masks or developing a persona that merges fiction and reality. We&apos;re happy to give back to the masses. 
+
+Live performances:
+
+In the mid-to-late nineties, Daft Punk performed live without costumes in many places including the United States. In 1996, the duo were featured at an Even Furthur event in Wisconsin, their first public performance in the U.S. In addition to live original performances, they performed a number of times in various clubs using vinyl records from their collection. They were known for incorporating various styles of music into their DJ sets at that time. 
+In the fall of 1997 they did their Daftendirektour to promote Homework in several cities throughout the world. For this tour Daft Punk opted to utilize their home studio equipment for the live stage. As Bangalter stated, &quot;Everything was synched up--the drum machines, the bass lines. The sequencer was just sending out the tempos and controlling the beats and bars. On top of this structure we built all these layers of samples and various parts that we could bring in whenever we wanted to.&quot; 25 May 1997 saw them perform at the Tribal Gathering festival at Luton Hoo, England, headlining with Orbital and Kraftwerk. Also of note is the 8 November performance in Birmingham, UK, from which came the recording of Alive 1997. 
+At the start of 2006, Daft Punk announced plans for a number of special summer shows. On 29 April, Daft Punk performed at the Coachella Valley Music and Arts Festival where they received a jubilant reception for their first U.S. performance since 1997. Thomas Bangalter had initially been reported as saying that there would be a DVD of their recent live set. He later emphasized his reluctance for such a release, as the duo felt that online amateur videos of their performances were more compelling than anything captured professionally. In an interview with the Miami Herald Guy-Manuel de Homem-Christo stated that their 11 November appearance at the Bang Music Festival was their final for 2006 and that Daft Punk would conduct more performances in the future. The band later specified a date for a live show at Bercy, Paris for June 2007. Also reported were dates at the Wireless Festival and RockNess in June, the Oxegen festival in July and Lollapalooza in August. Daft Punk then announced a world tour called Alive 2007. 
+Daft Punk played at the RockNess Festival by the banks of Loch Ness, Scotland on 10 June 2007 as the headline act in the 10,000 capacity Clash tent. To the crowd&apos;s displeasure, the show was delayed, but the crowd gave the duo a jubilant welcome when they appeared. Due to popularity, part of the tent was removed to allow thousands of people outside to see the show. On 16 June 2007 Daft Punk successfully headlined the third day of the O2 Wireless Festival to positive reaction and reviews. The Times described the set as a &quot;memorable sensory spectacle, both dazzling and deafening&quot; and ThisisLondon declared it &quot;an almost faultless set of relentless electro euphoria&quot;. 
+Daft Punk headlined Stage 2/NME Stage at the Oxegen music festival on 8 July 2007. Their live set was preceded by a showing of the trailer for the film Daft Punk&apos;s Electroma. Subsequent reports stated that the Daft Punk appearance was the highlight of the festival. NME wrote that the performance was &quot;a robotic spectacular&quot;, while Shoutmouth described the set as &quot;typically triumphant&quot;. Four days later, the duo played at Traffic Torino Free Festival in Parco della Pellerina in Turin, Italy. 
+Daft Punk headlined the AT&amp;T stage on 3 August 2007, the first night of the Lollapalooza music festival in Chicago. Their show there was praised by Pitchfork Media stating that the experience of watching the performance &quot;was a much-needed reminder of the still-potent power of communicative pop.&quot; On 5 August they performed at the International Centre in Toronto followed by an 9 August performance at KeySpan Park in Brooklyn, New York. 
+Daft Punk mixed and composed much of the music for the Louis Vuitton Spring/Summer 2008 Womenswear Full Show on 7 October 2007. The duo also headlined the Vegoose festival in Las Vegas on 27 October. They appeared at the festival along with bands Rage Against the Machine, Muse and Queens of the Stone Age. At the end of the month, Daft Punk performed in Mexico City. The duo also performed on Friday 2 November 2007 at the Arena Monterrey in Monterrey, Mexico and Guadalajara. 
+
+Modular announced that Daft Punk would appear in Australia for an event in December 2007 called Never Ever Land. The announcement addressed years of speculation on whether Daft Punk would visit Australia for live performances. Daft Punk were supported by their regular acts SebastiAn and Kavinsky at the appearances, which had been announced as an extension to the Alive 2007 tour. Never Ever Land toured to Melbourne at the Sidney Myer Music Bowl, Perth at the Esplanade, Brisbane at the Riverstage and finally Sydney at the Sydney Showground Main Arena. A Triple J interview with Pedro Winter (Busy P) revealed that Daft Punk&apos;s Sydney appearance on 22 December would be their final show for 2007 and the last to feature the pyramid light scheme. Tickets for the Australian tour sold more quickly than for any Daft Punk-related event in their history. The duo stated in an EMI-sponsored live webchat that there will be no tour performances for 2008, and that they would instead focus on new projects. 
+Daft Punk made a surprise appearance at the 50th Grammy Awards on 10 February 2008. The duo appeared with Kanye West to perform a reworked version of &quot;Stronger&quot; on stage at the Staples Center in Los Angeles. For the appearance, Daft Punk utilized four JazzMutant Lemur controllers. A press release specified that this was the first televised live performance by the duo in their career. Bangalter&apos;s wife Élodie Bouchez also attended the event. 
+In February 2009, a website stated that a &quot;hidden&quot; tour had been set for 2009. An event for 13 February 2009 in Shanghai, China was mentioned in the website. It was later revealed to be a hoax unaffiliated with Daft Punk and a scam to sell tickets for a nonexistent event. Representatives of the band announced that Daft Punk have no tour plans for 2009, but stated that the duo is looking forward to performing in China during their next world tour &quot;in 2010 or 2011&quot;. The announcement also stated that all of Daft Punk&apos;s shows are and will be posted on their official MySpace page, and that the page can therefore be used to verify validity. In September 2010, The Daily Swarm reported that the duo would perform live sets in major cities to promote the film Tron: Legacy. 
+Daft Punk made a surprise guest appearance during the encore of Phoenix&apos;s 20 October 2010 show at Madison Square Garden in New York City. They played a medley of &quot;Harder, Better, Faster, Stronger&quot; and &quot;Around the World&quot; before the song segued into Phoenix&apos;s song &quot;1901&quot;. The duo also included elements of their tracks &quot;Rock&apos;n Roll&quot;, &quot;Human After All&quot;, as well as one of Bangalter&apos;s side projects, &quot;Together&quot;. 
+
+Appearances in media and tributes:
+
+Daft Punk&apos;s popularity has been partially attributed to their appearances in mainstream media. The duo appeared with Juliette Lewis in an advertisement for The Gap, featuring the single &quot;Digital Love&quot;, and were contractually obliged to appear only in Gap clothing. In the summer of 2001, Daft Punk appeared in an advertisement on Cartoon Network&apos;s Toonami timeslot, promoting the official Toonami website and the duo&apos;s animated music videos for their album Discovery. The music videos later appeared as scenes in the feature-length film Interstella 5555: The 5tory of the 5ecret 5tar 5ystem, in which Daft Punk make a cameo appearance as their robot alter-egos. The duo later appeared in a television advertisement wearing their Discovery-era headgear to promote Sony Ericsson&apos;s Premini mobile phone. Their robotic costumes also make an appearance in the &quot;Masterclass&quot; section on Gonzales&apos; 2006 DVD release From Major to Minor. In 2010, Daft Punk appeared in Adidas advertisements promoting a Star Wars-themed clothing line. 
+The duo has also been acknowledged in works by other artists. &quot;Losing My Edge&quot;, the first single by LCD Soundsystem, bragged about being the first to &quot;play Daft Punk to the rock kids.&quot; LCD Soundsystem also recorded the song &quot;Daft Punk Is Playing at My House&quot;, which reached No. 29 in the UK and was nominated for the 2006 Grammy Award for Best Dance Recording. The Soulwax remix of the song also contains samples of many Daft Punk tracks as well as tracks by Thomas Bangalter. The song &quot;Number 1 Girl&quot; by the Dutch music project Le Le mentions the names Thomas Bangalter and Guy-Manuel de Homem-Christo among other producers and artists. In the Flight of the Conchords episode &quot;Sally&quot;, a music video for the Flight of the Conchords song &quot;Robots&quot; is shot with homemade robot costumes fashioned by the band&apos;s manager, Murray. Jemaine comments, &quot;It doesn&apos;t look like Daft Punk. We wanted ones like Daft Punk.&quot; 
+A number of Daft Punk tracks have been sampled or covered by other artists. &quot;Technologic&quot; was sampled by Swizz Beatz for the Busta Rhymes song &quot;Touch It&quot;. In a later remix of &quot;Touch It&quot; the line touch it, bring it, pay it, watch it, turn it, leave it, start, format it from &quot;Technologic&quot; was sung by R&amp;B and rap artist Missy Elliott. Kanye West&apos;s 2007 song &quot;Stronger&quot; from the album Graduation features a vocal sample of Daft Punk&apos;s &quot;Harder, Better, Faster, Stronger&quot;. Daft Punk&apos;s robotic costumes make an appearance in the music video for &quot;Stronger&quot;. The track &quot;Daftendirekt&quot; from Daft Punk&apos;s album Homework was sampled for the Janet Jackson song &quot;So Much Betta&quot; from her 2008 album Discipline. The track &quot;Aerodynamic&quot; was sampled for Wiley&apos;s 2008 single &quot;Summertime&quot;. &quot;Veridis Quo&quot; from the album Discovery was sampled for the Jazmine Sullivan song &quot;Dream Big&quot; from her 2008 album Fearless. DJs Marc Mysterio and Téo Moss released a cover version of &quot;One More Time&quot; featuring the vocals of Yardi Don. Daft Punk&apos;s &quot;Around the World&quot; was sampled for JoJo&apos;s 2009 song &quot;You Take Me (Around the World)&quot;. The song &quot;Cowboy George&quot; by The Fall contains a clip of &quot;Harder, Better, Faster, Stronger&quot;. 
+Daft Punk has also produced music for other artists. They produced the Teriyaki Boyz&apos;s debut single &quot;HeartBreaker&quot; on the album Beef or Chicken?. The song contains a sample of &quot;Human After All&quot;. Daft Punk later produced N.E.R.D&apos;s song &quot;Hypnotize U&quot;. Daft Punk are featured on the cover of the December 2010 issue of British publication Dazed &amp; Confused to promote the film Tron: Legacy, for which the duo composed the score. They also made a cameo appearance within the film as masked DJs at the &quot;End of Line&quot; nightclub. 
+In 2011, Coca-Cola distributed Limited Edition Coca-Cola bottles designed by Daft Punk (called Daft Coke). They were only sold in France. A newer version of these themed bottles now exist as collectors items, some parts of the bottles such as the cap and Coke logo being plated in gold. In a December 2012 episode of The Simpsons titled &quot;The Day The Earth Stood Cool&quot;, recurring character Disco Stu wears an outfit which is very similar in design to Bangalter&apos;s.</string> 
+     </void> 
+     <void property="type"> 
+      <string>cc-by-sa</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://en.wikipedia.org/wiki/Daft_Punk</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.biography.EchonestBiography"> 
+     <void property="site"> 
+      <string>amazon</string> 
+     </void> 
+     <void property="text"> 
+      <string>From Daft Punk’s first single release in 1993, Guy-Manuel de ...</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.amazon.com/Daft-Punk/e/B000APYLFU/</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.biography.EchonestBiography"> 
+     <void property="site"> 
+      <string>mog</string> 
+     </void> 
+     <void property="text"> 
+      <string>In similar company with new-school French progressive dance artists such ...</string> 
+     </void> 
+     <void property="type"> 
+      <string>all-rights-reserved</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://mog.com/artists/bio/mn7366/daft%20punk</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.biography.EchonestBiography"> 
+     <void property="site"> 
+      <string>facebook</string> 
+     </void> 
+     <void property="text"> 
+      <string>Thomas Bangalter and Guy-Manuel de Homem-Christo met on the grounds ...</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://graph.facebook.com/22476490672</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.biography.EchonestBiography"> 
+     <void property="site"> 
+      <string>rdio</string> 
+     </void> 
+     <void property="text"> 
+      <string>In similar company with French progressive dance artists such as ...</string> 
+     </void> 
+     <void property="type"> 
+      <string>all-rights-reserved</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.rdio.com/artist/Daft_Punk/</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.biography.EchonestBiography"> 
+     <void property="site"> 
+      <string>itunes</string> 
+     </void> 
+     <void property="text"> 
+      <string>In similar company with new-school French progressive dance artists such ...</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+     <void property="url"> 
+      <string>https://itunes.apple.com/us/artist/daft-punk/id5468295</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.biography.EchonestBiography"> 
+     <void property="site"> 
+      <string>youtube</string> 
+     </void> 
+     <void property="text"> 
+      <string>In similar company with new-school French progressive dance artists such ...</string> 
+     </void> 
+     <void property="type"> 
+      <string>all-rights-reserved</string> 
+     </void> 
+     <void property="url"> 
+      <string>http://www.youtube.com/artist/daft-punk/about</string> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="familiarity"> 
+   <float>0.902918</float> 
+  </void> 
+  <void property="hotness"> 
+   <float>0.621612</float> 
+  </void> 
+  <void property="images"> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/500/4183432/Daft+Punk+daftpunk_1.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>cc-by-sa</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/6941555/Daft+Punk+Flowers.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/2667294/Daft+Punk+1056923250_3fff91070b.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/53337435/Daft+Punk+dp.png</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/49459747/Daft+Punk+Discovery.png</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/500/55294149/Daft+Punk+Tron.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/7316401/Daft+Punk+daft1.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/7286909/Daft+Punk+daftpunk1.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/13611885/Daft+Punk+dp1.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/55204979/Daft+Punk+tumblr_lcstbw3Y0t1qavzpbo1_500.gif</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/10330931/Daft+Punk.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/500/7808825/Daft+Punk+DaftPunkRobots.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/49178177/Daft+Punk+DP.png</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/16071149/Daft+Punk+daftpunk.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/17920593/Daft+Punk+daftpunk4.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/56937957/Daft+Punk+tumblr_lej4zeK6nP1qaeclvo1_500.gif</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/500/8582825/Daft+Punk+scan100192sv2_s1.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/500/29604963/Daft+Punk+DaftPunkAlive.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/500/53347663/Daft+Punk+Madison+Square+Garden+10202010.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/2444490/Daft+Punk.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/8250249/Daft+Punk+4183432.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/18619553/Daft+Punk+16.gif</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/30628683/Daft+Punk+Dafty.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/55593755/Daft+Punk+Tron+Premiere.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/56147679/Daft+Punk+balenciaga2.png</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/500/55505685/Daft+Punk+Derezzed+video.png</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/20763041/Daft+Punk+daftpunk.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/56941513/Daft+Punk+Tron+DP+GIF.gif</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/2667256/Daft+Punk+dp.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/6316669/Daft+Punk.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/500/8401501/Daft+Punk+HIDE.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/5113768/Daft+Punk++Card.gif</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/47605201/Daft+Punk.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/53813019/Daft+Punk+Alive.png</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/41814737/Daft+Punk+Wireless.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/8400605/Daft+Punk+daft3.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/8355161/Daft+Punk+DaftPunk.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/500/12227679/Daft+Punk.png</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/16293385/Daft+Punk+daftpunk.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/500/17746345/Daft+Punk+DSC01990.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/22554887/Daft+Punk+daftpunkedpaschke.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/13612083/Daft+Punk+dp6.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/30241767/Daft+Punk+1.png</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/55810095/Daft+Punk+dafp.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/4361099/Daft+Punk+daftpunkplayboy.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/500/12227703/Daft+Punk++3.png</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/29264069/Daft+Punk+Mice.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/500/30919321/Daft+Punk+Alive+07.png</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/16365143/Daft+Punk+metroos.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/500/55662619/Daft+Punk+Tron+Legacy+Photo+3.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/500/8250383/Daft+Punk+daftpunkmotorbikeomfglohk2.gif</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/55593807/Daft+Punk+Tron+Premiere.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/500/22554693/Daft+Punk+DaftPunk.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/7286895/Daft+Punk.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/5089639/Daft+Punk+daft+food.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/13612121/Daft+Punk+dp7.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/32790819/Daft+Punk+daftpunk.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/16293415/Daft+Punk+dp_human.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/30799577/Daft+Punk+5671462.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.echonest.image.EchonestImage"> 
+     <void property="imageUrl"> 
+      <string>http://userserve-ak.last.fm/serve/_/12317617/Daft+Punk+daft_punk11.jpg</string> 
+     </void> 
+     <void property="type"> 
+      <string>unknown</string> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="similarArtistNames"> 
+   <void method="add"> 
+    <string>Cassius</string> 
+   </void> 
+   <void method="add"> 
+    <string>Basement Jaxx</string> 
+   </void> 
+   <void method="add"> 
+    <string>Les Rythmes Digitales</string> 
+   </void> 
+   <void method="add"> 
+    <string>Justice</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Chemical Brothers</string> 
+   </void> 
+   <void method="add"> 
+    <string>Digitalism</string> 
+   </void> 
+   <void method="add"> 
+    <string>Audio Bullys</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mirwais</string> 
+   </void> 
+   <void method="add"> 
+    <string>Simian Mobile Disco</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mylo</string> 
+   </void> 
+   <void method="add"> 
+    <string>Vitalic</string> 
+   </void> 
+   <void method="add"> 
+    <string>Thomas Bangalter</string> 
+   </void> 
+   <void method="add"> 
+    <string>Kavinsky</string> 
+   </void> 
+   <void method="add"> 
+    <string>Felix da Housecat</string> 
+   </void> 
+   <void method="add"> 
+    <string>MSTRKRFT</string> 
+   </void> 
+   <void method="add"> 
+    <string>Alex Gopher</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Bloody Beetroots</string> 
+   </void> 
+   <void method="add"> 
+    <string>Calvin Harris</string> 
+   </void> 
+   <void method="add"> 
+    <string>Boys Noize</string> 
+   </void> 
+   <void method="add"> 
+    <string>Soulwax</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mr. Oizo</string> 
+   </void> 
+   <void method="add"> 
+    <string>Chromeo</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dirty Vegas</string> 
+   </void> 
+   <void method="add"> 
+    <string>Tiga</string> 
+   </void> 
+   <void method="add"> 
+    <string>Étienne de Crécy</string> 
+   </void> 
+   <void method="add"> 
+    <string>Armand Van Helden</string> 
+   </void> 
+   <void method="add"> 
+    <string>Midnight Juggernauts</string> 
+   </void> 
+   <void method="add"> 
+    <string>Yuksek</string> 
+   </void> 
+   <void method="add"> 
+    <string>Daft Funk</string> 
+   </void> 
+   <void method="add"> 
+    <string>SebastiAn</string> 
+   </void> 
+   <void method="add"> 
+    <string>2 Many DJ&apos;s</string> 
+   </void> 
+   <void method="add"> 
+    <string>Sébastien Tellier</string> 
+   </void> 
+   <void method="add"> 
+    <string>Rinôçérôse</string> 
+   </void> 
+   <void method="add"> 
+    <string>Teenage Bad Girl</string> 
+   </void> 
+   <void method="add"> 
+    <string>DJ Mehdi</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Presets</string> 
+   </void> 
+   <void method="add"> 
+    <string>Danger</string> 
+   </void> 
+   <void method="add"> 
+    <string>Modjo</string> 
+   </void> 
+   <void method="add"> 
+    <string>Faithless</string> 
+   </void> 
+   <void method="add"> 
+    <string>Fischerspooner</string> 
+   </void> 
+   <void method="add"> 
+    <string>Para One</string> 
+   </void> 
+   <void method="add"> 
+    <string>Fatboy Slim</string> 
+   </void> 
+   <void method="add"> 
+    <string>Air</string> 
+   </void> 
+   <void method="add"> 
+    <string>Busy P</string> 
+   </void> 
+   <void method="add"> 
+    <string>Groove Armada</string> 
+   </void> 
+   <void method="add"> 
+    <string>Leftfield</string> 
+   </void> 
+   <void method="add"> 
+    <string>Röyksopp</string> 
+   </void> 
+   <void method="add"> 
+    <string>Surkin</string> 
+   </void> 
+   <void method="add"> 
+    <string>Does It Offend You, Yeah?</string> 
+   </void> 
+   <void method="add"> 
+    <string>Crystal Castles</string> 
+   </void> 
+   <void method="add"> 
+    <string>Underworld</string> 
+   </void> 
+   <void method="add"> 
+    <string>Le Knight Club</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Black Ghosts</string> 
+   </void> 
+   <void method="add"> 
+    <string>Timo Maas</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Whip</string> 
+   </void> 
+   <void method="add"> 
+    <string>Moby</string> 
+   </void> 
+   <void method="add"> 
+    <string>Breakbot</string> 
+   </void> 
+   <void method="add"> 
+    <string>Alan Braxe</string> 
+   </void> 
+   <void method="add"> 
+    <string>Etienne Crecy</string> 
+   </void> 
+   <void method="add"> 
+    <string>Simian</string> 
+   </void> 
+   <void method="add"> 
+    <string>Motorbass</string> 
+   </void> 
+   <void method="add"> 
+    <string>autoKratz</string> 
+   </void> 
+   <void method="add"> 
+    <string>Orbital</string> 
+   </void> 
+   <void method="add"> 
+    <string>Steve Aoki</string> 
+   </void> 
+   <void method="add"> 
+    <string>Pnau</string> 
+   </void> 
+   <void method="add"> 
+    <string>Data</string> 
+   </void> 
+   <void method="add"> 
+    <string>Cut Copy</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mint Royale</string> 
+   </void> 
+   <void method="add"> 
+    <string>Junkie XL</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Micronauts</string> 
+   </void> 
+   <void method="add"> 
+    <string>Apollo Four Forty</string> 
+   </void> 
+   <void method="add"> 
+    <string>Ratatat</string> 
+   </void> 
+   <void method="add"> 
+    <string>Feadz</string> 
+   </void> 
+   <void method="add"> 
+    <string>Fluke</string> 
+   </void> 
+   <void method="add"> 
+    <string>Shinichi Osawa</string> 
+   </void> 
+   <void method="add"> 
+    <string>Junior Senior</string> 
+   </void> 
+   <void method="add"> 
+    <string>Death in Vegas</string> 
+   </void> 
+   <void method="add"> 
+    <string>Grum</string> 
+   </void> 
+   <void method="add"> 
+    <string>Benjamin Diamond</string> 
+   </void> 
+   <void method="add"> 
+    <string>Bob Sinclar</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Toxic Avenger</string> 
+   </void> 
+   <void method="add"> 
+    <string>FC Kahuna</string> 
+   </void> 
+   <void method="add"> 
+    <string>Empire of the Sun</string> 
+   </void> 
+   <void method="add"> 
+    <string>Boom Boom Satellites</string> 
+   </void> 
+   <void method="add"> 
+    <string>Deep Dish</string> 
+   </void> 
+   <void method="add"> 
+    <string>David Guetta</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Prodigy</string> 
+   </void> 
+   <void method="add"> 
+    <string>Propellerheads</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mr. Flash</string> 
+   </void> 
+   <void method="add"> 
+    <string>Bag Raiders</string> 
+   </void> 
+   <void method="add"> 
+    <string>Planet Funk</string> 
+   </void> 
+   <void method="add"> 
+    <string>Crookers</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dimitri From Paris</string> 
+   </void> 
+   <void method="add"> 
+    <string>Rex the Dog</string> 
+   </void> 
+   <void method="add"> 
+    <string>Puzique</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Supermen Lovers</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Crystal Method</string> 
+   </void> 
+   <void method="add"> 
+    <string>Uffie</string> 
+   </void> 
+   <void method="add"> 
+    <string>Birdy Nam Nam</string> 
+   </void> 
+  </void> 
+  <void property="similarArtists"> 
+   <void method="put"> 
+    <string>cassius</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>basement jaxx</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>les rythmes digitales</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>justice</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>the chemical brothers</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>digitalism</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>audio bullys</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>mirwais</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>simian mobile disco</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>mylo</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>vitalic</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>thomas bangalter</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>kavinsky</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>felix da housecat</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>mstrkrft</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>alex gopher</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>the bloody beetroots</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>calvin harris</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>boys noize</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>soulwax</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>mr. oizo</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>chromeo</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>dirty vegas</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>tiga</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>étienne de crécy</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>armand van helden</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>midnight juggernauts</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>yuksek</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>daft funk</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>sebastian</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>2 many dj&apos;s</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>sébastien tellier</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>rinôçérôse</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>teenage bad girl</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>dj mehdi</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>the presets</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>danger</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>modjo</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>faithless</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>fischerspooner</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>para one</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>fatboy slim</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>air</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>busy p</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>groove armada</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>leftfield</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>röyksopp</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>surkin</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>does it offend you, yeah?</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>crystal castles</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>underworld</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>le knight club</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>the black ghosts</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>timo maas</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>the whip</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>moby</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>breakbot</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>alan braxe</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>etienne crecy</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>simian</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>motorbass</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>autokratz</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>orbital</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>steve aoki</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>pnau</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>data</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>cut copy</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>mint royale</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>junkie xl</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>the micronauts</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>apollo four forty</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>ratatat</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>feadz</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>fluke</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>shinichi osawa</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>junior senior</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>death in vegas</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>grum</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>benjamin diamond</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>bob sinclar</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>the toxic avenger</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>fc kahuna</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>empire of the sun</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>boom boom satellites</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>deep dish</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>david guetta</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>the prodigy</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>propellerheads</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>mr. flash</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>bag raiders</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>planet funk</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>crookers</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>dimitri from paris</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>rex the dog</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>puzique</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>the supermen lovers</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>the crystal method</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>uffie</string> 
+    <float>1.0</float> 
+   </void> 
+   <void method="put"> 
+    <string>birdy nam nam</string> 
+    <float>1.0</float> 
+   </void> 
+  </void> 
+  <void property="urls"> 
+   <object class="java.util.HashMap"> 
+    <void method="put"> 
+     <string>itunes_url</string> 
+     <string>http://itunes.com/DaftPunk</string> 
+    </void> 
+    <void method="put"> 
+     <string>amazon_url</string> 
+     <string>http://www.amazon.com/gp/search?ie=UTF8&amp;keywords=Daft Punk&amp;tag=httpechonecom-20&amp;index=music</string> 
+    </void> 
+    <void method="put"> 
+     <string>wikipedia_url</string> 
+     <string>http://en.wikipedia.org/wiki/Daft_Punk</string> 
+    </void> 
+    <void method="put"> 
+     <string>mb_url</string> 
+     <string>http://musicbrainz.org/artist/056e4f3e-d505-4dad-8ec1-d04f521cbb56.html</string> 
+    </void> 
+    <void method="put"> 
+     <string>lastfm_url</string> 
+     <string>http://www.last.fm/music/Daft+Punk</string> 
+    </void> 
+    <void method="put"> 
+     <string>myspace_url</string> 
+     <string>http://www.myspace.com/daftpunk</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="valid"> 
+   <boolean>true</boolean> 
+  </void> 
+ </object> 
+</java> 

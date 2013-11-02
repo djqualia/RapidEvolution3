@@ -1,0 +1,1530 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_21" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.billboard.artist.BillboardArtistProfile"> 
+  <void property="artistName"> 
+   <string>Daft Punk</string> 
+  </void> 
+  <void property="chartEntries"> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-05-08</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>30</int> 
+     </void> 
+     <void property="song"> 
+      <string>One More Time</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>15</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-05-01</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>44</int> 
+     </void> 
+     <void property="song"> 
+      <string>Harder, Better, Faster, Stronger</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>5</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-05-01</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>30</int> 
+     </void> 
+     <void property="song"> 
+      <string>One More Time</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>14</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-04-24</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>44</int> 
+     </void> 
+     <void property="song"> 
+      <string>Harder, Better, Faster, Stronger</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>4</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-04-24</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>30</int> 
+     </void> 
+     <void property="song"> 
+      <string>One More Time</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>13</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-04-17</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>30</int> 
+     </void> 
+     <void property="song"> 
+      <string>One More Time</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>12</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-04-17</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>44</int> 
+     </void> 
+     <void property="song"> 
+      <string>Harder, Better, Faster, Stronger</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>3</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-04-10</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>44</int> 
+     </void> 
+     <void property="song"> 
+      <string>Harder, Better, Faster, Stronger</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>2</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-04-10</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>30</int> 
+     </void> 
+     <void property="song"> 
+      <string>One More Time</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>11</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-04-03</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>44</int> 
+     </void> 
+     <void property="song"> 
+      <string>Harder, Better, Faster, Stronger</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>1</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-04-03</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>30</int> 
+     </void> 
+     <void property="song"> 
+      <string>One More Time</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>10</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-03-27</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>35</int> 
+     </void> 
+     <void property="song"> 
+      <string>One More Time</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>9</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-03-20</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>35</int> 
+     </void> 
+     <void property="song"> 
+      <string>One More Time</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>9</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-03-13</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>37</int> 
+     </void> 
+     <void property="song"> 
+      <string>One More Time</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>7</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-03-06</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>37</int> 
+     </void> 
+     <void property="song"> 
+      <string>One More Time</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>7</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-02-27</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>37</int> 
+     </void> 
+     <void property="song"> 
+      <string>One More Time</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>7</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-02-20</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>37</int> 
+     </void> 
+     <void property="song"> 
+      <string>One More Time</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>7</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-02-06</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>37</int> 
+     </void> 
+     <void property="song"> 
+      <string>One More Time</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>7</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-01-30</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>37</int> 
+     </void> 
+     <void property="song"> 
+      <string>One More Time</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>7</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2010-01-23</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Electronic Digital Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>37</int> 
+     </void> 
+     <void property="song"> 
+      <string>One More Time</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1099</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>7</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>DAFT PUNK</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-12-31</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance Singles Sales Artist</string> 
+     </void> 
+     <void property="label"> 
+      <string></string> 
+     </void> 
+     <void property="song"> 
+      <string></string> 
+     </void> 
+     <void property="specId"> 
+      <int>1001</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Decade-end Artists</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-12-31</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance/Club Play Songs</string> 
+     </void> 
+     <void property="label"> 
+      <string></string> 
+     </void> 
+     <void property="song"> 
+      <string>ONE MORE TIME</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1048</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Decade-end Singles</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-12-31</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Dance Singles Sales</string> 
+     </void> 
+     <void property="label"> 
+      <string></string> 
+     </void> 
+     <void property="song"> 
+      <string>ONE MORE TIME</string> 
+     </void> 
+     <void property="specId"> 
+      <int>1050</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Decade-end Singles</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-05-16</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>69</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-05-09</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>68</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-05-02</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>67</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-04-25</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>66</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-04-18</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>65</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-04-11</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>64</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-04-04</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>63</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-03-28</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>62</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-03-21</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>61</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-03-14</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>60</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-03-07</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>59</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-02-28</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Digital Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="song"> 
+      <string>Musique Vol. I: 1993-2005</string> 
+     </void> 
+     <void property="specId"> 
+      <int>400</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>1</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-02-28</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Pop Catalog</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>35</int> 
+     </void> 
+     <void property="song"> 
+      <string>Musique Vol. I: 1993-2005</string> 
+     </void> 
+     <void property="specId"> 
+      <int>332</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>1</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-02-28</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>58</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-02-07</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>57</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-01-31</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>56</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-01-24</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>55</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-01-17</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>54</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-01-10</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>53</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2009-01-03</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>52</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2008-12-31</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Dance/Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string></string> 
+     </void> 
+     <void property="song"> 
+      <string>ALIVE 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>442</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Year-end Albums</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>DAFT PUNK</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2008-12-31</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Dance/Electronic Artists</string> 
+     </void> 
+     <void property="label"> 
+      <string></string> 
+     </void> 
+     <void property="song"> 
+      <string></string> 
+     </void> 
+     <void property="specId"> 
+      <int>738</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Year-end Top Artists</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2008-12-27</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>51</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2008-12-20</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>50</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2008-12-13</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>49</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2008-12-06</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>48</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Daft Punk</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>2008-11-29</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Top Electronic Albums</string> 
+     </void> 
+     <void property="label"> 
+      <string>Capitol</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Alive 2007</string> 
+     </void> 
+     <void property="specId"> 
+      <int>322</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Albums</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>47</int> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="valid"> 
+   <boolean>true</boolean> 
+  </void> 
+ </object> 
+</java> 

@@ -1,0 +1,33 @@
+            @import "../dojo/resources/dojo.css";
+            @import "../dijit/themes/claro/claro.css";
+            @import "../dojox/grid/enhanced/resources/claroEnhancedGrid.css";
+            @import "../dojox/grid/enhanced/resources/EnhancedGrid_rtl.css";            
+            @import "../dojox/form/resources/Rating.css";            
+            @import "../dojox/layout/resources/FloatingPane.css";
+            @import "../dojox/layout/resources/ResizeHandle.css";            
+            
+            .dojoxGrid table { 
+            	margin: 0; 
+            } 
+            html, body { 
+            	width: 100%; 
+            	height: 100%;
+            	margin: 0;
+            	overflow: hidden; 
+            }            
+            #searchQuery {            	
+            	width: 100%;
+            }
+            #searchType {				
+            }            
+            .searchBar {
+            	height: 25px;
+            }	  
+            #searchGrid {
+            	width: 95%; 
+            	height: 95%;
+            }
+            .searchIcon {
+            	height: 15px;
+            	margin-top: 2px;
+            }

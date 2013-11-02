@@ -1,0 +1,2730 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_21" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.discogs.artist.DiscogsArtist"> 
+  <void property="aliases"> 
+   <void method="add"> 
+    <string>Blue Calx (2)</string> 
+   </void> 
+   <void method="add"> 
+    <string>Bradley Strider</string> 
+   </void> 
+   <void method="add"> 
+    <string>Brian Tregaskin</string> 
+   </void> 
+   <void method="add"> 
+    <string>Caustic Window</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dice Man, The</string> 
+   </void> 
+   <void method="add"> 
+    <string>GAK</string> 
+   </void> 
+   <void method="add"> 
+    <string>Karen Tregaskin</string> 
+   </void> 
+   <void method="add"> 
+    <string>PBoD</string> 
+   </void> 
+   <void method="add"> 
+    <string>Polygon Window</string> 
+   </void> 
+   <void method="add"> 
+    <string>Power-Pill</string> 
+   </void> 
+   <void method="add"> 
+    <string>Q-Chastic</string> 
+   </void> 
+   <void method="add"> 
+    <string>Richard D. James</string> 
+   </void> 
+   <void method="add"> 
+    <string>Smojphace</string> 
+   </void> 
+   <void method="add"> 
+    <string>Soit-P.P.</string> 
+   </void> 
+   <void method="add"> 
+    <string>Tuss, The</string> 
+   </void> 
+  </void> 
+  <void property="appearsOnReleases"> 
+   <void method="add"> 
+    <string>261530</string> 
+   </void> 
+   <void method="add"> 
+    <string>1605238</string> 
+   </void> 
+   <void method="add"> 
+    <string>118471</string> 
+   </void> 
+   <void method="add"> 
+    <string>17822</string> 
+   </void> 
+   <void method="add"> 
+    <string>1353345</string> 
+   </void> 
+   <void method="add"> 
+    <string>27971</string> 
+   </void> 
+   <void method="add"> 
+    <string>962958</string> 
+   </void> 
+   <void method="add"> 
+    <string>43077</string> 
+   </void> 
+   <void method="add"> 
+    <string>805767</string> 
+   </void> 
+   <void method="add"> 
+    <string>1819205</string> 
+   </void> 
+   <void method="add"> 
+    <string>1832167</string> 
+   </void> 
+   <void method="add"> 
+    <string>2057092</string> 
+   </void> 
+   <void method="add"> 
+    <string>2255357</string> 
+   </void> 
+   <void method="add"> 
+    <string>89013</string> 
+   </void> 
+   <void method="add"> 
+    <string>3313</string> 
+   </void> 
+   <void method="add"> 
+    <string>1091936</string> 
+   </void> 
+   <void method="add"> 
+    <string>2003907</string> 
+   </void> 
+   <void method="add"> 
+    <string>263056</string> 
+   </void> 
+   <void method="add"> 
+    <string>601199</string> 
+   </void> 
+   <void method="add"> 
+    <string>794967</string> 
+   </void> 
+   <void method="add"> 
+    <string>1002295</string> 
+   </void> 
+   <void method="add"> 
+    <string>1925202</string> 
+   </void> 
+   <void method="add"> 
+    <string>1823342</string> 
+   </void> 
+   <void method="add"> 
+    <string>2024521</string> 
+   </void> 
+   <void method="add"> 
+    <string>1925824</string> 
+   </void> 
+   <void method="add"> 
+    <string>1190676</string> 
+   </void> 
+   <void method="add"> 
+    <string>58135</string> 
+   </void> 
+   <void method="add"> 
+    <string>75786</string> 
+   </void> 
+   <void method="add"> 
+    <string>159664</string> 
+   </void> 
+   <void method="add"> 
+    <string>360714</string> 
+   </void> 
+   <void method="add"> 
+    <string>642188</string> 
+   </void> 
+   <void method="add"> 
+    <string>63546</string> 
+   </void> 
+   <void method="add"> 
+    <string>133756</string> 
+   </void> 
+   <void method="add"> 
+    <string>520550</string> 
+   </void> 
+   <void method="add"> 
+    <string>148239</string> 
+   </void> 
+   <void method="add"> 
+    <string>30538</string> 
+   </void> 
+   <void method="add"> 
+    <string>521434</string> 
+   </void> 
+   <void method="add"> 
+    <string>733465</string> 
+   </void> 
+   <void method="add"> 
+    <string>119043</string> 
+   </void> 
+   <void method="add"> 
+    <string>125600</string> 
+   </void> 
+   <void method="add"> 
+    <string>44683</string> 
+   </void> 
+   <void method="add"> 
+    <string>752289</string> 
+   </void> 
+   <void method="add"> 
+    <string>1209252</string> 
+   </void> 
+   <void method="add"> 
+    <string>148072</string> 
+   </void> 
+   <void method="add"> 
+    <string>62424</string> 
+   </void> 
+   <void method="add"> 
+    <string>339476</string> 
+   </void> 
+   <void method="add"> 
+    <string>4672</string> 
+   </void> 
+   <void method="add"> 
+    <string>182145</string> 
+   </void> 
+   <void method="add"> 
+    <string>159105</string> 
+   </void> 
+   <void method="add"> 
+    <string>178741</string> 
+   </void> 
+   <void method="add"> 
+    <string>47212</string> 
+   </void> 
+   <void method="add"> 
+    <string>89791</string> 
+   </void> 
+   <void method="add"> 
+    <string>341312</string> 
+   </void> 
+   <void method="add"> 
+    <string>1110686</string> 
+   </void> 
+   <void method="add"> 
+    <string>408128</string> 
+   </void> 
+   <void method="add"> 
+    <string>215515</string> 
+   </void> 
+   <void method="add"> 
+    <string>153959</string> 
+   </void> 
+   <void method="add"> 
+    <string>85763</string> 
+   </void> 
+   <void method="add"> 
+    <string>1799502</string> 
+   </void> 
+   <void method="add"> 
+    <string>70017</string> 
+   </void> 
+   <void method="add"> 
+    <string>41703</string> 
+   </void> 
+   <void method="add"> 
+    <string>592870</string> 
+   </void> 
+   <void method="add"> 
+    <string>1641609</string> 
+   </void> 
+   <void method="add"> 
+    <string>72804</string> 
+   </void> 
+   <void method="add"> 
+    <string>762660</string> 
+   </void> 
+   <void method="add"> 
+    <string>262832</string> 
+   </void> 
+   <void method="add"> 
+    <string>134403</string> 
+   </void> 
+   <void method="add"> 
+    <string>42849</string> 
+   </void> 
+   <void method="add"> 
+    <string>1875358</string> 
+   </void> 
+   <void method="add"> 
+    <string>2336994</string> 
+   </void> 
+   <void method="add"> 
+    <string>95479</string> 
+   </void> 
+   <void method="add"> 
+    <string>58578</string> 
+   </void> 
+   <void method="add"> 
+    <string>191795</string> 
+   </void> 
+   <void method="add"> 
+    <string>504913</string> 
+   </void> 
+   <void method="add"> 
+    <string>59922</string> 
+   </void> 
+   <void method="add"> 
+    <string>565190</string> 
+   </void> 
+   <void method="add"> 
+    <string>34224</string> 
+   </void> 
+   <void method="add"> 
+    <string>47765</string> 
+   </void> 
+   <void method="add"> 
+    <string>151466</string> 
+   </void> 
+   <void method="add"> 
+    <string>160023</string> 
+   </void> 
+   <void method="add"> 
+    <string>240490</string> 
+   </void> 
+   <void method="add"> 
+    <string>818888</string> 
+   </void> 
+   <void method="add"> 
+    <string>1835840</string> 
+   </void> 
+   <void method="add"> 
+    <string>970995</string> 
+   </void> 
+   <void method="add"> 
+    <string>1021496</string> 
+   </void> 
+   <void method="add"> 
+    <string>108893</string> 
+   </void> 
+   <void method="add"> 
+    <string>34651</string> 
+   </void> 
+   <void method="add"> 
+    <string>371164</string> 
+   </void> 
+   <void method="add"> 
+    <string>85213</string> 
+   </void> 
+   <void method="add"> 
+    <string>1561234</string> 
+   </void> 
+   <void method="add"> 
+    <string>1046673</string> 
+   </void> 
+   <void method="add"> 
+    <string>239798</string> 
+   </void> 
+   <void method="add"> 
+    <string>23180</string> 
+   </void> 
+   <void method="add"> 
+    <string>155923</string> 
+   </void> 
+   <void method="add"> 
+    <string>221912</string> 
+   </void> 
+   <void method="add"> 
+    <string>199520</string> 
+   </void> 
+   <void method="add"> 
+    <string>354170</string> 
+   </void> 
+   <void method="add"> 
+    <string>1929714</string> 
+   </void> 
+   <void method="add"> 
+    <string>1317274</string> 
+   </void> 
+   <void method="add"> 
+    <string>31172</string> 
+   </void> 
+   <void method="add"> 
+    <string>2206177</string> 
+   </void> 
+   <void method="add"> 
+    <string>30565</string> 
+   </void> 
+   <void method="add"> 
+    <string>189766</string> 
+   </void> 
+   <void method="add"> 
+    <string>699540</string> 
+   </void> 
+   <void method="add"> 
+    <string>33098</string> 
+   </void> 
+   <void method="add"> 
+    <string>101423</string> 
+   </void> 
+   <void method="add"> 
+    <string>196917</string> 
+   </void> 
+   <void method="add"> 
+    <string>23733</string> 
+   </void> 
+   <void method="add"> 
+    <string>42195</string> 
+   </void> 
+   <void method="add"> 
+    <string>205526</string> 
+   </void> 
+   <void method="add"> 
+    <string>1220000</string> 
+   </void> 
+   <void method="add"> 
+    <string>1565189</string> 
+   </void> 
+   <void method="add"> 
+    <string>1645548</string> 
+   </void> 
+   <void method="add"> 
+    <string>3528</string> 
+   </void> 
+   <void method="add"> 
+    <string>213901</string> 
+   </void> 
+   <void method="add"> 
+    <string>41111</string> 
+   </void> 
+   <void method="add"> 
+    <string>64327</string> 
+   </void> 
+   <void method="add"> 
+    <string>125451</string> 
+   </void> 
+   <void method="add"> 
+    <string>123528</string> 
+   </void> 
+   <void method="add"> 
+    <string>79924</string> 
+   </void> 
+   <void method="add"> 
+    <string>538968</string> 
+   </void> 
+   <void method="add"> 
+    <string>2385096</string> 
+   </void> 
+   <void method="add"> 
+    <string>33096</string> 
+   </void> 
+   <void method="add"> 
+    <string>3623</string> 
+   </void> 
+   <void method="add"> 
+    <string>1101676</string> 
+   </void> 
+   <void method="add"> 
+    <string>205416</string> 
+   </void> 
+   <void method="add"> 
+    <string>162752</string> 
+   </void> 
+   <void method="add"> 
+    <string>33099</string> 
+   </void> 
+   <void method="add"> 
+    <string>33100</string> 
+   </void> 
+   <void method="add"> 
+    <string>50199</string> 
+   </void> 
+   <void method="add"> 
+    <string>798181</string> 
+   </void> 
+   <void method="add"> 
+    <string>649108</string> 
+   </void> 
+   <void method="add"> 
+    <string>250800</string> 
+   </void> 
+   <void method="add"> 
+    <string>198372</string> 
+   </void> 
+   <void method="add"> 
+    <string>24414</string> 
+   </void> 
+   <void method="add"> 
+    <string>59059</string> 
+   </void> 
+   <void method="add"> 
+    <string>872598</string> 
+   </void> 
+   <void method="add"> 
+    <string>3998</string> 
+   </void> 
+   <void method="add"> 
+    <string>322126</string> 
+   </void> 
+   <void method="add"> 
+    <string>515378</string> 
+   </void> 
+   <void method="add"> 
+    <string>8012</string> 
+   </void> 
+   <void method="add"> 
+    <string>491776</string> 
+   </void> 
+   <void method="add"> 
+    <string>262965</string> 
+   </void> 
+   <void method="add"> 
+    <string>348730</string> 
+   </void> 
+   <void method="add"> 
+    <string>34695</string> 
+   </void> 
+   <void method="add"> 
+    <string>12664</string> 
+   </void> 
+   <void method="add"> 
+    <string>56825</string> 
+   </void> 
+   <void method="add"> 
+    <string>1257745</string> 
+   </void> 
+   <void method="add"> 
+    <string>1484632</string> 
+   </void> 
+   <void method="add"> 
+    <string>66227</string> 
+   </void> 
+   <void method="add"> 
+    <string>61245</string> 
+   </void> 
+   <void method="add"> 
+    <string>759860</string> 
+   </void> 
+   <void method="add"> 
+    <string>83714</string> 
+   </void> 
+   <void method="add"> 
+    <string>1354973</string> 
+   </void> 
+   <void method="add"> 
+    <string>58491</string> 
+   </void> 
+   <void method="add"> 
+    <string>1093452</string> 
+   </void> 
+   <void method="add"> 
+    <string>62990</string> 
+   </void> 
+   <void method="add"> 
+    <string>104217</string> 
+   </void> 
+   <void method="add"> 
+    <string>66246</string> 
+   </void> 
+   <void method="add"> 
+    <string>398252</string> 
+   </void> 
+   <void method="add"> 
+    <string>238979</string> 
+   </void> 
+   <void method="add"> 
+    <string>280241</string> 
+   </void> 
+   <void method="add"> 
+    <string>2208575</string> 
+   </void> 
+   <void method="add"> 
+    <string>258645</string> 
+   </void> 
+   <void method="add"> 
+    <string>515336</string> 
+   </void> 
+   <void method="add"> 
+    <string>575520</string> 
+   </void> 
+   <void method="add"> 
+    <string>1522971</string> 
+   </void> 
+   <void method="add"> 
+    <string>1749343</string> 
+   </void> 
+   <void method="add"> 
+    <string>803989</string> 
+   </void> 
+   <void method="add"> 
+    <string>733583</string> 
+   </void> 
+   <void method="add"> 
+    <string>700788</string> 
+   </void> 
+   <void method="add"> 
+    <string>341691</string> 
+   </void> 
+   <void method="add"> 
+    <string>2009213</string> 
+   </void> 
+   <void method="add"> 
+    <string>52532</string> 
+   </void> 
+   <void method="add"> 
+    <string>175947</string> 
+   </void> 
+   <void method="add"> 
+    <string>814225</string> 
+   </void> 
+   <void method="add"> 
+    <string>790535</string> 
+   </void> 
+   <void method="add"> 
+    <string>680048</string> 
+   </void> 
+   <void method="add"> 
+    <string>1094984</string> 
+   </void> 
+   <void method="add"> 
+    <string>2009245</string> 
+   </void> 
+   <void method="add"> 
+    <string>449833</string> 
+   </void> 
+   <void method="add"> 
+    <string>225485</string> 
+   </void> 
+   <void method="add"> 
+    <string>2179395</string> 
+   </void> 
+   <void method="add"> 
+    <string>429930</string> 
+   </void> 
+   <void method="add"> 
+    <string>179414</string> 
+   </void> 
+   <void method="add"> 
+    <string>757745</string> 
+   </void> 
+   <void method="add"> 
+    <string>142063</string> 
+   </void> 
+   <void method="add"> 
+    <string>28759</string> 
+   </void> 
+   <void method="add"> 
+    <string>637</string> 
+   </void> 
+   <void method="add"> 
+    <string>148422</string> 
+   </void> 
+   <void method="add"> 
+    <string>173265</string> 
+   </void> 
+   <void method="add"> 
+    <string>180250</string> 
+   </void> 
+   <void method="add"> 
+    <string>788660</string> 
+   </void> 
+   <void method="add"> 
+    <string>803425</string> 
+   </void> 
+   <void method="add"> 
+    <string>28760</string> 
+   </void> 
+   <void method="add"> 
+    <string>11216</string> 
+   </void> 
+   <void method="add"> 
+    <string>468513</string> 
+   </void> 
+   <void method="add"> 
+    <string>21351</string> 
+   </void> 
+   <void method="add"> 
+    <string>568095</string> 
+   </void> 
+   <void method="add"> 
+    <string>504888</string> 
+   </void> 
+   <void method="add"> 
+    <string>1950656</string> 
+   </void> 
+   <void method="add"> 
+    <string>72124</string> 
+   </void> 
+   <void method="add"> 
+    <string>1078966</string> 
+   </void> 
+   <void method="add"> 
+    <string>427257</string> 
+   </void> 
+   <void method="add"> 
+    <string>137805</string> 
+   </void> 
+   <void method="add"> 
+    <string>1465648</string> 
+   </void> 
+   <void method="add"> 
+    <string>124278</string> 
+   </void> 
+   <void method="add"> 
+    <string>1000411</string> 
+   </void> 
+   <void method="add"> 
+    <string>62133</string> 
+   </void> 
+   <void method="add"> 
+    <string>1057351</string> 
+   </void> 
+   <void method="add"> 
+    <string>580083</string> 
+   </void> 
+   <void method="add"> 
+    <string>30834</string> 
+   </void> 
+   <void method="add"> 
+    <string>2926</string> 
+   </void> 
+   <void method="add"> 
+    <string>24243</string> 
+   </void> 
+   <void method="add"> 
+    <string>150245</string> 
+   </void> 
+   <void method="add"> 
+    <string>458401</string> 
+   </void> 
+   <void method="add"> 
+    <string>796497</string> 
+   </void> 
+   <void method="add"> 
+    <string>23478</string> 
+   </void> 
+   <void method="add"> 
+    <string>801910</string> 
+   </void> 
+   <void method="add"> 
+    <string>221401</string> 
+   </void> 
+   <void method="add"> 
+    <string>238829</string> 
+   </void> 
+   <void method="add"> 
+    <string>232741</string> 
+   </void> 
+   <void method="add"> 
+    <string>377892</string> 
+   </void> 
+   <void method="add"> 
+    <string>297212</string> 
+   </void> 
+   <void method="add"> 
+    <string>8647</string> 
+   </void> 
+   <void method="add"> 
+    <string>95601</string> 
+   </void> 
+   <void method="add"> 
+    <string>518074</string> 
+   </void> 
+   <void method="add"> 
+    <string>2384500</string> 
+   </void> 
+   <void method="add"> 
+    <string>695733</string> 
+   </void> 
+   <void method="add"> 
+    <string>7943</string> 
+   </void> 
+   <void method="add"> 
+    <string>203175</string> 
+   </void> 
+   <void method="add"> 
+    <string>23399</string> 
+   </void> 
+   <void method="add"> 
+    <string>155184</string> 
+   </void> 
+   <void method="add"> 
+    <string>106765</string> 
+   </void> 
+   <void method="add"> 
+    <string>71316</string> 
+   </void> 
+   <void method="add"> 
+    <string>252431</string> 
+   </void> 
+   <void method="add"> 
+    <string>17187</string> 
+   </void> 
+   <void method="add"> 
+    <string>53962</string> 
+   </void> 
+   <void method="add"> 
+    <string>1511825</string> 
+   </void> 
+   <void method="add"> 
+    <string>201562</string> 
+   </void> 
+   <void method="add"> 
+    <string>1513694</string> 
+   </void> 
+   <void method="add"> 
+    <string>2042651</string> 
+   </void> 
+   <void method="add"> 
+    <string>104571</string> 
+   </void> 
+   <void method="add"> 
+    <string>1703347</string> 
+   </void> 
+   <void method="add"> 
+    <string>111102</string> 
+   </void> 
+   <void method="add"> 
+    <string>565185</string> 
+   </void> 
+   <void method="add"> 
+    <string>644611</string> 
+   </void> 
+   <void method="add"> 
+    <string>496074</string> 
+   </void> 
+   <void method="add"> 
+    <string>1088034</string> 
+   </void> 
+   <void method="add"> 
+    <string>94680</string> 
+   </void> 
+   <void method="add"> 
+    <string>79356</string> 
+   </void> 
+   <void method="add"> 
+    <string>171504</string> 
+   </void> 
+   <void method="add"> 
+    <string>119845</string> 
+   </void> 
+   <void method="add"> 
+    <string>70051</string> 
+   </void> 
+   <void method="add"> 
+    <string>1328206</string> 
+   </void> 
+   <void method="add"> 
+    <string>1455622</string> 
+   </void> 
+   <void method="add"> 
+    <string>360097</string> 
+   </void> 
+   <void method="add"> 
+    <string>323495</string> 
+   </void> 
+   <void method="add"> 
+    <string>327371</string> 
+   </void> 
+   <void method="add"> 
+    <string>1893778</string> 
+   </void> 
+   <void method="add"> 
+    <string>34629</string> 
+   </void> 
+   <void method="add"> 
+    <string>134696</string> 
+   </void> 
+   <void method="add"> 
+    <string>137786</string> 
+   </void> 
+   <void method="add"> 
+    <string>169513</string> 
+   </void> 
+   <void method="add"> 
+    <string>171880</string> 
+   </void> 
+   <void method="add"> 
+    <string>644620</string> 
+   </void> 
+   <void method="add"> 
+    <string>2275652</string> 
+   </void> 
+   <void method="add"> 
+    <string>205859</string> 
+   </void> 
+   <void method="add"> 
+    <string>357407</string> 
+   </void> 
+   <void method="add"> 
+    <string>202870</string> 
+   </void> 
+   <void method="add"> 
+    <string>202871</string> 
+   </void> 
+   <void method="add"> 
+    <string>188131</string> 
+   </void> 
+   <void method="add"> 
+    <string>1486016</string> 
+   </void> 
+   <void method="add"> 
+    <string>378109</string> 
+   </void> 
+   <void method="add"> 
+    <string>1282840</string> 
+   </void> 
+   <void method="add"> 
+    <string>264117</string> 
+   </void> 
+   <void method="add"> 
+    <string>839586</string> 
+   </void> 
+   <void method="add"> 
+    <string>226819</string> 
+   </void> 
+   <void method="add"> 
+    <string>96580</string> 
+   </void> 
+   <void method="add"> 
+    <string>423791</string> 
+   </void> 
+   <void method="add"> 
+    <string>317046</string> 
+   </void> 
+   <void method="add"> 
+    <string>340984</string> 
+   </void> 
+   <void method="add"> 
+    <string>838283</string> 
+   </void> 
+   <void method="add"> 
+    <string>1668522</string> 
+   </void> 
+   <void method="add"> 
+    <string>305591</string> 
+   </void> 
+   <void method="add"> 
+    <string>365685</string> 
+   </void> 
+   <void method="add"> 
+    <string>535774</string> 
+   </void> 
+   <void method="add"> 
+    <string>1910058</string> 
+   </void> 
+   <void method="add"> 
+    <string>491037</string> 
+   </void> 
+   <void method="add"> 
+    <string>303695</string> 
+   </void> 
+   <void method="add"> 
+    <string>332251</string> 
+   </void> 
+   <void method="add"> 
+    <string>1277567</string> 
+   </void> 
+   <void method="add"> 
+    <string>329511</string> 
+   </void> 
+   <void method="add"> 
+    <string>325147</string> 
+   </void> 
+   <void method="add"> 
+    <string>1651763</string> 
+   </void> 
+   <void method="add"> 
+    <string>340864</string> 
+   </void> 
+   <void method="add"> 
+    <string>527725</string> 
+   </void> 
+   <void method="add"> 
+    <string>378185</string> 
+   </void> 
+   <void method="add"> 
+    <string>317162</string> 
+   </void> 
+   <void method="add"> 
+    <string>548697</string> 
+   </void> 
+   <void method="add"> 
+    <string>1403108</string> 
+   </void> 
+   <void method="add"> 
+    <string>560400</string> 
+   </void> 
+   <void method="add"> 
+    <string>535184</string> 
+   </void> 
+   <void method="add"> 
+    <string>525109</string> 
+   </void> 
+   <void method="add"> 
+    <string>534972</string> 
+   </void> 
+   <void method="add"> 
+    <string>2043245</string> 
+   </void> 
+   <void method="add"> 
+    <string>560670</string> 
+   </void> 
+   <void method="add"> 
+    <string>507680</string> 
+   </void> 
+   <void method="add"> 
+    <string>561909</string> 
+   </void> 
+   <void method="add"> 
+    <string>2156303</string> 
+   </void> 
+   <void method="add"> 
+    <string>423617</string> 
+   </void> 
+   <void method="add"> 
+    <string>480029</string> 
+   </void> 
+   <void method="add"> 
+    <string>1591398</string> 
+   </void> 
+   <void method="add"> 
+    <string>703831</string> 
+   </void> 
+   <void method="add"> 
+    <string>605202</string> 
+   </void> 
+   <void method="add"> 
+    <string>478591</string> 
+   </void> 
+   <void method="add"> 
+    <string>489870</string> 
+   </void> 
+   <void method="add"> 
+    <string>517404</string> 
+   </void> 
+   <void method="add"> 
+    <string>1872260</string> 
+   </void> 
+   <void method="add"> 
+    <string>775731</string> 
+   </void> 
+   <void method="add"> 
+    <string>512308</string> 
+   </void> 
+   <void method="add"> 
+    <string>784861</string> 
+   </void> 
+   <void method="add"> 
+    <string>1066805</string> 
+   </void> 
+   <void method="add"> 
+    <string>1410619</string> 
+   </void> 
+   <void method="add"> 
+    <string>2003924</string> 
+   </void> 
+   <void method="add"> 
+    <string>496604</string> 
+   </void> 
+   <void method="add"> 
+    <string>1017133</string> 
+   </void> 
+   <void method="add"> 
+    <string>638428</string> 
+   </void> 
+   <void method="add"> 
+    <string>661470</string> 
+   </void> 
+   <void method="add"> 
+    <string>847525</string> 
+   </void> 
+   <void method="add"> 
+    <string>957393</string> 
+   </void> 
+   <void method="add"> 
+    <string>826408</string> 
+   </void> 
+   <void method="add"> 
+    <string>2012450</string> 
+   </void> 
+   <void method="add"> 
+    <string>820127</string> 
+   </void> 
+   <void method="add"> 
+    <string>1526071</string> 
+   </void> 
+   <void method="add"> 
+    <string>1929670</string> 
+   </void> 
+   <void method="add"> 
+    <string>1667336</string> 
+   </void> 
+   <void method="add"> 
+    <string>804305</string> 
+   </void> 
+   <void method="add"> 
+    <string>1709908</string> 
+   </void> 
+   <void method="add"> 
+    <string>606875</string> 
+   </void> 
+   <void method="add"> 
+    <string>615985</string> 
+   </void> 
+   <void method="add"> 
+    <string>1154546</string> 
+   </void> 
+   <void method="add"> 
+    <string>835935</string> 
+   </void> 
+   <void method="add"> 
+    <string>867352</string> 
+   </void> 
+   <void method="add"> 
+    <string>951051</string> 
+   </void> 
+   <void method="add"> 
+    <string>961672</string> 
+   </void> 
+   <void method="add"> 
+    <string>2060106</string> 
+   </void> 
+   <void method="add"> 
+    <string>2163155</string> 
+   </void> 
+   <void method="add"> 
+    <string>789227</string> 
+   </void> 
+   <void method="add"> 
+    <string>807192</string> 
+   </void> 
+   <void method="add"> 
+    <string>811937</string> 
+   </void> 
+   <void method="add"> 
+    <string>1015843</string> 
+   </void> 
+   <void method="add"> 
+    <string>703851</string> 
+   </void> 
+   <void method="add"> 
+    <string>2198955</string> 
+   </void> 
+   <void method="add"> 
+    <string>2022432</string> 
+   </void> 
+   <void method="add"> 
+    <string>1413451</string> 
+   </void> 
+   <void method="add"> 
+    <string>1146391</string> 
+   </void> 
+   <void method="add"> 
+    <string>1091214</string> 
+   </void> 
+   <void method="add"> 
+    <string>1118778</string> 
+   </void> 
+   <void method="add"> 
+    <string>1447106</string> 
+   </void> 
+   <void method="add"> 
+    <string>1779818</string> 
+   </void> 
+   <void method="add"> 
+    <string>1701225</string> 
+   </void> 
+   <void method="add"> 
+    <string>1916292</string> 
+   </void> 
+   <void method="add"> 
+    <string>950797</string> 
+   </void> 
+   <void method="add"> 
+    <string>1024506</string> 
+   </void> 
+   <void method="add"> 
+    <string>1866580</string> 
+   </void> 
+   <void method="add"> 
+    <string>1169229</string> 
+   </void> 
+   <void method="add"> 
+    <string>1055072</string> 
+   </void> 
+   <void method="add"> 
+    <string>2174067</string> 
+   </void> 
+   <void method="add"> 
+    <string>1259767</string> 
+   </void> 
+   <void method="add"> 
+    <string>1319961</string> 
+   </void> 
+   <void method="add"> 
+    <string>1528841</string> 
+   </void> 
+   <void method="add"> 
+    <string>2027807</string> 
+   </void> 
+   <void method="add"> 
+    <string>1410602</string> 
+   </void> 
+   <void method="add"> 
+    <string>1590585</string> 
+   </void> 
+   <void method="add"> 
+    <string>1653330</string> 
+   </void> 
+   <void method="add"> 
+    <string>1687597</string> 
+   </void> 
+   <void method="add"> 
+    <string>1505006</string> 
+   </void> 
+   <void method="add"> 
+    <string>1545380</string> 
+   </void> 
+   <void method="add"> 
+    <string>1545394</string> 
+   </void> 
+   <void method="add"> 
+    <string>1394457</string> 
+   </void> 
+   <void method="add"> 
+    <string>1239333</string> 
+   </void> 
+   <void method="add"> 
+    <string>1356996</string> 
+   </void> 
+   <void method="add"> 
+    <string>1620220</string> 
+   </void> 
+   <void method="add"> 
+    <string>1690213</string> 
+   </void> 
+   <void method="add"> 
+    <string>1395958</string> 
+   </void> 
+   <void method="add"> 
+    <string>1805327</string> 
+   </void> 
+   <void method="add"> 
+    <string>1528287</string> 
+   </void> 
+   <void method="add"> 
+    <string>1582064</string> 
+   </void> 
+   <void method="add"> 
+    <string>1928867</string> 
+   </void> 
+   <void method="add"> 
+    <string>1639822</string> 
+   </void> 
+   <void method="add"> 
+    <string>1995447</string> 
+   </void> 
+   <void method="add"> 
+    <string>2335009</string> 
+   </void> 
+   <void method="add"> 
+    <string>2072752</string> 
+   </void> 
+   <void method="add"> 
+    <string>1877603</string> 
+   </void> 
+   <void method="add"> 
+    <string>1944118</string> 
+   </void> 
+   <void method="add"> 
+    <string>1778479</string> 
+   </void> 
+   <void method="add"> 
+    <string>1693689</string> 
+   </void> 
+   <void method="add"> 
+    <string>1877648</string> 
+   </void> 
+   <void method="add"> 
+    <string>1931047</string> 
+   </void> 
+   <void method="add"> 
+    <string>1850119</string> 
+   </void> 
+   <void method="add"> 
+    <string>1939634</string> 
+   </void> 
+   <void method="add"> 
+    <string>2158642</string> 
+   </void> 
+   <void method="add"> 
+    <string>1926994</string> 
+   </void> 
+   <void method="add"> 
+    <string>1897233</string> 
+   </void> 
+   <void method="add"> 
+    <string>2384069</string> 
+   </void> 
+   <void method="add"> 
+    <string>2098691</string> 
+   </void> 
+   <void method="add"> 
+    <string>2268816</string> 
+   </void> 
+   <void method="add"> 
+    <string>2354569</string> 
+   </void> 
+   <void method="add"> 
+    <string>2344215</string> 
+   </void> 
+   <void method="add"> 
+    <string>2344716</string> 
+   </void> 
+   <void method="add"> 
+    <string>2357367</string> 
+   </void> 
+   <void method="add"> 
+    <string>878153</string> 
+   </void> 
+   <void method="add"> 
+    <string>952407</string> 
+   </void> 
+   <void method="add"> 
+    <string>515420</string> 
+   </void> 
+   <void method="add"> 
+    <string>516137</string> 
+   </void> 
+   <void method="add"> 
+    <string>218282</string> 
+   </void> 
+  </void> 
+  <void property="artistName"> 
+   <string>Aphex Twin</string> 
+  </void> 
+  <void property="imageURLs"> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1122852930.jpg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1126949085.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1209415630.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1216837292.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1216836705.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1094774583.jpg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1214259407.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1097005597.jpg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-005.jpg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1216832303.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1126949078.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1107949060.jpg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1216832186.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1216836796.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1176664580.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1126949071.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1126949091.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1216832287.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1216832134.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1098171105.jpg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-45-1216832195.jpeg</string> 
+   </void> 
+  </void> 
+  <void property="mixReleaseIds"> 
+   <void method="add"> 
+    <string>154097</string> 
+   </void> 
+   <void method="add"> 
+    <string>8499</string> 
+   </void> 
+   <void method="add"> 
+    <string>65945</string> 
+   </void> 
+   <void method="add"> 
+    <string>45776</string> 
+   </void> 
+   <void method="add"> 
+    <string>61008</string> 
+   </void> 
+   <void method="add"> 
+    <string>95101</string> 
+   </void> 
+  </void> 
+  <void property="nameVariations"> 
+   <void method="add"> 
+    <string>A-F-X Twin</string> 
+   </void> 
+   <void method="add"> 
+    <string>A.F.X.</string> 
+   </void> 
+   <void method="add"> 
+    <string>AFX</string> 
+   </void> 
+   <void method="add"> 
+    <string>Aphex Twin, The</string> 
+   </void> 
+   <void method="add"> 
+    <string>Aphex Twins</string> 
+   </void> 
+  </void> 
+  <void property="primaryImageURL"> 
+   <string>http://www.discogs.com/image/A-45-1122852930.jpg</string> 
+  </void> 
+  <void property="profile"> 
+   <string>Born: August 18, 1971 in Limerick, Ireland Co-owner of Rephlex records.</string> 
+  </void> 
+  <void property="realName"> 
+   <string>Richard David James</string> 
+  </void> 
+  <void property="releaseIds"> 
+   <void method="add"> 
+    <string>63114</string> 
+   </void> 
+   <void method="add"> 
+    <string>2339429</string> 
+   </void> 
+   <void method="add"> 
+    <string>13860</string> 
+   </void> 
+   <void method="add"> 
+    <string>2097562</string> 
+   </void> 
+   <void method="add"> 
+    <string>224384</string> 
+   </void> 
+   <void method="add"> 
+    <string>15607</string> 
+   </void> 
+   <void method="add"> 
+    <string>40746</string> 
+   </void> 
+   <void method="add"> 
+    <string>818314</string> 
+   </void> 
+   <void method="add"> 
+    <string>4690</string> 
+   </void> 
+   <void method="add"> 
+    <string>6580</string> 
+   </void> 
+   <void method="add"> 
+    <string>23128</string> 
+   </void> 
+   <void method="add"> 
+    <string>1737769</string> 
+   </void> 
+   <void method="add"> 
+    <string>2097550</string> 
+   </void> 
+   <void method="add"> 
+    <string>4684</string> 
+   </void> 
+   <void method="add"> 
+    <string>32662</string> 
+   </void> 
+   <void method="add"> 
+    <string>324166</string> 
+   </void> 
+   <void method="add"> 
+    <string>1545313</string> 
+   </void> 
+   <void method="add"> 
+    <string>2318107</string> 
+   </void> 
+   <void method="add"> 
+    <string>200487</string> 
+   </void> 
+   <void method="add"> 
+    <string>73721</string> 
+   </void> 
+   <void method="add"> 
+    <string>164322</string> 
+   </void> 
+   <void method="add"> 
+    <string>150539</string> 
+   </void> 
+   <void method="add"> 
+    <string>795898</string> 
+   </void> 
+   <void method="add"> 
+    <string>1303737</string> 
+   </void> 
+   <void method="add"> 
+    <string>1897777</string> 
+   </void> 
+   <void method="add"> 
+    <string>1138729</string> 
+   </void> 
+   <void method="add"> 
+    <string>1790544</string> 
+   </void> 
+   <void method="add"> 
+    <string>1788489</string> 
+   </void> 
+   <void method="add"> 
+    <string>1333386</string> 
+   </void> 
+   <void method="add"> 
+    <string>4691</string> 
+   </void> 
+   <void method="add"> 
+    <string>1820634</string> 
+   </void> 
+   <void method="add"> 
+    <string>28763</string> 
+   </void> 
+   <void method="add"> 
+    <string>4701</string> 
+   </void> 
+   <void method="add"> 
+    <string>1197347</string> 
+   </void> 
+   <void method="add"> 
+    <string>375350</string> 
+   </void> 
+   <void method="add"> 
+    <string>63200</string> 
+   </void> 
+   <void method="add"> 
+    <string>2067659</string> 
+   </void> 
+   <void method="add"> 
+    <string>28060</string> 
+   </void> 
+   <void method="add"> 
+    <string>3664</string> 
+   </void> 
+   <void method="add"> 
+    <string>414554</string> 
+   </void> 
+   <void method="add"> 
+    <string>1108487</string> 
+   </void> 
+   <void method="add"> 
+    <string>2133502</string> 
+   </void> 
+   <void method="add"> 
+    <string>6155</string> 
+   </void> 
+   <void method="add"> 
+    <string>28413</string> 
+   </void> 
+   <void method="add"> 
+    <string>1194544</string> 
+   </void> 
+   <void method="add"> 
+    <string>1463166</string> 
+   </void> 
+   <void method="add"> 
+    <string>47396</string> 
+   </void> 
+   <void method="add"> 
+    <string>13102</string> 
+   </void> 
+   <void method="add"> 
+    <string>32852</string> 
+   </void> 
+   <void method="add"> 
+    <string>1286035</string> 
+   </void> 
+   <void method="add"> 
+    <string>1640209</string> 
+   </void> 
+   <void method="add"> 
+    <string>345725</string> 
+   </void> 
+   <void method="add"> 
+    <string>2067668</string> 
+   </void> 
+   <void method="add"> 
+    <string>3636</string> 
+   </void> 
+   <void method="add"> 
+    <string>52177</string> 
+   </void> 
+   <void method="add"> 
+    <string>54978</string> 
+   </void> 
+   <void method="add"> 
+    <string>65931</string> 
+   </void> 
+   <void method="add"> 
+    <string>589396</string> 
+   </void> 
+   <void method="add"> 
+    <string>659066</string> 
+   </void> 
+   <void method="add"> 
+    <string>704310</string> 
+   </void> 
+   <void method="add"> 
+    <string>864752</string> 
+   </void> 
+   <void method="add"> 
+    <string>1077313</string> 
+   </void> 
+   <void method="add"> 
+    <string>1736288</string> 
+   </void> 
+   <void method="add"> 
+    <string>1578024</string> 
+   </void> 
+   <void method="add"> 
+    <string>15608</string> 
+   </void> 
+   <void method="add"> 
+    <string>3535</string> 
+   </void> 
+   <void method="add"> 
+    <string>25446</string> 
+   </void> 
+   <void method="add"> 
+    <string>27129</string> 
+   </void> 
+   <void method="add"> 
+    <string>215808</string> 
+   </void> 
+   <void method="add"> 
+    <string>1065958</string> 
+   </void> 
+   <void method="add"> 
+    <string>1108112</string> 
+   </void> 
+   <void method="add"> 
+    <string>1145177</string> 
+   </void> 
+   <void method="add"> 
+    <string>1511134</string> 
+   </void> 
+   <void method="add"> 
+    <string>30201</string> 
+   </void> 
+   <void method="add"> 
+    <string>354741</string> 
+   </void> 
+   <void method="add"> 
+    <string>968067</string> 
+   </void> 
+   <void method="add"> 
+    <string>1164206</string> 
+   </void> 
+   <void method="add"> 
+    <string>1301154</string> 
+   </void> 
+   <void method="add"> 
+    <string>160224</string> 
+   </void> 
+   <void method="add"> 
+    <string>62679</string> 
+   </void> 
+   <void method="add"> 
+    <string>830</string> 
+   </void> 
+   <void method="add"> 
+    <string>2702</string> 
+   </void> 
+   <void method="add"> 
+    <string>118405</string> 
+   </void> 
+   <void method="add"> 
+    <string>188144</string> 
+   </void> 
+   <void method="add"> 
+    <string>1032494</string> 
+   </void> 
+   <void method="add"> 
+    <string>1163346</string> 
+   </void> 
+   <void method="add"> 
+    <string>1994055</string> 
+   </void> 
+   <void method="add"> 
+    <string>205452</string> 
+   </void> 
+   <void method="add"> 
+    <string>215747</string> 
+   </void> 
+   <void method="add"> 
+    <string>1136236</string> 
+   </void> 
+   <void method="add"> 
+    <string>911029</string> 
+   </void> 
+   <void method="add"> 
+    <string>1356107</string> 
+   </void> 
+   <void method="add"> 
+    <string>1941115</string> 
+   </void> 
+   <void method="add"> 
+    <string>3663</string> 
+   </void> 
+   <void method="add"> 
+    <string>13473</string> 
+   </void> 
+   <void method="add"> 
+    <string>175108</string> 
+   </void> 
+   <void method="add"> 
+    <string>346749</string> 
+   </void> 
+   <void method="add"> 
+    <string>881667</string> 
+   </void> 
+   <void method="add"> 
+    <string>1089095</string> 
+   </void> 
+   <void method="add"> 
+    <string>136</string> 
+   </void> 
+   <void method="add"> 
+    <string>137</string> 
+   </void> 
+   <void method="add"> 
+    <string>825604</string> 
+   </void> 
+   <void method="add"> 
+    <string>442426</string> 
+   </void> 
+   <void method="add"> 
+    <string>45473</string> 
+   </void> 
+   <void method="add"> 
+    <string>182628</string> 
+   </void> 
+   <void method="add"> 
+    <string>27983</string> 
+   </void> 
+   <void method="add"> 
+    <string>13352</string> 
+   </void> 
+   <void method="add"> 
+    <string>17369</string> 
+   </void> 
+   <void method="add"> 
+    <string>47160</string> 
+   </void> 
+   <void method="add"> 
+    <string>1137497</string> 
+   </void> 
+   <void method="add"> 
+    <string>1498580</string> 
+   </void> 
+   <void method="add"> 
+    <string>1506213</string> 
+   </void> 
+   <void method="add"> 
+    <string>2123110</string> 
+   </void> 
+   <void method="add"> 
+    <string>1485451</string> 
+   </void> 
+   <void method="add"> 
+    <string>28448</string> 
+   </void> 
+   <void method="add"> 
+    <string>629191</string> 
+   </void> 
+   <void method="add"> 
+    <string>3665</string> 
+   </void> 
+   <void method="add"> 
+    <string>28546</string> 
+   </void> 
+   <void method="add"> 
+    <string>1256917</string> 
+   </void> 
+   <void method="add"> 
+    <string>757</string> 
+   </void> 
+   <void method="add"> 
+    <string>27984</string> 
+   </void> 
+   <void method="add"> 
+    <string>605041</string> 
+   </void> 
+   <void method="add"> 
+    <string>2378672</string> 
+   </void> 
+   <void method="add"> 
+    <string>219058</string> 
+   </void> 
+   <void method="add"> 
+    <string>487059</string> 
+   </void> 
+   <void method="add"> 
+    <string>62499</string> 
+   </void> 
+   <void method="add"> 
+    <string>1674107</string> 
+   </void> 
+   <void method="add"> 
+    <string>3534</string> 
+   </void> 
+   <void method="add"> 
+    <string>30849</string> 
+   </void> 
+   <void method="add"> 
+    <string>36920</string> 
+   </void> 
+   <void method="add"> 
+    <string>206403</string> 
+   </void> 
+   <void method="add"> 
+    <string>379707</string> 
+   </void> 
+   <void method="add"> 
+    <string>442102</string> 
+   </void> 
+   <void method="add"> 
+    <string>542682</string> 
+   </void> 
+   <void method="add"> 
+    <string>567865</string> 
+   </void> 
+   <void method="add"> 
+    <string>796257</string> 
+   </void> 
+   <void method="add"> 
+    <string>821842</string> 
+   </void> 
+   <void method="add"> 
+    <string>1250319</string> 
+   </void> 
+   <void method="add"> 
+    <string>1614383</string> 
+   </void> 
+   <void method="add"> 
+    <string>1636160</string> 
+   </void> 
+   <void method="add"> 
+    <string>1749564</string> 
+   </void> 
+   <void method="add"> 
+    <string>436034</string> 
+   </void> 
+   <void method="add"> 
+    <string>1322637</string> 
+   </void> 
+   <void method="add"> 
+    <string>43694</string> 
+   </void> 
+   <void method="add"> 
+    <string>97039</string> 
+   </void> 
+   <void method="add"> 
+    <string>52184</string> 
+   </void> 
+   <void method="add"> 
+    <string>3662</string> 
+   </void> 
+   <void method="add"> 
+    <string>6157</string> 
+   </void> 
+   <void method="add"> 
+    <string>28699</string> 
+   </void> 
+   <void method="add"> 
+    <string>52731</string> 
+   </void> 
+   <void method="add"> 
+    <string>329399</string> 
+   </void> 
+   <void method="add"> 
+    <string>343023</string> 
+   </void> 
+   <void method="add"> 
+    <string>534520</string> 
+   </void> 
+   <void method="add"> 
+    <string>1167534</string> 
+   </void> 
+   <void method="add"> 
+    <string>1272305</string> 
+   </void> 
+   <void method="add"> 
+    <string>1511138</string> 
+   </void> 
+   <void method="add"> 
+    <string>1626674</string> 
+   </void> 
+   <void method="add"> 
+    <string>399770</string> 
+   </void> 
+   <void method="add"> 
+    <string>28701</string> 
+   </void> 
+   <void method="add"> 
+    <string>76381</string> 
+   </void> 
+   <void method="add"> 
+    <string>360077</string> 
+   </void> 
+   <void method="add"> 
+    <string>798311</string> 
+   </void> 
+   <void method="add"> 
+    <string>839805</string> 
+   </void> 
+   <void method="add"> 
+    <string>611166</string> 
+   </void> 
+   <void method="add"> 
+    <string>19290</string> 
+   </void> 
+   <void method="add"> 
+    <string>3666</string> 
+   </void> 
+   <void method="add"> 
+    <string>6156</string> 
+   </void> 
+   <void method="add"> 
+    <string>52198</string> 
+   </void> 
+   <void method="add"> 
+    <string>76375</string> 
+   </void> 
+   <void method="add"> 
+    <string>166064</string> 
+   </void> 
+   <void method="add"> 
+    <string>171562</string> 
+   </void> 
+   <void method="add"> 
+    <string>214722</string> 
+   </void> 
+   <void method="add"> 
+    <string>360082</string> 
+   </void> 
+   <void method="add"> 
+    <string>532764</string> 
+   </void> 
+   <void method="add"> 
+    <string>789599</string> 
+   </void> 
+   <void method="add"> 
+    <string>805350</string> 
+   </void> 
+   <void method="add"> 
+    <string>1231023</string> 
+   </void> 
+   <void method="add"> 
+    <string>1267450</string> 
+   </void> 
+   <void method="add"> 
+    <string>1511140</string> 
+   </void> 
+   <void method="add"> 
+    <string>1535309</string> 
+   </void> 
+   <void method="add"> 
+    <string>1775938</string> 
+   </void> 
+   <void method="add"> 
+    <string>419041</string> 
+   </void> 
+   <void method="add"> 
+    <string>8433</string> 
+   </void> 
+   <void method="add"> 
+    <string>19175</string> 
+   </void> 
+   <void method="add"> 
+    <string>1166856</string> 
+   </void> 
+   <void method="add"> 
+    <string>1259900</string> 
+   </void> 
+   <void method="add"> 
+    <string>1259901</string> 
+   </void> 
+   <void method="add"> 
+    <string>1423154</string> 
+   </void> 
+   <void method="add"> 
+    <string>13965</string> 
+   </void> 
+   <void method="add"> 
+    <string>13966</string> 
+   </void> 
+   <void method="add"> 
+    <string>41386</string> 
+   </void> 
+   <void method="add"> 
+    <string>123948</string> 
+   </void> 
+   <void method="add"> 
+    <string>149372</string> 
+   </void> 
+   <void method="add"> 
+    <string>205467</string> 
+   </void> 
+   <void method="add"> 
+    <string>241920</string> 
+   </void> 
+   <void method="add"> 
+    <string>380803</string> 
+   </void> 
+   <void method="add"> 
+    <string>739573</string> 
+   </void> 
+   <void method="add"> 
+    <string>789630</string> 
+   </void> 
+   <void method="add"> 
+    <string>1270583</string> 
+   </void> 
+   <void method="add"> 
+    <string>2344771</string> 
+   </void> 
+   <void method="add"> 
+    <string>325774</string> 
+   </void> 
+   <void method="add"> 
+    <string>16980</string> 
+   </void> 
+   <void method="add"> 
+    <string>24484</string> 
+   </void> 
+   <void method="add"> 
+    <string>1692451</string> 
+   </void> 
+   <void method="add"> 
+    <string>194780</string> 
+   </void> 
+   <void method="add"> 
+    <string>127710</string> 
+   </void> 
+   <void method="add"> 
+    <string>133160</string> 
+   </void> 
+   <void method="add"> 
+    <string>593514</string> 
+   </void> 
+   <void method="add"> 
+    <string>660378</string> 
+   </void> 
+   <void method="add"> 
+    <string>1136228</string> 
+   </void> 
+   <void method="add"> 
+    <string>1203509</string> 
+   </void> 
+   <void method="add"> 
+    <string>154004</string> 
+   </void> 
+   <void method="add"> 
+    <string>161955</string> 
+   </void> 
+   <void method="add"> 
+    <string>508694</string> 
+   </void> 
+   <void method="add"> 
+    <string>385638</string> 
+   </void> 
+   <void method="add"> 
+    <string>2061775</string> 
+   </void> 
+   <void method="add"> 
+    <string>2076404</string> 
+   </void> 
+   <void method="add"> 
+    <string>385640</string> 
+   </void> 
+   <void method="add"> 
+    <string>2062152</string> 
+   </void> 
+   <void method="add"> 
+    <string>2081506</string> 
+   </void> 
+   <void method="add"> 
+    <string>400077</string> 
+   </void> 
+   <void method="add"> 
+    <string>2062159</string> 
+   </void> 
+   <void method="add"> 
+    <string>2095788</string> 
+   </void> 
+   <void method="add"> 
+    <string>398345</string> 
+   </void> 
+   <void method="add"> 
+    <string>2062178</string> 
+   </void> 
+   <void method="add"> 
+    <string>2082565</string> 
+   </void> 
+   <void method="add"> 
+    <string>415851</string> 
+   </void> 
+   <void method="add"> 
+    <string>2062180</string> 
+   </void> 
+   <void method="add"> 
+    <string>2073552</string> 
+   </void> 
+   <void method="add"> 
+    <string>428328</string> 
+   </void> 
+   <void method="add"> 
+    <string>2062181</string> 
+   </void> 
+   <void method="add"> 
+    <string>2113564</string> 
+   </void> 
+   <void method="add"> 
+    <string>444484</string> 
+   </void> 
+   <void method="add"> 
+    <string>2062182</string> 
+   </void> 
+   <void method="add"> 
+    <string>2113566</string> 
+   </void> 
+   <void method="add"> 
+    <string>451034</string> 
+   </void> 
+   <void method="add"> 
+    <string>2062184</string> 
+   </void> 
+   <void method="add"> 
+    <string>2113568</string> 
+   </void> 
+   <void method="add"> 
+    <string>466787</string> 
+   </void> 
+   <void method="add"> 
+    <string>2062185</string> 
+   </void> 
+   <void method="add"> 
+    <string>2113570</string> 
+   </void> 
+   <void method="add"> 
+    <string>377967</string> 
+   </void> 
+   <void method="add"> 
+    <string>482391</string> 
+   </void> 
+   <void method="add"> 
+    <string>2062188</string> 
+   </void> 
+   <void method="add"> 
+    <string>2116806</string> 
+   </void> 
+   <void method="add"> 
+    <string>467195</string> 
+   </void> 
+   <void method="add"> 
+    <string>2062189</string> 
+   </void> 
+   <void method="add"> 
+    <string>2073848</string> 
+   </void> 
+   <void method="add"> 
+    <string>533323</string> 
+   </void> 
+   <void method="add"> 
+    <string>779034</string> 
+   </void> 
+   <void method="add"> 
+    <string>1002174</string> 
+   </void> 
+   <void method="add"> 
+    <string>2385665</string> 
+   </void> 
+   <void method="add"> 
+    <string>494794</string> 
+   </void> 
+   <void method="add"> 
+    <string>657253</string> 
+   </void> 
+   <void method="add"> 
+    <string>1228510</string> 
+   </void> 
+   <void method="add"> 
+    <string>1368480</string> 
+   </void> 
+   <void method="add"> 
+    <string>2067682</string> 
+   </void> 
+   <void method="add"> 
+    <string>1907616</string> 
+   </void> 
+   <void method="add"> 
+    <string>929490</string> 
+   </void> 
+   <void method="add"> 
+    <string>221892</string> 
+   </void> 
+   <void method="add"> 
+    <string>1900780</string> 
+   </void> 
+   <void method="add"> 
+    <string>1765249</string> 
+   </void> 
+   <void method="add"> 
+    <string>1176779</string> 
+   </void> 
+   <void method="add"> 
+    <string>308661</string> 
+   </void> 
+   <void method="add"> 
+    <string>1015092</string> 
+   </void> 
+   <void method="add"> 
+    <string>1381837</string> 
+   </void> 
+   <void method="add"> 
+    <string>1881006</string> 
+   </void> 
+   <void method="add"> 
+    <string>1450635</string> 
+   </void> 
+   <void method="add"> 
+    <string>1642817</string> 
+   </void> 
+   <void method="add"> 
+    <string>1542232</string> 
+   </void> 
+   <void method="add"> 
+    <string>848637</string> 
+   </void> 
+   <void method="add"> 
+    <string>186827</string> 
+   </void> 
+   <void method="add"> 
+    <string>711130</string> 
+   </void> 
+   <void method="add"> 
+    <string>891083</string> 
+   </void> 
+   <void method="add"> 
+    <string>532236</string> 
+   </void> 
+   <void method="add"> 
+    <string>1761059</string> 
+   </void> 
+   <void method="add"> 
+    <string>223267</string> 
+   </void> 
+   <void method="add"> 
+    <string>1852640</string> 
+   </void> 
+   <void method="add"> 
+    <string>160430</string> 
+   </void> 
+   <void method="add"> 
+    <string>1647748</string> 
+   </void> 
+   <void method="add"> 
+    <string>363653</string> 
+   </void> 
+   <void method="add"> 
+    <string>341123</string> 
+   </void> 
+   <void method="add"> 
+    <string>536631</string> 
+   </void> 
+   <void method="add"> 
+    <string>536358</string> 
+   </void> 
+   <void method="add"> 
+    <string>363786</string> 
+   </void> 
+   <void method="add"> 
+    <string>959354</string> 
+   </void> 
+   <void method="add"> 
+    <string>495454</string> 
+   </void> 
+   <void method="add"> 
+    <string>635121</string> 
+   </void> 
+   <void method="add"> 
+    <string>1409981</string> 
+   </void> 
+   <void method="add"> 
+    <string>1521681</string> 
+   </void> 
+   <void method="add"> 
+    <string>476713</string> 
+   </void> 
+   <void method="add"> 
+    <string>482719</string> 
+   </void> 
+   <void method="add"> 
+    <string>571720</string> 
+   </void> 
+   <void method="add"> 
+    <string>570947</string> 
+   </void> 
+   <void method="add"> 
+    <string>1643138</string> 
+   </void> 
+   <void method="add"> 
+    <string>1642850</string> 
+   </void> 
+   <void method="add"> 
+    <string>615321</string> 
+   </void> 
+   <void method="add"> 
+    <string>984379</string> 
+   </void> 
+   <void method="add"> 
+    <string>930429</string> 
+   </void> 
+   <void method="add"> 
+    <string>1127871</string> 
+   </void> 
+   <void method="add"> 
+    <string>1992031</string> 
+   </void> 
+   <void method="add"> 
+    <string>2010696</string> 
+   </void> 
+   <void method="add"> 
+    <string>1379619</string> 
+   </void> 
+   <void method="add"> 
+    <string>1533900</string> 
+   </void> 
+   <void method="add"> 
+    <string>1787430</string> 
+   </void> 
+   <void method="add"> 
+    <string>1543293</string> 
+   </void> 
+   <void method="add"> 
+    <string>2371405</string> 
+   </void> 
+   <void method="add"> 
+    <string>1741155</string> 
+   </void> 
+   <void method="add"> 
+    <string>1925415</string> 
+   </void> 
+   <void method="add"> 
+    <string>1967009</string> 
+   </void> 
+   <void method="add"> 
+    <string>1703193</string> 
+   </void> 
+   <void method="add"> 
+    <string>2306360</string> 
+   </void> 
+   <void method="add"> 
+    <string>2176247</string> 
+   </void> 
+   <void method="add"> 
+    <string>2159643</string> 
+   </void> 
+   <void method="add"> 
+    <string>2185024</string> 
+   </void> 
+   <void method="add"> 
+    <string>778200</string> 
+   </void> 
+   <void method="add"> 
+    <string>1189847</string> 
+   </void> 
+   <void method="add"> 
+    <string>1878914</string> 
+   </void> 
+   <void method="add"> 
+    <string>1515883</string> 
+   </void> 
+   <void method="add"> 
+    <string>693651</string> 
+   </void> 
+   <void method="add"> 
+    <string>1880094</string> 
+   </void> 
+  </void> 
+  <void property="remixReleaseIds"> 
+   <void method="add"> 
+    <string>84943</string> 
+   </void> 
+   <void method="add"> 
+    <string>135552</string> 
+   </void> 
+   <void method="add"> 
+    <string>207914</string> 
+   </void> 
+   <void method="add"> 
+    <string>2318</string> 
+   </void> 
+   <void method="add"> 
+    <string>35834</string> 
+   </void> 
+   <void method="add"> 
+    <string>98230</string> 
+   </void> 
+   <void method="add"> 
+    <string>52454</string> 
+   </void> 
+   <void method="add"> 
+    <string>1074383</string> 
+   </void> 
+   <void method="add"> 
+    <string>1237371</string> 
+   </void> 
+   <void method="add"> 
+    <string>31924</string> 
+   </void> 
+   <void method="add"> 
+    <string>15618</string> 
+   </void> 
+   <void method="add"> 
+    <string>215515</string> 
+   </void> 
+   <void method="add"> 
+    <string>33576</string> 
+   </void> 
+   <void method="add"> 
+    <string>95101</string> 
+   </void> 
+   <void method="add"> 
+    <string>6143</string> 
+   </void> 
+   <void method="add"> 
+    <string>364022</string> 
+   </void> 
+   <void method="add"> 
+    <string>947892</string> 
+   </void> 
+   <void method="add"> 
+    <string>66310</string> 
+   </void> 
+   <void method="add"> 
+    <string>65702</string> 
+   </void> 
+   <void method="add"> 
+    <string>73030</string> 
+   </void> 
+   <void method="add"> 
+    <string>594006</string> 
+   </void> 
+   <void method="add"> 
+    <string>66249</string> 
+   </void> 
+   <void method="add"> 
+    <string>1258267</string> 
+   </void> 
+   <void method="add"> 
+    <string>1691657</string> 
+   </void> 
+   <void method="add"> 
+    <string>228613</string> 
+   </void> 
+   <void method="add"> 
+    <string>382749</string> 
+   </void> 
+   <void method="add"> 
+    <string>789536</string> 
+   </void> 
+   <void method="add"> 
+    <string>3222</string> 
+   </void> 
+   <void method="add"> 
+    <string>40914</string> 
+   </void> 
+   <void method="add"> 
+    <string>1991829</string> 
+   </void> 
+   <void method="add"> 
+    <string>192310</string> 
+   </void> 
+   <void method="add"> 
+    <string>750827</string> 
+   </void> 
+   <void method="add"> 
+    <string>103252</string> 
+   </void> 
+   <void method="add"> 
+    <string>338824</string> 
+   </void> 
+   <void method="add"> 
+    <string>36607</string> 
+   </void> 
+   <void method="add"> 
+    <string>867334</string> 
+   </void> 
+   <void method="add"> 
+    <string>1076310</string> 
+   </void> 
+   <void method="add"> 
+    <string>1328661</string> 
+   </void> 
+   <void method="add"> 
+    <string>2148378</string> 
+   </void> 
+   <void method="add"> 
+    <string>49542</string> 
+   </void> 
+   <void method="add"> 
+    <string>54935</string> 
+   </void> 
+   <void method="add"> 
+    <string>202433</string> 
+   </void> 
+   <void method="add"> 
+    <string>397048</string> 
+   </void> 
+   <void method="add"> 
+    <string>664573</string> 
+   </void> 
+   <void method="add"> 
+    <string>24639</string> 
+   </void> 
+   <void method="add"> 
+    <string>962858</string> 
+   </void> 
+   <void method="add"> 
+    <string>26623</string> 
+   </void> 
+   <void method="add"> 
+    <string>1099176</string> 
+   </void> 
+   <void method="add"> 
+    <string>1048062</string> 
+   </void> 
+   <void method="add"> 
+    <string>1643654</string> 
+   </void> 
+   <void method="add"> 
+    <string>218218</string> 
+   </void> 
+   <void method="add"> 
+    <string>1940024</string> 
+   </void> 
+   <void method="add"> 
+    <string>73174</string> 
+   </void> 
+   <void method="add"> 
+    <string>164144</string> 
+   </void> 
+   <void method="add"> 
+    <string>114681</string> 
+   </void> 
+   <void method="add"> 
+    <string>469303</string> 
+   </void> 
+   <void method="add"> 
+    <string>28159</string> 
+   </void> 
+   <void method="add"> 
+    <string>974241</string> 
+   </void> 
+   <void method="add"> 
+    <string>172751</string> 
+   </void> 
+   <void method="add"> 
+    <string>1369681</string> 
+   </void> 
+   <void method="add"> 
+    <string>283497</string> 
+   </void> 
+   <void method="add"> 
+    <string>29131</string> 
+   </void> 
+   <void method="add"> 
+    <string>18317</string> 
+   </void> 
+   <void method="add"> 
+    <string>30209</string> 
+   </void> 
+   <void method="add"> 
+    <string>130730</string> 
+   </void> 
+   <void method="add"> 
+    <string>1216549</string> 
+   </void> 
+   <void method="add"> 
+    <string>31295</string> 
+   </void> 
+   <void method="add"> 
+    <string>1966692</string> 
+   </void> 
+   <void method="add"> 
+    <string>715438</string> 
+   </void> 
+   <void method="add"> 
+    <string>545945</string> 
+   </void> 
+   <void method="add"> 
+    <string>18111</string> 
+   </void> 
+   <void method="add"> 
+    <string>789955</string> 
+   </void> 
+   <void method="add"> 
+    <string>71643</string> 
+   </void> 
+   <void method="add"> 
+    <string>65643</string> 
+   </void> 
+   <void method="add"> 
+    <string>1685494</string> 
+   </void> 
+   <void method="add"> 
+    <string>816768</string> 
+   </void> 
+   <void method="add"> 
+    <string>134126</string> 
+   </void> 
+   <void method="add"> 
+    <string>54274</string> 
+   </void> 
+   <void method="add"> 
+    <string>52726</string> 
+   </void> 
+   <void method="add"> 
+    <string>13964</string> 
+   </void> 
+   <void method="add"> 
+    <string>1973878</string> 
+   </void> 
+   <void method="add"> 
+    <string>117510</string> 
+   </void> 
+   <void method="add"> 
+    <string>4073</string> 
+   </void> 
+   <void method="add"> 
+    <string>20737</string> 
+   </void> 
+   <void method="add"> 
+    <string>559538</string> 
+   </void> 
+   <void method="add"> 
+    <string>612352</string> 
+   </void> 
+   <void method="add"> 
+    <string>214940</string> 
+   </void> 
+   <void method="add"> 
+    <string>123169</string> 
+   </void> 
+   <void method="add"> 
+    <string>917401</string> 
+   </void> 
+   <void method="add"> 
+    <string>170746</string> 
+   </void> 
+   <void method="add"> 
+    <string>160592</string> 
+   </void> 
+   <void method="add"> 
+    <string>1033458</string> 
+   </void> 
+   <void method="add"> 
+    <string>184163</string> 
+   </void> 
+   <void method="add"> 
+    <string>116115</string> 
+   </void> 
+   <void method="add"> 
+    <string>704538</string> 
+   </void> 
+   <void method="add"> 
+    <string>340902</string> 
+   </void> 
+   <void method="add"> 
+    <string>763976</string> 
+   </void> 
+   <void method="add"> 
+    <string>1010584</string> 
+   </void> 
+   <void method="add"> 
+    <string>674304</string> 
+   </void> 
+   <void method="add"> 
+    <string>1024151</string> 
+   </void> 
+   <void method="add"> 
+    <string>2100458</string> 
+   </void> 
+   <void method="add"> 
+    <string>1169229</string> 
+   </void> 
+   <void method="add"> 
+    <string>962452</string> 
+   </void> 
+   <void method="add"> 
+    <string>1598309</string> 
+   </void> 
+   <void method="add"> 
+    <string>1490560</string> 
+   </void> 
+   <void method="add"> 
+    <string>1240318</string> 
+   </void> 
+   <void method="add"> 
+    <string>1707805</string> 
+   </void> 
+   <void method="add"> 
+    <string>1677951</string> 
+   </void> 
+   <void method="add"> 
+    <string>1886289</string> 
+   </void> 
+   <void method="add"> 
+    <string>1827450</string> 
+   </void> 
+   <void method="add"> 
+    <string>1724010</string> 
+   </void> 
+  </void> 
+  <void property="urls"> 
+   <void method="add"> 
+    <string>http://www.facebook.com/aphextwinafx</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.drukqs.net</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://en.wikipedia.org/wiki/Aphex_twin</string> 
+   </void> 
+  </void> 
+ </object> 
+</java> 

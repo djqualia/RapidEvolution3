@@ -1,0 +1,155 @@
+<project name="RapidEvolution3" default="dist" basedir="."> 
+    <property name="title" value="Rapid Evolution 3" />	
+	<property file="build.properties" />                                  
+    	
+	<taskdef resource="proguard/ant/task.properties" classpath="${PROGUARD_JAR}" />	
+	<taskdef name="izpack" classpath="${IZPACK_COMPILER}" classname="com.izforge.izpack.ant.IzPackTask"/>	
+	<!-- Task Definition for ant-contrib.jar  -->
+	<taskdef resource="net/sf/antcontrib/antlib.xml">
+	 	<classpath>
+	  		<pathelement location="lib/ant/ant-contrib-0.6.jar"/>
+	 	</classpath>
+	</taskdef>
+
+	<target name="dist">
+		<build-client/>
+	</target>
+
+	<target name="dist_client" depends="compile" description="creates client install packages">  
+    	<!-- sets TSTAMP, DSTAMP and TODAY properties -->
+	    <tstamp>
+	       <format property="timestamp.isoformat" pattern="yyyy-MM-dd'T'HH:mm:ss" />
+	    </tstamp>     	
+		<!--jar jarfile="${DEPLOY_DIR}/rapid_evolution3_pre.jar" UNCOMMENT WHEN PROGUARD IS ENABLED-->
+	    <jar jarfile="${DEPLOY_DIR}/rapid_evolution3.jar">
+			<manifest>
+				<attribute name="Built-By" value="Jesse Bickmore"/>
+				<attribute name="Built-On" value="${timestamp.isoformat}"/>
+				<attribute name="Created-By" value="${ant.version}"/>
+				<attribute name="Main-Class" value="com.mixshare.rapid_evolution.util.launchers.WindowsLauncher"/>
+			</manifest>
+	    	<fileset dir="${BUILD_DIR}">       
+	    		<include name="com/**" />
+	       </fileset>          
+		</jar>  	
+		<!--proguard configuration="${PROGUARD_CONFIG}"/-->
+		<!--copy file="${DEPLOY_DIR}/rapid_evolution3_pre.jar" tofile="${DEPLOY_DIR}/rapid_evolution3.jar"/-->
+  		<!--izpack input="${IZPACK_CONFIG}" output="${DEPLOY_DIR}/${RE3_INSTALL_JAR}" basedir="${IZPACK_BASE_DIR}"/-->
+  		<izpack input="${IZPACK_CONFIG_MAC}" output="${DEPLOY_DIR}/${RE3_INSTALL_JAR_MAC}" basedir="${IZPACK_BASE_DIR}"/>
+  		<izpack input="${IZPACK_CONFIG_WIN32}" output="${DEPLOY_DIR}/${RE3_INSTALL_JAR_WIN32}" basedir="${IZPACK_BASE_DIR}"/>  		
+  		<izpack input="${IZPACK_CONFIG_LINUX32}" output="${DEPLOY_DIR}/${RE3_INSTALL_JAR_LINUX32}" basedir="${IZPACK_BASE_DIR}"/>  		
+  		<izpack input="${IZPACK_CONFIG_LINUX64}" output="${DEPLOY_DIR}/${RE3_INSTALL_JAR_LINUX64}" basedir="${IZPACK_BASE_DIR}"/>  		
+		<jar destfile="${DEPLOY_DIR}/${RE3_INSTALL_JAR_MAC}" update="true" basedir="${BUILD_DIR}" includes="com/mixshare/rapid_evolution/util/install/**"/>
+		<jar destfile="${DEPLOY_DIR}/${RE3_INSTALL_JAR_WIN32}" update="true" basedir="${BUILD_DIR}" includes="com/mixshare/rapid_evolution/util/install/**"/>
+		<jar destfile="${DEPLOY_DIR}/${RE3_INSTALL_JAR_LINUX32}" update="true" basedir="${BUILD_DIR}" includes="com/mixshare/rapid_evolution/util/install/**"/>
+		<jar destfile="${DEPLOY_DIR}/${RE3_INSTALL_JAR_LINUX64}" update="true" basedir="${BUILD_DIR}" includes="com/mixshare/rapid_evolution/util/install/**"/>
+		<!--exec executable="${IZPACK_TO_APP_PATH}" resolveexecutable="true">
+			<arg value="${DEPLOY_DIR}/${RE3_INSTALL_JAR_MAC}"/>
+    		<arg value="${DEPLOY_DIR}/${RE3_INSTALL_APP}"/>
+  		</exec-->  		
+		<copy file="${DEPLOY_DIR}/${RE3_INSTALL_JAR_WIN32}" tofile="config/izpack/izpack2exe/${RE3_INSTALL_JAR_WIN32}" overwrite="true"/>		
+		<exec executable="${IZPACK_TO_EXE_PATH}" dir="config/izpack/izpack2exe" resolveexecutable="true">
+			<arg value="--file=${RE3_INSTALL_JAR_WIN32}"/>
+    		<arg value="--output=${RE3_INSTALL_EXE_WIN32}"/>
+  		</exec>
+		<copy file="config/izpack/izpack2exe/${RE3_INSTALL_EXE_WIN32}" tofile="${DEPLOY_DIR}/${RE3_INSTALL_EXE_WIN32}" overwrite="true"/>		
+		<delete file="config/izpack/izpack2exe/${RE3_INSTALL_EXE_WIN32}"/>
+		<delete file="config/izpack/izpack2exe/${RE3_INSTALL_JAR_WIN32}"/>
+		<zip destfile="${DEPLOY_DIR}/${RE3_INSTALL_ZIP_MAC}"
+		       basedir="${DEPLOY_DIR}"
+		       includes="${RE3_INSTALL_APP}/**"		       
+		/>
+	</target>
+	
+	<target name="init">
+		<mkdir dir="${DEPLOY_DIR}"/> <!-- Create the deploy directory structure used by dist -->   	     	  	           
+		<!-- classpath -->
+		<path id="project.classpath">
+		    <fileset dir="${LIB_DIR}" >
+		    	<include name="**/*.jar"/>
+	     		<include name="**/*.zip"/>
+	    	</fileset>                      		
+		</path>
+    </target>
+	
+	<target name="apply_versioning">
+		<copy file="${SRC_DIR}/com/mixshare/rapid_evolution/RapidEvolution3.java" tofile="${TEMP_DIR}/RapidEvolution3.java" overwrite="true"/>
+		<copy file="config/proguard/re3.pro" tofile="${TEMP_DIR}/re3.pro" overwrite="true"/>
+		<!--copy file="${IZPACK_CONFIG}" tofile="${TEMP_DIR}/re3_install.xml" overwrite="true"/-->
+		<copy file="${IZPACK_CONFIG_MAC}" tofile="${TEMP_DIR}/re3_install_mac.xml" overwrite="true"/>
+		<copy file="${IZPACK_CONFIG_WIN32}" tofile="${TEMP_DIR}/re3_install_win32.xml" overwrite="true"/>
+		<copy file="${IZPACK_CONFIG_LINUX32}" tofile="${TEMP_DIR}/re3_install_linux32.xml" overwrite="true"/>
+		<copy file="${IZPACK_CONFIG_LINUX64}" tofile="${TEMP_DIR}/re3_install_linux64.xml" overwrite="true"/>
+		<replace file="${SRC_DIR}/com/mixshare/rapid_evolution/RapidEvolution3.java" token="@@@RE3_VERSION@@@" value="${RE3_VERSION}"/>
+		<replace file="config/proguard/re3.pro" token="@@@DEPLOY_DIR@@@" value="${DEPLOY_DIR}"/>			
+		<!--replace file="${IZPACK_CONFIG}" token="@@@RE3_VERSION@@@" value="${RE3_VERSION}"/-->		
+		<replace file="${IZPACK_CONFIG_MAC}" token="@@@RE3_VERSION@@@" value="${RE3_VERSION}"/>		
+		<replace file="${IZPACK_CONFIG_WIN32}" token="@@@RE3_VERSION@@@" value="${RE3_VERSION}"/>		
+		<replace file="${IZPACK_CONFIG_LINUX32}" token="@@@RE3_VERSION@@@" value="${RE3_VERSION}"/>		
+		<replace file="${IZPACK_CONFIG_LINUX64}" token="@@@RE3_VERSION@@@" value="${RE3_VERSION}"/>				
+		<replace file="${IZPACK_CONFIG_MAC}" token="@@@RE3_DEPLOY_JAR@@@" value="${DEPLOY_DIR}/rapid_evolution3.jar"/>
+		<replace file="${IZPACK_CONFIG_WIN32}" token="@@@RE3_DEPLOY_JAR@@@" value="${DEPLOY_DIR}/rapid_evolution3.jar"/>
+		<replace file="${IZPACK_CONFIG_LINUX32}" token="@@@RE3_DEPLOY_JAR@@@" value="${DEPLOY_DIR}/rapid_evolution3.jar"/>
+		<replace file="${IZPACK_CONFIG_LINUX64}" token="@@@RE3_DEPLOY_JAR@@@" value="${DEPLOY_DIR}/rapid_evolution3.jar"/>		
+	</target>
+ 
+	<target name="restore_files">
+		<copy file="${TEMP_DIR}/RapidEvolution3.java" tofile="${SRC_DIR}/com/mixshare/rapid_evolution/RapidEvolution3.java" overwrite="true"/>
+		<copy file="${TEMP_DIR}/re3.pro" tofile="config/proguard/re3.pro" overwrite="true"/>
+		<!--copy file="${TEMP_DIR}/re3_install.xml" tofile="${IZPACK_CONFIG}" overwrite="true"/-->
+		<copy file="${TEMP_DIR}/re3_install_mac.xml" tofile="${IZPACK_CONFIG_MAC}" overwrite="true"/>
+		<copy file="${TEMP_DIR}/re3_install_win32.xml" tofile="${IZPACK_CONFIG_WIN32}" overwrite="true"/>
+		<copy file="${TEMP_DIR}/re3_install_linux32.xml" tofile="${IZPACK_CONFIG_LINUX32}" overwrite="true"/>
+		<copy file="${TEMP_DIR}/re3_install_linux64.xml" tofile="${IZPACK_CONFIG_LINUX64}" overwrite="true"/>
+		<delete file="${TEMP_DIR}/RapidEvolution3.java"/>
+		<delete file="${TEMP_DIR}/re3.pro"/>
+		<delete file="${TEMP_DIR}/re3_install_mac.xml"/>
+		<delete file="${TEMP_DIR}/re3_install_win32.xml"/>
+		<delete file="${TEMP_DIR}/re3_install_linux32.xml"/>
+		<delete file="${TEMP_DIR}/re3_install_linux64.xml"/>		
+	</target>
+	
+	<!-- ************* compile target ************* -->  
+	<target name="compile" depends="clean" description="compile the source">               
+		<!-- Compile the java code from ${SRC_DIR} into ${BUILD_DIR} -->  
+	    <mkdir dir="${BUILD_DIR}"/> <!-- Create the BUILD_DIR directory structure used by compile -->      
+		<javac
+      	   sourcepath=""
+           srcdir="${SRC_DIR};${JUIC_DIR}" 
+           destdir="${BUILD_DIR}" 
+           classpathref="project.classpath"
+		   fork="yes"
+		   executable="${COMPILER}"
+		   debug="true"
+		   target="1.5"
+		   debuglevel="lines,source"
+		/>
+	</target>
+
+	<target name="clean" depends="init" description="clean up">    
+		<delete dir="${BUILD_DIR}"/>
+	    <delete>
+			<fileset dir="${DEPLOY_DIR}" includes="**/*"/>
+		</delete>
+	</target>
+	
+	<macrodef name="build-client">
+	 	<sequential>
+	  		<echo>Starting the build...</echo>
+			<echo>Apply Versioning...</echo>
+	 		<antcall target="apply_versioning" />
+			<trycatch>
+				<try>
+					<antcall target="dist_client" />
+				</try>
+			   	<catch>
+				    <echo>BUILD FAILED: Investigate exceptions in the run...</echo>
+			   	</catch>
+			   	<finally>
+			   		<echo>Restoring files...</echo>
+				    <antcall target="restore_files" />
+			   	</finally>
+		  	</trycatch>
+		 </sequential>
+	</macrodef>
+</project>

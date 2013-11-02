@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_32" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.echonest.song.EchonestSongProfile"> 
+  <void property="analysisVersion"> 
+   <int>4</int> 
+  </void> 
+  <void property="artist"> 
+   <string>Deceptikon</string> 
+  </void> 
+  <void property="bpm"> 
+   <object class="com.mixshare.rapid_evolution.data.util.confidence.FloatConfidence"> 
+    <void property="confidence"> 
+     <float>0.789</float> 
+    </void> 
+    <void property="value"> 
+     <float>106.018</float> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="duration"> 
+   <float>188.57751</float> 
+  </void> 
+  <void property="endOfFadeIn"> 
+   <float>0.235</float> 
+  </void> 
+  <void property="genre"> 
+   <string></string> 
+  </void> 
+  <void property="key"> 
+   <object class="com.mixshare.rapid_evolution.data.util.confidence.IntConfidence"> 
+    <void property="value"> 
+     <int>9</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="mode"> 
+   <object class="com.mixshare.rapid_evolution.data.util.confidence.IntConfidence"/> 
+  </void> 
+  <void property="overallLoudness"> 
+   <float>-7.606</float> 
+  </void> 
+  <void property="release"> 
+   <string>Lost Subject</string> 
+  </void> 
+  <void property="sampleRate"> 
+   <int>22050</int> 
+  </void> 
+  <void property="startOfFadeOut"> 
+   <float>188.577</float> 
+  </void> 
+  <void property="timeSignature"> 
+   <object class="com.mixshare.rapid_evolution.data.util.confidence.IntConfidence"> 
+    <void property="confidence"> 
+     <float>0.506</float> 
+    </void> 
+    <void property="value"> 
+     <int>4</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="title"> 
+   <string>Germanic</string> 
+  </void> 
+  <void property="valid"> 
+   <boolean>true</boolean> 
+  </void> 
+ </object> 
+</java> 

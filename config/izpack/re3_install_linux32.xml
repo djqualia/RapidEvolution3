@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes" ?>
+<installation version="1.0">
+	<info>
+		<appname>Rapid Evolution 3</appname>
+		<appversion>@@@RE3_VERSION@@@</appversion>
+		<authors>
+			<author name="Jesse Bickmore" email="qualia@mixshare.com" />
+		</authors>
+		<url>http://www.mixshare.com/</url>
+		<run-privileged></run-privileged>
+	</info>
+	<variables>
+		<variable name="APP_NAME" value="Rapid Evolution 3" />
+		<variable name="RE3_MEMORY" value="1000" />
+		<variable name="RE3_LIBRARY_PATH" value="" />
+		<variable name="RE3_VERSION" value="@@@RE3_VERSION@@@" />
+		<variable name="ShowCreateDirectoryMessage" value="false" />
+	</variables>
+	<guiprefs width="540" height="480" resizable="no">
+	</guiprefs>
+	<locale>
+		<langpack iso3="eng" />
+	</locale>
+	<resources>
+		<res id="InfoPanel.info" src="config/izpack/Readme.txt" />
+		<res src="config/izpack/unix_shortcut_specification.xml"
+			id="Unix_shortcutSpec.xml" />
+		<res src="config/izpack/userInputSpec.xml" id="userInputSpec.xml" />		
+  		<res id="userInputLang.xml_eng" src="config/izpack/userInputLang.xml_eng" />
+  	</resources>
+	<panels>
+		<panel classname="HelloPanel" />
+		<panel classname="InfoPanel" />
+		<panel classname="TargetPanel" />
+		<panel classname="UserInputPanel" id="UserInputPanel.0"/>
+		<panel classname="UserInputPanel" id="UserInputPanel.1"/>
+		<panel classname="InstallPanel" />
+		<panel classname="ShortcutPanel" />
+		<panel classname="FinishPanel" />
+	</panels>
+	<packs>
+		<pack name="Base" required="yes">
+			<description>The base files</description>
+
+			<file src="re3.properties"
+				targetdir="$INSTALL_PATH" />
+			<file src="settings.xml"
+				targetdir="$INSTALL_PATH" />
+			<file src="re3.css"
+				targetdir="$INSTALL_PATH" />
+			<file src="config/izpack/install files/unix/log4j.properties"
+				targetdir="$INSTALL_PATH" />
+			<file src="config/izpack/install files/client.policy"
+				targetdir="$INSTALL_PATH" />
+
+			<file src="images/noalbumcover.gif"
+				targetdir="$INSTALL_PATH/images" />
+			<file src="images/splashscreen.gif"
+				targetdir="$INSTALL_PATH/images" />
+
+			<fileset dir=""
+				targetdir="$INSTALL_PATH">
+				<include name="icons/**/*"/>				
+				<include name="lib/**/*"/>
+				<include name="web/**/*"/>					
+				<exclude name="**/.svn"/>					
+				<exclude name="**/.svn/**"/>	
+				<exclude name="lib/qt/**"/>													
+			</fileset>
+
+			<file os="unix" src="lib/qt/qtjambi-4.5.2_01.jar"
+				targetdir="$INSTALL_PATH/lib/qt" />
+			<file os="unix" src="lib/qt/linux32/qtjambi-linux32-gcc-4.5.2_01.jar"
+				targetdir="$INSTALL_PATH/lib/qt/linux32" />
+
+			<file src="bundles/translations.properties"
+				targetdir="$INSTALL_PATH/bundles" />
+
+			<file os="unix" src="config/izpack/install files/unix/ffmpeg"
+				targetdir="$INSTALL_PATH" />
+			<file os="unix" src="config/izpack/install files/unix/libmp3lame.so"
+				targetdir="$INSTALL_PATH" />
+
+			<file os="unix" src="@@@RE3_DEPLOY_JAR@@@"
+				targetdir="$INSTALL_PATH" />
+			<file os="unix" src="config/izpack/install files/unix/linux32/re3.sh" override="true"
+				targetdir="$INSTALL_PATH" />
+			<file os="unix" src="config/izpack/install files/unix/startRE3.jar"
+				targetdir="$INSTALL_PATH" />
+				
+			<parsable targetfile="$INSTALL_PATH/re3.properties"
+				type="shell" />
+			<parsable targetfile="$INSTALL_PATH/log4j.properties"
+				type="shell" />
+			<parsable os="unix" targetfile="$INSTALL_PATH/re3.sh"
+				type="shell" />
+
+			<executable os="unix" targetfile="$INSTALL_PATH/re3.sh"
+				stage="never" />
+			<executable os="unix" targetfile="$INSTALL_PATH/ffmpeg"
+				stage="never" />
+			<executable os="unix" targetfile="$INSTALL_PATH/libmp3lame.so"
+				stage="never" />
+				
+		</pack>
+	</packs>
+</installation>

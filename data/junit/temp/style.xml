@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_11" class="java.beans.XMLDecoder">
+ <object class="com.mixshare.rapid_evolution.data.record.filter.style.StyleRecord">
+  <void property="categoryOnly">
+   <boolean>true</boolean>
+  </void>
+  <void property="childIds">
+   <array class="int" length="1">
+    <void index="0">
+     <int>7</int>
+    </void>
+   </array>
+  </void>
+  <void property="disabled">
+   <boolean>true</boolean>
+  </void>
+  <void property="duplicateIds">
+   <array class="int" length="2">
+    <void index="0">
+     <int>1</int>
+    </void>
+    <void index="1">
+     <int>2</int>
+    </void>
+   </array>
+  </void>
+  <void property="id">
+   <object class="com.mixshare.rapid_evolution.data.identifier.filter.style.StyleIdentifier">
+    <void property="name">
+     <string>test style</string>
+    </void>
+   </object>
+  </void>
+  <void property="lastModified">
+   <long>234</long>
+  </void>
+  <void property="numArtistRecordsCached">
+   <int>1</int>
+  </void>
+  <void property="numExternalArtistRecordsCached">
+   <int>5</int>
+  </void>
+  <void property="numExternalLabelRecordsCached">
+   <int>6</int>
+  </void>
+  <void property="numExternalReleaseRecordsCached">
+   <int>7</int>
+  </void>
+  <void property="numExternalSongRecordsCached">
+   <int>8</int>
+  </void>
+  <void property="numLabelRecordsCached">
+   <int>2</int>
+  </void>
+  <void property="numReleaseRecordsCached">
+   <int>3</int>
+  </void>
+  <void property="numSongRecordsCached">
+   <int>4</int>
+  </void>
+  <void property="parentIds">
+   <array class="int" length="1">
+    <void index="0">
+     <int>6</int>
+    </void>
+   </array>
+  </void>
+  <void property="rating">
+   <byte>80</byte>
+  </void>
+  <void property="root">
+   <boolean>true</boolean>
+  </void>
+  <void property="uniqueId">
+   <int>2</int>
+  </void>
+ </object>
+</java>

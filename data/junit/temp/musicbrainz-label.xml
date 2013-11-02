@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_32" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.label.MusicbrainzLabelProfile"> 
+  <void property="country"> 
+   <string>GB</string> 
+  </void> 
+  <void property="labelCode"> 
+   <string></string> 
+  </void> 
+  <void property="labelName"> 
+   <string>Rephlex</string> 
+  </void> 
+  <void property="lifeSpanBegin"> 
+   <string>1991</string> 
+  </void> 
+  <void property="lifeSpanEnd"> 
+   <string></string> 
+  </void> 
+  <void property="mbId"> 
+   <string>820fa04e-9927-40bb-a6c5-1bf883b159c7</string> 
+  </void> 
+  <void property="relatedArtistIds"> 
+   <void method="add"> 
+    <string>79a09151-f6cc-48f9-9907-3fdd0b68373f</string> 
+   </void> 
+  </void> 
+  <void property="relatedArtistNames"> 
+   <void method="add"> 
+    <string>Richard David James</string> 
+   </void> 
+  </void> 
+  <void property="tags"> 
+   <void method="put"> 
+    <string>independent</string> 
+    <int>1</int> 
+   </void> 
+   <void method="put"> 
+    <string>uk</string> 
+    <int>1</int> 
+   </void> 
+   <void method="put"> 
+    <string>british</string> 
+    <int>1</int> 
+   </void> 
+   <void method="put"> 
+    <string>english</string> 
+    <int>1</int> 
+   </void> 
+  </void> 
+  <void property="type"> 
+   <string>OriginalProduction</string> 
+  </void> 
+  <void property="urls"> 
+   <void method="put"> 
+    <string>OfficialSite</string> 
+    <object class="java.util.Vector"> 
+     <void method="add"> 
+      <string>http://www.rephlex.com/</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="put"> 
+    <string>Discogs</string> 
+    <object class="java.util.Vector"> 
+     <void method="add"> 
+      <string>http://www.discogs.com/label/Rephlex</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="put"> 
+    <string>Wikipedia</string> 
+    <object class="java.util.Vector"> 
+     <void method="add"> 
+      <string>http://en.wikipedia.org/wiki/Rephlex_Records</string> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+ </object> 
+</java> 

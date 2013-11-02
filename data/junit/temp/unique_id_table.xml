@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_11" class="java.beans.XMLDecoder">
+ <object class="com.mixshare.rapid_evolution.data.util.table.UniqueIdTable">
+  <void property="identifierMap">
+   <void method="put">
+    <object class="com.mixshare.rapid_evolution.data.identifier.filter.style.StyleIdentifier" id="StyleIdentifier0">
+     <void property="name">
+      <string>test style</string>
+     </void>
+    </object>
+    <int>1</int>
+   </void>
+   <void method="put">
+    <object class="com.mixshare.rapid_evolution.data.identifier.filter.style.StyleIdentifier" id="StyleIdentifier1">
+     <void property="name">
+      <string>test style2</string>
+     </void>
+    </object>
+    <int>2</int>
+   </void>
+  </void>
+  <void property="nextIntegerValue">
+   <int>3</int>
+  </void>
+  <void property="uniqueIdMap">
+   <void method="put">
+    <int>1</int>
+    <object idref="StyleIdentifier0"/>
+   </void>
+   <void method="put">
+    <int>2</int>
+    <object idref="StyleIdentifier1"/>
+   </void>
+  </void>
+ </object>
+</java>

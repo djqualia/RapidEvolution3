@@ -1,0 +1,282 @@
+<settings version="1">
+	<category id="general">
+		<category id="display">
+			<setting id="thumbnail_image_size" type="integer"/>			
+			<setting id="preferred_text_case" type="choice"/>
+			<setting id="show_search_result_count" type="boolean"/>
+			<setting id="highlight_filters_of_selected_search_items" type="boolean"/>
+			<setting id="show_advanced_key_information" type="boolean"/>
+			<setting id="preferred_key_format" type="choice"/>
+			<setting id="prefix_keycode_values" type="boolean"/>
+			<setting id="profile_title_font_point_size" type="integer"/>
+			<setting id="profile_title_max_field_display_length" type="integer"/>
+			<category id="song_display_format">
+				<setting id="song_display_format_show_artist" type="boolean"/>
+				<setting id="song_display_format_show_release" type="boolean"/>
+				<setting id="song_display_format_show_track" type="boolean"/>
+				<setting id="song_display_format_show_title" type="boolean"/>
+				<setting id="song_display_format_show_remix" type="boolean"/>
+				<setting id="song_display_format_show_bpm" type="boolean"/>
+				<setting id="song_display_format_show_key" type="boolean"/>
+				<setting id="song_display_format_show_duration" type="boolean"/>
+			</category>
+		</category>		
+		<category id="mixing">
+			<setting id="bpm_slider_lock" type="boolean"/>
+			<setting id="prevent_repeat_songplay" type="boolean"/>
+			<setting id="compatible_tab_min_rating" type="integer"/>
+			<setting id="enable_harmonic_coloring_in_search_table" type="boolean"/>			
+		</category>		
+		<setting id="enable_toggle_selection" type="boolean"/>
+		<setting id="show_progress_bars" type="boolean"/>		
+		<setting id="shutdown_timeout_seconds" type="integer"/>
+		<setting id="max_foreground_tasks" type="integer"/>
+		<setting id="max_background_tasks" type="integer"/>
+		<setting id="mouse_wheel_scroll_lines" type="integer"/>
+		<setting id="add_under_selected_filters" type="boolean"/>		
+		<setting id="user_enable_debug_mode" type="boolean"/>
+	</category>
+	<category id="library">	
+		<setting id="root_music_directory" type="directory"/>
+		<setting id="alternate_music_directory" type="directory"/>
+		<setting id="automatically_scan_root_directory" type="boolean"/>	
+		<setting id="add_playlists_during_import" type="boolean"/>		
+		<setting id="organize_music_rename_pattern" type="choice"/>
+		<setting id="import_songs_from_itunes_automatically" type="boolean"/>
+		<setting id="import_itunes_playlists" type="boolean"/>		
+		<setting id="delete_actual_song_filenames" type="boolean"/>		
+		<setting id="attempt_to_automatically_merge_duplicates" type="boolean"/>
+		<setting id="highlight_broken_file_links" type="boolean"/>
+		<setting id="highlight_external_items" type="boolean"/>
+		<setting id="temp_working_directory" type="directory"/>
+		<setting id="prevent_duplicates_from_being_added" type="boolean"/>		
+		<category id="saving">
+			<setting id="autosave_interval_minutes" type="integer"/>
+			<setting id="max_num_database_backup_files" type="integer"/>		
+		</category>
+		<category id="tag_reading">			
+			<setting id="tag_reading_parse_title" type="boolean"/>
+			<setting id="enable_tag_read_optimizations" type="boolean"/>
+		</category>	
+		<category id="tag_writing">
+			<setting id="preferred_mp3_tag_writer_library" type="choice"/>
+			<setting id="automatically_update_tags" type="boolean"/>	
+			<setting id="preferred_id3_format" type="choice"/>
+			<setting id="write_empty_tag_fields" type="boolean"/>	
+			<setting id="tag_write_unsync" type="boolean"/>			
+			<category id="tag_write_fields">
+				<setting id="tag_write_album_cover" type="boolean"/>	
+				<setting id="tag_write_album_field" type="boolean"/>	
+				<setting id="tag_write_artist_field" type="boolean"/>	
+				<setting id="tag_write_beat_intensity_field" type="boolean"/>	
+				<setting id="tag_write_bpm_field" type="boolean"/>	
+				<setting id="tag_write_bpm_decimal_values" type="boolean"/>	
+				<setting id="tag_write_comments_field" type="boolean"/>	
+				<setting id="tag_write_custom_fields" type="boolean"/>	
+				<setting id="tag_write_duration_field" type="boolean"/>	
+				<setting id="tag_write_genre_field" type="boolean"/>	
+				<setting id="tag_write_key_field" type="boolean"/>	
+				<setting id="tag_write_key_to_comments" type="boolean"/>
+				<setting id="tag_write_key_to_comments_only" type="boolean"/>			
+				<setting id="tag_write_key_to_grouping_field" type="boolean"/>	
+				<setting id="tag_write_key_to_title" type="boolean"/>	
+				<setting id="tag_write_key_codes" type="boolean"/>	
+				<setting id="tag_write_label_field" type="boolean"/>	
+				<setting id="tag_write_lyrics_field" type="boolean"/>	
+				<setting id="tag_write_rating_field" type="boolean"/>	
+				<setting id="tag_write_remix_field" type="boolean"/>	
+				<setting id="tag_write_remix_with_title" type="boolean"/>	
+				<setting id="tag_write_replaygain_field" type="boolean"/>	
+				<setting id="tag_write_styles_fields" type="boolean"/>	
+				<setting id="tag_write_tags_fields" type="boolean"/>	
+				<setting id="tag_write_time_sig_field" type="boolean"/>	
+				<setting id="tag_write_title_field" type="boolean"/>	
+				<setting id="tag_write_track_field" type="boolean"/>	
+				<setting id="tag_write_year_field" type="boolean"/>						
+			</category>				
+		</category>
+		<category id="playlists">
+			<setting id="save_relative_paths_in_playlists" type="boolean"/>		
+			<setting id="create_date_added_playlist_when_adding_files" type="boolean"/>
+			<setting id="restore_playlist_sort_parameters" type="boolean"/>		
+		</category>
+		<category id="organization">
+			<setting id="organize_music_directory" type="directory"/>	
+			<setting id="organize_music_backup_directory" type="directory"/>	
+			<setting id="delete_original_files_after_copy" type="boolean"/>	
+			<setting id="rename_files_during_organization" type="boolean"/>	
+			<setting id="write_tags_during_organization" type="boolean"/>
+			<setting id="google_drive_export_directory" type="directory"/>
+			<setting id="export_to_google_drive_when_organizing" type="boolean"/>
+		</category>		
+		<category id="recommendations">		
+			<setting id="skip_user_profile_computation" type="boolean"/>
+			<setting id="max_external_artists" type="integer"/>
+			<setting id="max_external_labels" type="integer"/>
+			<setting id="max_external_releases" type="integer"/>
+			<setting id="max_external_songs" type="integer"/>
+		</category>	
+		<category id="web_access">
+			<setting id="web_access_enabled" type="boolean"/>			
+			<setting id="web_access_port" type="integer"/>
+			<setting id="enable_web_access_security" type="boolean"/>			
+			<setting id="web_access_username" type="text"/>			
+			<setting id="web_access_password" type="text"/>			
+		</category>				
+	</category>
+	<category id="media_player">
+		<setting id="use_os_media_player" type="boolean"/>
+		<setting id="os_media_player_path" type="file"/>
+		<setting id="media_player_enable_replay_gain" type="boolean"/>		
+		<setting id="status_alert_no_decoder_message_enabled" type="boolean"/>
+		<category id="autoplay">	
+			<setting id="autoplay_enabled" type="boolean"/>	
+			<setting id="autoplay_randomness" type="integer"/>
+			<setting id="autoplay_prefer_mixouts_when_available" type="boolean"/>
+			<setting id="minimum_songs_between_artist_repeat" type="integer"/>
+			<setting id="media_player_autoplay_minimum_rating" type="integer"/>		
+			<setting id="media_player_autoplay_include_unrated" type="boolean"/>
+			<setting id="autoplay_avoid_repeats_all_session" type="boolean"/>			
+		</category>		
+		<category id="video">
+			<setting id="video_player_auto_resize" type="boolean"/>
+			<setting id="media_player_video_single_click_pause" type="boolean"/>
+		</category>
+		<category id="codecs">
+			<setting id="enable_faad2_codec" type="boolean"/>
+			<setting id="enable_ffmpeg_codec" type="boolean"/>
+			<setting id="enable_java_codecs" type="boolean"/>
+			<setting id="enable_phonon_codec" type="boolean"/>
+			<setting id="enable_quicktime_codec" type="boolean"/>				
+			<setting id="enable_xuggle_codec" type="boolean"/>
+		</category>
+	</category>	
+	<category id="search">
+		<setting id="enable_sub_sorting" type="boolean"/>	
+		<setting id="add_wildcard_to_searches" type="boolean"/>
+		<setting id="strict_match_searching" type="boolean"/>		
+		<setting id="text_changed_search_delay" type="integer"/>	
+		<setting id="max_similar_items" type="integer"/>	
+		<setting id="max_styles_in_description" type="integer"/>			
+		<setting id="show_style_degrees_in_description" type="boolean"/>
+		<setting id="max_tags_in_description" type="integer"/>
+		<setting id="show_tag_degrees_in_description" type="boolean"/>		
+		<category id="lazy_search">
+			<setting id="lazy_search_mode" type="boolean"/>
+			<setting id="lazy_search_mode_max_results" type="integer"/>
+			<setting id="show_lazy_filters_on_empty_parameters" type="boolean"/>
+			<setting id="style_model_supports_lazy" type="boolean"/>
+			<setting id="tag_model_supports_lazy" type="boolean"/>
+			<setting id="playlist_model_supports_lazy" type="boolean"/>
+		</category>		
+		<category id="song_search">
+			<setting id="compatible_bpm_range" type="decimal"/>
+			<setting id="compatible_key_strict_match" type="boolean"/>
+		</category>	
+	</category>
+	<category id="background_tasks">
+		<category id="background_tasks_detection">
+			<setting id="enable_key_detection_task" type="boolean"/>
+			<setting id="enable_bpm_detection_task" type="boolean"/>
+			<setting id="enable_beat_intensity_detection_task" type="boolean"/>
+			<setting id="enable_replay_gain_detection_task" type="boolean"/>
+		</category>
+		<category id="background_tasks_mining">
+			<setting id="enable_bbc_data_miners" type="boolean"/>
+			<setting id="enable_billboard_data_miners" type="boolean"/>
+			<setting id="enable_discogs_data_miners" type="boolean"/>
+			<setting id="enable_echonest_data_miners" type="boolean"/>
+			<setting id="enable_gigjunkie_data_miners" type="boolean"/>
+			<setting id="enable_idiomag_data_miners" type="boolean"/>
+			<setting id="enable_lastfm_data_miners" type="boolean"/>
+			<setting id="enable_lyricsfly_data_miners" type="boolean"/>
+			<setting id="enable_lyricwiki_data_miners" type="boolean"/>
+			<setting id="enable_musicbrainz_data_miners" type="boolean"/>
+			<setting id="enable_yahoo_data_miners" type="boolean"/>		
+		</category>
+	</category>
+	<category id="detection">
+		<setting id="max_simultaneous_detection_tasks" type="integer"/>
+		<category id="key_detection">
+			<setting id="detect_start_and_end_keys" type="boolean"/>
+			<setting id="detect_advanced_keys" type="boolean"/>
+			<setting id="percent_audio_samples_to_process" type="integer"/>
+		</category>
+		<category id="bpm_detection">
+			<setting id="bpm_detector_minimum" type="decimal"/>
+			<setting id="bpm_detector_maximum" type="decimal"/>
+			<setting id="bpm_detector_quality" type="integer"/>
+		</category>
+		<category id="detection_priority">		
+			<setting id="key_detection_task_priority" type="integer"/>	
+			<setting id="bpm_detection_task_priority" type="integer"/>	
+			<setting id="beat_intensity_detection_task_priority" type="integer"/>	
+			<setting id="replay_gain_detection_task_priority" type="integer"/>
+		</category>		
+	</category>
+	<category id="data_mining">
+		<setting id="enable_data_miners" type="boolean"/>
+		<setting id="automatically_add_external_items" type="boolean"/>
+		<setting id="enable_triggered_data_miners" type="boolean"/>
+		<setting id="do_not_add_styles_automatically" type="boolean"/>
+		<setting id="do_not_add_tags_automatically" type="boolean"/>
+		<category id="data_mining_priority">
+			<setting id="bbc_mining_task_priority" type="integer"/>
+			<setting id="billboard_mining_task_priority" type="integer"/>
+			<setting id="discogs_mining_task_priority" type="integer"/>
+			<setting id="echonest_mining_task_priority" type="integer"/>
+			<setting id="gigjunkie_mining_task_priority" type="integer"/>			
+			<setting id="idiomag_mining_task_priority" type="integer"/>
+			<setting id="lastfm_mining_task_priority" type="integer"/>
+			<setting id="lyricsfly_mining_task_priority" type="integer"/>
+			<setting id="lyricwiki_mining_task_priority" type="integer"/>
+			<setting id="musicbrainz_mining_task_priority" type="integer"/>
+			<setting id="yahoo_mining_task_priority" type="integer"/>
+		</category>
+	</category>
+	<category id="similarity">
+		<category id="artist_similarity">
+			<setting id="artist_similarity_styles_weight" type="decimal"/>
+			<setting id="artist_similarity_tags_weight" type="decimal"/>
+			<setting id="artist_similarity_lastfm_weight" type="decimal"/>
+			<setting id="artist_similarity_labels_weight" type="decimal"/>
+			<setting id="artist_similarity_echonest_weight" type="decimal"/>
+			<setting id="artist_similarity_idiomag_weight" type="decimal"/>
+			<setting id="artist_similarity_yahoo_weight" type="decimal"/>
+			<setting id="artist_similarity_beat_intensity_weight" type="decimal"/>
+		</category>
+		<category id="label_similarity">
+			<setting id="label_similarity_styles_weight" type="decimal"/>
+			<setting id="label_similarity_tags_weight" type="decimal"/>
+			<setting id="label_similarity_artists_weight" type="decimal"/>
+			<setting id="label_similarity_beat_intensity_weight" type="decimal"/>
+		</category>
+		<category id="release_similarity">
+			<setting id="release_similarity_artists_weight" type="decimal"/>
+			<setting id="release_similarity_labels_weight" type="decimal"/>
+			<setting id="release_similarity_styles_weight" type="decimal"/>
+			<setting id="release_similarity_tags_weight" type="decimal"/>
+			<setting id="release_similarity_discogs_weight" type="decimal"/>
+			<setting id="release_similarity_beat_intensity_weight" type="decimal"/>			
+		</category>
+		<category id="song_similarity">
+			<setting id="song_similarity_artist_compare_threshold" type="decimal"/>			
+			<setting id="song_similarity_artists_weight" type="decimal"/>			
+			<setting id="song_similarity_labels_weight" type="decimal"/>			
+			<setting id="song_similarity_styles_weight" type="decimal"/>			
+			<setting id="song_similarity_tags_weight" type="decimal"/>			
+			<setting id="song_similarity_lastfm_weight" type="decimal"/>			
+			<setting id="song_similarity_beat_intensity_weight" type="decimal"/>			
+			<setting id="song_similarity_bpm_weight" type="decimal"/>			
+			<setting id="song_similarity_duration_weight" type="decimal"/>			
+			<setting id="song_similarity_time_sig_weight" type="decimal"/>
+			<setting id="song_similarity_timbre_weight" type="decimal"/>			
+			<setting id="song_similarity_bc_scale" type="decimal"/>
+			<setting id="song_similarity_umg_scale" type="decimal"/>
+		</category>
+	</category>
+	<category id="performance">
+		<setting id="thumbnail_image_cache_size" type="integer"/>
+		<setting id="profile_cache_size" type="integer"/>		
+	</category>
+</settings>

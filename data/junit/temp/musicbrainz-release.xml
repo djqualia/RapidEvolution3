@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_32" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+  <void property="artistDescription"> 
+   <string>Aphex Twin</string> 
+  </void> 
+  <void property="artistMbid"> 
+   <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+  </void> 
+  <void property="asin"> 
+   <string>B00005QJH7</string> 
+  </void> 
+  <void property="avgRating"> 
+   <float>4.0</float> 
+  </void> 
+  <void property="mbId"> 
+   <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+  </void> 
+  <void property="numRaters"> 
+   <int>4</int> 
+  </void> 
+  <void property="originalYearReleased"> 
+   <string>2001</string> 
+  </void> 
+  <void property="releaseGroupId"> 
+   <string>87f1a316-510f-36c3-9f2c-38230b0e56e0</string> 
+  </void> 
+  <void property="releaseGroupTitle"> 
+   <string>Drukqs</string> 
+  </void> 
+  <void property="releaseTitle"> 
+   <string>Drukqs</string> 
+  </void> 
+  <void property="songs"> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>134000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>8a96f1ad-155e-4fd6-ad89-c38df8f86899</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Jynweythek</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>282000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>de17ff7b-f022-4c32-8853-e17f971e99bf</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Vordhosbn</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>120000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>b65c4f1f-76e6-4f51-8721-92ad35b5cfd2</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Kladfvgbung Micshk</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>123000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>b2c6febe-8c6b-4665-9d37-068893d03e08</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Strotha Tynhe</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>286000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>6cb57d5e-da03-4bcd-b7b5-b08023890b42</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Omgyjya Switch7</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>300000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>497d0d7a-61b0-4e57-859b-9f4a3e1b5da8</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Gwely Mernans</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>317000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>b0ca186d-b92c-4f14-9626-2480f2ebc2af</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Cock/Ver10</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>141000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>dfac7ba0-d36f-48b6-9eda-90434269ed59</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Bbydhyonchord</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>87000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>1d1f859c-8e21-4ee5-a0d4-7f1a1ad91828</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Orban Eq Trx4</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>482000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>f1be6384-1d5a-47c1-a50b-44e0e25f4097</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Mt Saint Michel Mix + St Michaels Mount</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>118000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>012c0462-7af6-4939-85cc-6e9cddb5ee7f</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Beskhu3epnm</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>7000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>647929e9-447f-4797-9787-a182f897b3cf</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Aussois</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>129000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>50c14dc8-708d-439b-9ffa-3b091a521e22</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Hy A Scullyas Lyf A Dhagrow</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>78000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>47007da4-fb1e-4237-81dd-a1e2cd7547e5</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Kesson Daslef</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>115000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>c7a91e25-576f-4562-b7c0-7e2add6aedd3</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Avril 14th</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>398000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>3c60d1f8-6125-4685-a52f-0e13c3fd1683</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Gwarek2</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>359000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>ca7d521b-1eb4-496c-be5e-ebd2403be46d</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>54 Cymru Beats</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>116000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>e1f500ef-3168-4ab2-86ac-ce58685bc68c</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Btoum-Roumada</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>30000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>c9b77f76-c9f2-4bcd-984b-12788cb025f2</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Lornaderek</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>80000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>2b5e43e9-bd3e-469a-85a1-abcb43a85982</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Penty Harmonium</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>73000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>33186bcf-14d6-4709-be4b-80be0ba7e47b</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Prep Gwarlek 36</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>51000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>66e39c64-33a2-45a9-88a3-2f47510799f3</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Father</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>125000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>02ab8c18-0355-4097-9739-a50def29ecee</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Petiatil Cx Htdui</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>374000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>5578155c-6f9d-4f60-bbda-fd72c588eedb</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Meltphace 6</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>18000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>9b9dbe48-864a-4021-898d-fd02e7d24a9c</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Bit4</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>428000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>af004bc9-dfbd-48bb-bd57-6bf7daccb00f</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Taking Control</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>105000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>19ce9cfb-1c90-41f0-a088-1f082bb05776</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Ruglen Holon</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>255000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>550bcde0-73b0-4459-92c2-0183820c7ea7</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Afx237 V7</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>508000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>fa34dd35-37fd-40b6-a8f1-e6a3d4da6e49</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Ziggomatic V17</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+     <void property="artistDescription"> 
+      <string>Aphex Twin</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>f22942a1-6f70-4f48-866e-238cb2308fbd</string> 
+     </void> 
+     <void property="duration"> 
+      <int>202000</int> 
+     </void> 
+     <void property="mbId"> 
+      <string>a2711bfa-856d-4c59-8606-07fca7fdbb0b</string> 
+     </void> 
+     <void property="releaseMbids"> 
+      <void method="add"> 
+       <string>4d35da90-c4f9-4d37-b68a-027225fca9cd</string> 
+      </void> 
+     </void> 
+     <void property="releaseTitles"> 
+      <void method="add"> 
+       <string>Drukqs</string> 
+      </void> 
+     </void> 
+     <void property="songDescription"> 
+      <string>Nanou2</string> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="tags"> 
+   <void method="put"> 
+    <string>multiple discogs links</string> 
+    <int>1</int> 
+   </void> 
+   <void method="put"> 
+    <string>dance and electronica</string> 
+    <int>1</int> 
+   </void> 
+   <void method="put"> 
+    <string>experimental</string> 
+    <int>1</int> 
+   </void> 
+   <void method="put"> 
+    <string>idm</string> 
+    <int>4</int> 
+   </void> 
+   <void method="put"> 
+    <string>electronic</string> 
+    <int>1</int> 
+   </void> 
+  </void> 
+  <void property="type"> 
+   <string>Album Official</string> 
+  </void> 
+  <void property="urls"> 
+   <void method="put"> 
+    <string>AmazonAsin</string> 
+    <object class="java.util.Vector"> 
+     <void method="add"> 
+      <string>http://www.amazon.co.uk/gp/product/B00005QJH7</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="put"> 
+    <string>Discogs</string> 
+    <object class="java.util.Vector"> 
+     <void method="add"> 
+      <string>http://www.discogs.com/release/13966</string> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+ </object> 
+</java> 

@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_21" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.billboard.song.BillboardSongProfile"> 
+  <void property="artistDescription"> 
+   <string>Beck</string> 
+  </void> 
+  <void property="chartEntries"> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-12-31</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>The Billboard Hot 100</string> 
+     </void> 
+     <void property="label"> 
+      <string></string> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>411</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Year-end Singles</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-08-13</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Singles Recurrents</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>3</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>352</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>5</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-08-06</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Singles Recurrents</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>3</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>352</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>5</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-07-30</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Singles Recurrents</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>3</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>352</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>5</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-07-30</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Singles Sales</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>3</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>353</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-07-23</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Singles Recurrents</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>3</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>352</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>5</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-07-23</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Singles Sales</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>3</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>353</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-07-16</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Singles Sales</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>3</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>353</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-07-16</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Singles Recurrents</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>3</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>352</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>5</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-07-09</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot 100 Airplay</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>31</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>350</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>26</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-07-09</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>The Billboard Hot 100</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>10</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>379</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-07-09</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Singles Sales</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>3</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>353</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-07-02</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>The Billboard Hot 100</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>10</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>379</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-07-02</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot 100 Airplay</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>31</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>350</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>26</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-07-02</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Singles Sales</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>3</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>353</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-07-02</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Mainstream Top 40</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>17</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>381</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>16</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-06-25</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot 100 Airplay</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>31</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>350</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>26</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-06-25</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Singles Sales</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>3</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>353</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-06-25</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Mainstream Top 40</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>17</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>381</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>16</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-06-25</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>The Billboard Hot 100</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>10</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>379</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-06-18</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>The Billboard Hot 100</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>10</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>379</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-06-18</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot 100 Airplay</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>31</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>350</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>26</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-06-18</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Mainstream Top 40</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>17</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>381</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>16</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-06-18</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Singles Sales</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>3</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>353</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-06-11</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot 100 Airplay</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>31</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>350</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>26</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-06-11</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Singles Sales</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>3</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>353</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-06-11</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Mainstream Top 40</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>17</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>381</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>16</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-06-11</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>The Billboard Hot 100</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>10</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>379</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-06-04</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Singles Sales</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>3</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>353</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-06-04</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>The Billboard Hot 100</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>10</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>379</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-06-04</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Mainstream Top 40</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>17</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>381</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>16</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-06-04</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot 100 Airplay</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>31</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>350</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>26</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-05-28</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Singles Sales</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>3</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>353</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-05-28</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>The Billboard Hot 100</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>10</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>379</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-05-28</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Mainstream Top 40</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>17</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>381</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>16</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-05-28</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot 100 Airplay</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>31</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>350</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>26</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-05-21</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Mainstream Top 40</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>17</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>381</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>16</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-05-21</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Singles Sales</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>3</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>353</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-05-21</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot 100 Airplay</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>31</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>350</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>26</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-05-21</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>The Billboard Hot 100</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>10</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>379</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-05-14</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Mainstream Top 40</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>17</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>381</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>16</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-05-14</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot 100 Airplay</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>31</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>350</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>26</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-05-14</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Singles Sales</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>3</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>353</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-05-14</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Modern Rock Tracks</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>377</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>21</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-05-14</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>The Billboard Hot 100</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>10</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>379</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-05-07</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Modern Rock Tracks</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>1</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>377</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>21</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-05-07</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Mainstream Top 40</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>17</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>381</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>16</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-05-07</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot Singles Sales</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>3</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>353</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-05-07</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>Hot 100 Airplay</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>31</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>350</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>26</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.billboard.ChartEntry"> 
+     <void property="artist"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="chartIssueDate"> 
+      <string>1994-05-07</string> 
+     </void> 
+     <void property="chartName"> 
+      <string>The Billboard Hot 100</string> 
+     </void> 
+     <void property="label"> 
+      <string>DGC</string> 
+     </void> 
+     <void property="peak"> 
+      <int>10</int> 
+     </void> 
+     <void property="song"> 
+      <string>Loser</string> 
+     </void> 
+     <void property="specId"> 
+      <int>379</int> 
+     </void> 
+     <void property="specType"> 
+      <string>Singles</string> 
+     </void> 
+     <void property="weeksOn"> 
+      <int>24</int> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="songName"> 
+   <string>Loser</string> 
+  </void> 
+  <void property="valid"> 
+   <boolean>true</boolean> 
+  </void> 
+ </object> 
+</java> 

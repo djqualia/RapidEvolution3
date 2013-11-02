@@ -1,0 +1,3768 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_21" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.discogs.release.DiscogsRelease"> 
+  <void property="artistNames"> 
+   <void method="add"> 
+    <string>Petter Nordkvist</string> 
+   </void> 
+  </void> 
+  <void property="country"> 
+   <string>UK</string> 
+  </void> 
+  <void property="genres"> 
+   <void method="add"> 
+    <string>Electronic</string> 
+   </void> 
+  </void> 
+  <void property="imageURLs"> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/R-724699-1153902206.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/R-724699-1153902281.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/R-724699-1169156955.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/R-724699-1169156978.jpeg</string> 
+   </void> 
+  </void> 
+  <void property="labels"> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.discogs.release.DiscogsReleaseLabelInstance"> 
+     <void property="catno"> 
+      <string>12BC</string> 
+     </void> 
+     <void property="name"> 
+      <string>Border Community</string> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="owners"> 
+   <void method="add"> 
+    <string>-SPQR-</string> 
+   </void> 
+   <void method="add"> 
+    <string>.ViSiON</string> 
+   </void> 
+   <void method="add"> 
+    <string>0epicurus0</string> 
+   </void> 
+   <void method="add"> 
+    <string>16-Lux</string> 
+   </void> 
+   <void method="add"> 
+    <string>3Dman</string> 
+   </void> 
+   <void method="add"> 
+    <string>a.r.o.n.</string> 
+   </void> 
+   <void method="add"> 
+    <string>Abraxas307</string> 
+   </void> 
+   <void method="add"> 
+    <string>ac1djub13</string> 
+   </void> 
+   <void method="add"> 
+    <string>acidburn</string> 
+   </void> 
+   <void method="add"> 
+    <string>adiogo</string> 
+   </void> 
+   <void method="add"> 
+    <string>akinari1121</string> 
+   </void> 
+   <void method="add"> 
+    <string>Alec_Tucker</string> 
+   </void> 
+   <void method="add"> 
+    <string>alexferrazzi</string> 
+   </void> 
+   <void method="add"> 
+    <string>Alexfoure</string> 
+   </void> 
+   <void method="add"> 
+    <string>almork01</string> 
+   </void> 
+   <void method="add"> 
+    <string>Alpine</string> 
+   </void> 
+   <void method="add"> 
+    <string>ameijde</string> 
+   </void> 
+   <void method="add"> 
+    <string>Anthill37</string> 
+   </void> 
+   <void method="add"> 
+    <string>apergis</string> 
+   </void> 
+   <void method="add"> 
+    <string>appleholic</string> 
+   </void> 
+   <void method="add"> 
+    <string>AREA__51</string> 
+   </void> 
+   <void method="add"> 
+    <string>arnevo</string> 
+   </void> 
+   <void method="add"> 
+    <string>Artus</string> 
+   </void> 
+   <void method="add"> 
+    <string>AS8010a</string> 
+   </void> 
+   <void method="add"> 
+    <string>AshBoltagone</string> 
+   </void> 
+   <void method="add"> 
+    <string>aspertko</string> 
+   </void> 
+   <void method="add"> 
+    <string>Aspi</string> 
+   </void> 
+   <void method="add"> 
+    <string>atmo9</string> 
+   </void> 
+   <void method="add"> 
+    <string>audiophill</string> 
+   </void> 
+   <void method="add"> 
+    <string>audioporno</string> 
+   </void> 
+   <void method="add"> 
+    <string>Audiotronic</string> 
+   </void> 
+   <void method="add"> 
+    <string>autos</string> 
+   </void> 
+   <void method="add"> 
+    <string>axne</string> 
+   </void> 
+   <void method="add"> 
+    <string>aylake</string> 
+   </void> 
+   <void method="add"> 
+    <string>a_kir_a</string> 
+   </void> 
+   <void method="add"> 
+    <string>A_Zimmermann</string> 
+   </void> 
+   <void method="add"> 
+    <string>b-rad</string> 
+   </void> 
+   <void method="add"> 
+    <string>baatschebie</string> 
+   </void> 
+   <void method="add"> 
+    <string>Babbith</string> 
+   </void> 
+   <void method="add"> 
+    <string>bacabreeze</string> 
+   </void> 
+   <void method="add"> 
+    <string>Balage</string> 
+   </void> 
+   <void method="add"> 
+    <string>Bambaata</string> 
+   </void> 
+   <void method="add"> 
+    <string>barry_roos</string> 
+   </void> 
+   <void method="add"> 
+    <string>bart-vermeulen</string> 
+   </void> 
+   <void method="add"> 
+    <string>Bart1983</string> 
+   </void> 
+   <void method="add"> 
+    <string>bartlambrecht</string> 
+   </void> 
+   <void method="add"> 
+    <string>bcnsaul</string> 
+   </void> 
+   <void method="add"> 
+    <string>Becaphalus</string> 
+   </void> 
+   <void method="add"> 
+    <string>beda</string> 
+   </void> 
+   <void method="add"> 
+    <string>Belegloss</string> 
+   </void> 
+   <void method="add"> 
+    <string>Berethe1</string> 
+   </void> 
+   <void method="add"> 
+    <string>bernd_k</string> 
+   </void> 
+   <void method="add"> 
+    <string>berra</string> 
+   </void> 
+   <void method="add"> 
+    <string>bertvdom</string> 
+   </void> 
+   <void method="add"> 
+    <string>betime</string> 
+   </void> 
+   <void method="add"> 
+    <string>Beyens</string> 
+   </void> 
+   <void method="add"> 
+    <string>billybats</string> 
+   </void> 
+   <void method="add"> 
+    <string>BioTracer</string> 
+   </void> 
+   <void method="add"> 
+    <string>Bitshifter</string> 
+   </void> 
+   <void method="add"> 
+    <string>Bjorn_G</string> 
+   </void> 
+   <void method="add"> 
+    <string>Blackened</string> 
+   </void> 
+   <void method="add"> 
+    <string>blackstar0711</string> 
+   </void> 
+   <void method="add"> 
+    <string>blcklng</string> 
+   </void> 
+   <void method="add"> 
+    <string>Bluelove</string> 
+   </void> 
+   <void method="add"> 
+    <string>BluePrinz</string> 
+   </void> 
+   <void method="add"> 
+    <string>bluntafari</string> 
+   </void> 
+   <void method="add"> 
+    <string>Bonner</string> 
+   </void> 
+   <void method="add"> 
+    <string>borat</string> 
+   </void> 
+   <void method="add"> 
+    <string>bouq</string> 
+   </void> 
+   <void method="add"> 
+    <string>bruns</string> 
+   </void> 
+   <void method="add"> 
+    <string>Bugante</string> 
+   </void> 
+   <void method="add"> 
+    <string>Bunz</string> 
+   </void> 
+   <void method="add"> 
+    <string>BURNBURN</string> 
+   </void> 
+   <void method="add"> 
+    <string>burolive</string> 
+   </void> 
+   <void method="add"> 
+    <string>burpie</string> 
+   </void> 
+   <void method="add"> 
+    <string>c8</string> 
+   </void> 
+   <void method="add"> 
+    <string>Caerz</string> 
+   </void> 
+   <void method="add"> 
+    <string>CandyPollard</string> 
+   </void> 
+   <void method="add"> 
+    <string>captain_morgan</string> 
+   </void> 
+   <void method="add"> 
+    <string>Carma_LE</string> 
+   </void> 
+   <void method="add"> 
+    <string>carolemadge</string> 
+   </void> 
+   <void method="add"> 
+    <string>carsten</string> 
+   </void> 
+   <void method="add"> 
+    <string>Catzeboo</string> 
+   </void> 
+   <void method="add"> 
+    <string>cdrd</string> 
+   </void> 
+   <void method="add"> 
+    <string>celle</string> 
+   </void> 
+   <void method="add"> 
+    <string>Centrino</string> 
+   </void> 
+   <void method="add"> 
+    <string>cerfon</string> 
+   </void> 
+   <void method="add"> 
+    <string>charlyb0099</string> 
+   </void> 
+   <void method="add"> 
+    <string>chcout</string> 
+   </void> 
+   <void method="add"> 
+    <string>chefproducer</string> 
+   </void> 
+   <void method="add"> 
+    <string>chinz</string> 
+   </void> 
+   <void method="add"> 
+    <string>chique</string> 
+   </void> 
+   <void method="add"> 
+    <string>Chrisveron</string> 
+   </void> 
+   <void method="add"> 
+    <string>Chromix</string> 
+   </void> 
+   <void method="add"> 
+    <string>chss</string> 
+   </void> 
+   <void method="add"> 
+    <string>Circulation</string> 
+   </void> 
+   <void method="add"> 
+    <string>clementek</string> 
+   </void> 
+   <void method="add"> 
+    <string>clemichounet</string> 
+   </void> 
+   <void method="add"> 
+    <string>Coco</string> 
+   </void> 
+   <void method="add"> 
+    <string>Cocoon</string> 
+   </void> 
+   <void method="add"> 
+    <string>columbus</string> 
+   </void> 
+   <void method="add"> 
+    <string>Combe</string> 
+   </void> 
+   <void method="add"> 
+    <string>comkai</string> 
+   </void> 
+   <void method="add"> 
+    <string>compactgrey</string> 
+   </void> 
+   <void method="add"> 
+    <string>concept71</string> 
+   </void> 
+   <void method="add"> 
+    <string>concordia</string> 
+   </void> 
+   <void method="add"> 
+    <string>cortezia</string> 
+   </void> 
+   <void method="add"> 
+    <string>cosmos-</string> 
+   </void> 
+   <void method="add"> 
+    <string>cossinnelle</string> 
+   </void> 
+   <void method="add"> 
+    <string>Coster</string> 
+   </void> 
+   <void method="add"> 
+    <string>coyse</string> 
+   </void> 
+   <void method="add"> 
+    <string>CoZMo</string> 
+   </void> 
+   <void method="add"> 
+    <string>Creative</string> 
+   </void> 
+   <void method="add"> 
+    <string>D-junk</string> 
+   </void> 
+   <void method="add"> 
+    <string>Daiko</string> 
+   </void> 
+   <void method="add"> 
+    <string>damadelagua</string> 
+   </void> 
+   <void method="add"> 
+    <string>Danael</string> 
+   </void> 
+   <void method="add"> 
+    <string>DanielArgos</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dany-Chy</string> 
+   </void> 
+   <void method="add"> 
+    <string>daria</string> 
+   </void> 
+   <void method="add"> 
+    <string>dark_soul</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dast</string> 
+   </void> 
+   <void method="add"> 
+    <string>davelight024</string> 
+   </void> 
+   <void method="add"> 
+    <string>davexfin</string> 
+   </void> 
+   <void method="add"> 
+    <string>davidfiction</string> 
+   </void> 
+   <void method="add"> 
+    <string>davitch</string> 
+   </void> 
+   <void method="add"> 
+    <string>DeadPan666</string> 
+   </void> 
+   <void method="add"> 
+    <string>dekomp.dj</string> 
+   </void> 
+   <void method="add"> 
+    <string>delan</string> 
+   </void> 
+   <void method="add"> 
+    <string>delpiero3977</string> 
+   </void> 
+   <void method="add"> 
+    <string>demorgan</string> 
+   </void> 
+   <void method="add"> 
+    <string>depije</string> 
+   </void> 
+   <void method="add"> 
+    <string>Derek_B</string> 
+   </void> 
+   <void method="add"> 
+    <string>dieg</string> 
+   </void> 
+   <void method="add"> 
+    <string>dieweisselinie</string> 
+   </void> 
+   <void method="add"> 
+    <string>digitalfactor</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dikkers</string> 
+   </void> 
+   <void method="add"> 
+    <string>dimitriis</string> 
+   </void> 
+   <void method="add"> 
+    <string>DirkHermann</string> 
+   </void> 
+   <void method="add"> 
+    <string>discodevil</string> 
+   </void> 
+   <void method="add"> 
+    <string>DJ-Andy-H</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dj-Celeste</string> 
+   </void> 
+   <void method="add"> 
+    <string>DJ-LizarD</string> 
+   </void> 
+   <void method="add"> 
+    <string>dj-wtech</string> 
+   </void> 
+   <void method="add"> 
+    <string>djbenzz</string> 
+   </void> 
+   <void method="add"> 
+    <string>djben_d</string> 
+   </void> 
+   <void method="add"> 
+    <string>djcebar</string> 
+   </void> 
+   <void method="add"> 
+    <string>DjD3</string> 
+   </void> 
+   <void method="add"> 
+    <string>djdavf</string> 
+   </void> 
+   <void method="add"> 
+    <string>djgecko</string> 
+   </void> 
+   <void method="add"> 
+    <string>djguile</string> 
+   </void> 
+   <void method="add"> 
+    <string>DjMadou</string> 
+   </void> 
+   <void method="add"> 
+    <string>djnash</string> 
+   </void> 
+   <void method="add"> 
+    <string>DJNathan1</string> 
+   </void> 
+   <void method="add"> 
+    <string>djnoppezz</string> 
+   </void> 
+   <void method="add"> 
+    <string>djphosphene</string> 
+   </void> 
+   <void method="add"> 
+    <string>djscorchio</string> 
+   </void> 
+   <void method="add"> 
+    <string>djsethnichols</string> 
+   </void> 
+   <void method="add"> 
+    <string>djsoxxx</string> 
+   </void> 
+   <void method="add"> 
+    <string>djthomasmore</string> 
+   </void> 
+   <void method="add"> 
+    <string>DJTXEMAPU</string> 
+   </void> 
+   <void method="add"> 
+    <string>djvortex</string> 
+   </void> 
+   <void method="add"> 
+    <string>djwhitefrog</string> 
+   </void> 
+   <void method="add"> 
+    <string>djz</string> 
+   </void> 
+   <void method="add"> 
+    <string>dj_benzz</string> 
+   </void> 
+   <void method="add"> 
+    <string>dj_feliz</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dj_Freeart</string> 
+   </void> 
+   <void method="add"> 
+    <string>DJ_Googly</string> 
+   </void> 
+   <void method="add"> 
+    <string>dj_lippe</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dj_Md</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dj_Ozonicc</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dj_Paolo</string> 
+   </void> 
+   <void method="add"> 
+    <string>DJ_Setec</string> 
+   </void> 
+   <void method="add"> 
+    <string>dMaG</string> 
+   </void> 
+   <void method="add"> 
+    <string>donbuz</string> 
+   </void> 
+   <void method="add"> 
+    <string>Don_Rai</string> 
+   </void> 
+   <void method="add"> 
+    <string>doohickey</string> 
+   </void> 
+   <void method="add"> 
+    <string>dquest</string> 
+   </void> 
+   <void method="add"> 
+    <string>dropbeat</string> 
+   </void> 
+   <void method="add"> 
+    <string>drossie</string> 
+   </void> 
+   <void method="add"> 
+    <string>dryueh</string> 
+   </void> 
+   <void method="add"> 
+    <string>DSSlater</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dubbel_D</string> 
+   </void> 
+   <void method="add"> 
+    <string>duitsland</string> 
+   </void> 
+   <void method="add"> 
+    <string>duke.j.walker</string> 
+   </void> 
+   <void method="add"> 
+    <string>dunni7</string> 
+   </void> 
+   <void method="add"> 
+    <string>DZ-MoiZ</string> 
+   </void> 
+   <void method="add"> 
+    <string>easy.miner</string> 
+   </void> 
+   <void method="add"> 
+    <string>EDVERTOV</string> 
+   </void> 
+   <void method="add"> 
+    <string>effetKarma</string> 
+   </void> 
+   <void method="add"> 
+    <string>Egoist</string> 
+   </void> 
+   <void method="add"> 
+    <string>elbino</string> 
+   </void> 
+   <void method="add"> 
+    <string>ElectroeJoe</string> 
+   </void> 
+   <void method="add"> 
+    <string>Electrokute</string> 
+   </void> 
+   <void method="add"> 
+    <string>electro_maniac</string> 
+   </void> 
+   <void method="add"> 
+    <string>emilio_ferreira</string> 
+   </void> 
+   <void method="add"> 
+    <string>endorphinin</string> 
+   </void> 
+   <void method="add"> 
+    <string>ennobln</string> 
+   </void> 
+   <void method="add"> 
+    <string>enzoppi</string> 
+   </void> 
+   <void method="add"> 
+    <string>epic-distortion</string> 
+   </void> 
+   <void method="add"> 
+    <string>Epicur</string> 
+   </void> 
+   <void method="add"> 
+    <string>EPOCHALYPSE</string> 
+   </void> 
+   <void method="add"> 
+    <string>ernusameooioo</string> 
+   </void> 
+   <void method="add"> 
+    <string>etilicoitalico</string> 
+   </void> 
+   <void method="add"> 
+    <string>ETJ_</string> 
+   </void> 
+   <void method="add"> 
+    <string>fahrenheights</string> 
+   </void> 
+   <void method="add"> 
+    <string>fantastik_badr</string> 
+   </void> 
+   <void method="add"> 
+    <string>farmacopeo</string> 
+   </void> 
+   <void method="add"> 
+    <string>fastna</string> 
+   </void> 
+   <void method="add"> 
+    <string>fatjiri</string> 
+   </void> 
+   <void method="add"> 
+    <string>Fieber_3zZ</string> 
+   </void> 
+   <void method="add"> 
+    <string>Fingerprince</string> 
+   </void> 
+   <void method="add"> 
+    <string>fistondub</string> 
+   </void> 
+   <void method="add"> 
+    <string>flippe1</string> 
+   </void> 
+   <void method="add"> 
+    <string>Floh_Baerlin</string> 
+   </void> 
+   <void method="add"> 
+    <string>Flo_Landgraf</string> 
+   </void> 
+   <void method="add"> 
+    <string>franksta</string> 
+   </void> 
+   <void method="add"> 
+    <string>frankyjones79</string> 
+   </void> 
+   <void method="add"> 
+    <string>frazer</string> 
+   </void> 
+   <void method="add"> 
+    <string>fredmat</string> 
+   </void> 
+   <void method="add"> 
+    <string>freecdji</string> 
+   </void> 
+   <void method="add"> 
+    <string>Freqing</string> 
+   </void> 
+   <void method="add"> 
+    <string>Funke</string> 
+   </void> 
+   <void method="add"> 
+    <string>F_L_INder</string> 
+   </void> 
+   <void method="add"> 
+    <string>G3rmaNate</string> 
+   </void> 
+   <void method="add"> 
+    <string>gaborlazar</string> 
+   </void> 
+   <void method="add"> 
+    <string>gaid</string> 
+   </void> 
+   <void method="add"> 
+    <string>gaiko</string> 
+   </void> 
+   <void method="add"> 
+    <string>Ganesha</string> 
+   </void> 
+   <void method="add"> 
+    <string>gargoyle</string> 
+   </void> 
+   <void method="add"> 
+    <string>Gawril</string> 
+   </void> 
+   <void method="add"> 
+    <string>Genshji</string> 
+   </void> 
+   <void method="add"> 
+    <string>gescom33</string> 
+   </void> 
+   <void method="add"> 
+    <string>ghiandahardcore</string> 
+   </void> 
+   <void method="add"> 
+    <string>gian77</string> 
+   </void> 
+   <void method="add"> 
+    <string>GianlucaDT</string> 
+   </void> 
+   <void method="add"> 
+    <string>gidnek78</string> 
+   </void> 
+   <void method="add"> 
+    <string>gijsie</string> 
+   </void> 
+   <void method="add"> 
+    <string>giubo</string> 
+   </void> 
+   <void method="add"> 
+    <string>gizzjah</string> 
+   </void> 
+   <void method="add"> 
+    <string>Glennnius</string> 
+   </void> 
+   <void method="add"> 
+    <string>gnippiks</string> 
+   </void> 
+   <void method="add"> 
+    <string>goran_s</string> 
+   </void> 
+   <void method="add"> 
+    <string>goshan</string> 
+   </void> 
+   <void method="add"> 
+    <string>goshaq</string> 
+   </void> 
+   <void method="add"> 
+    <string>Govaert</string> 
+   </void> 
+   <void method="add"> 
+    <string>gris</string> 
+   </void> 
+   <void method="add"> 
+    <string>GuidoV</string> 
+   </void> 
+   <void method="add"> 
+    <string>guillegus</string> 
+   </void> 
+   <void method="add"> 
+    <string>HansAerts</string> 
+   </void> 
+   <void method="add"> 
+    <string>HansiAusGE</string> 
+   </void> 
+   <void method="add"> 
+    <string>happy-faciatum</string> 
+   </void> 
+   <void method="add"> 
+    <string>Harrrm</string> 
+   </void> 
+   <void method="add"> 
+    <string>hasahouse</string> 
+   </void> 
+   <void method="add"> 
+    <string>Hellesv</string> 
+   </void> 
+   <void method="add"> 
+    <string>Hellopussy</string> 
+   </void> 
+   <void method="add"> 
+    <string>hendrixxx</string> 
+   </void> 
+   <void method="add"> 
+    <string>herm_del_sol</string> 
+   </void> 
+   <void method="add"> 
+    <string>HerrBremer</string> 
+   </void> 
+   <void method="add"> 
+    <string>hifivinyl</string> 
+   </void> 
+   <void method="add"> 
+    <string>hipp-e</string> 
+   </void> 
+   <void method="add"> 
+    <string>hippe</string> 
+   </void> 
+   <void method="add"> 
+    <string>Hobbes_KD</string> 
+   </void> 
+   <void method="add"> 
+    <string>hobbyhotter</string> 
+   </void> 
+   <void method="add"> 
+    <string>Honigmilch</string> 
+   </void> 
+   <void method="add"> 
+    <string>hosoi</string> 
+   </void> 
+   <void method="add"> 
+    <string>HouseLover</string> 
+   </void> 
+   <void method="add"> 
+    <string>houseotheek</string> 
+   </void> 
+   <void method="add"> 
+    <string>Housequal</string> 
+   </void> 
+   <void method="add"> 
+    <string>Howie_K</string> 
+   </void> 
+   <void method="add"> 
+    <string>Howser</string> 
+   </void> 
+   <void method="add"> 
+    <string>hutsefluts</string> 
+   </void> 
+   <void method="add"> 
+    <string>ig1</string> 
+   </void> 
+   <void method="add"> 
+    <string>ilja</string> 
+   </void> 
+   <void method="add"> 
+    <string>InDJury</string> 
+   </void> 
+   <void method="add"> 
+    <string>inno</string> 
+   </void> 
+   <void method="add"> 
+    <string>insidious</string> 
+   </void> 
+   <void method="add"> 
+    <string>Inspiran</string> 
+   </void> 
+   <void method="add"> 
+    <string>IntoLSD</string> 
+   </void> 
+   <void method="add"> 
+    <string>ius</string> 
+   </void> 
+   <void method="add"> 
+    <string>Jacky_Stretch</string> 
+   </void> 
+   <void method="add"> 
+    <string>jah85</string> 
+   </void> 
+   <void method="add"> 
+    <string>Jaillen</string> 
+   </void> 
+   <void method="add"> 
+    <string>jamesholm</string> 
+   </void> 
+   <void method="add"> 
+    <string>JamesKSS</string> 
+   </void> 
+   <void method="add"> 
+    <string>jan.barich</string> 
+   </void> 
+   <void method="add"> 
+    <string>jaromarg</string> 
+   </void> 
+   <void method="add"> 
+    <string>Jaroush</string> 
+   </void> 
+   <void method="add"> 
+    <string>Jarren</string> 
+   </void> 
+   <void method="add"> 
+    <string>JarrettWM</string> 
+   </void> 
+   <void method="add"> 
+    <string>Jazu</string> 
+   </void> 
+   <void method="add"> 
+    <string>jimix</string> 
+   </void> 
+   <void method="add"> 
+    <string>JimKremmythas</string> 
+   </void> 
+   <void method="add"> 
+    <string>JohnDoh_Digital</string> 
+   </void> 
+   <void method="add"> 
+    <string>john_h</string> 
+   </void> 
+   <void method="add"> 
+    <string>joki</string> 
+   </void> 
+   <void method="add"> 
+    <string>joon</string> 
+   </void> 
+   <void method="add"> 
+    <string>JordiKodrinsky</string> 
+   </void> 
+   <void method="add"> 
+    <string>josejuanmartinez</string> 
+   </void> 
+   <void method="add"> 
+    <string>jpokerflat</string> 
+   </void> 
+   <void method="add"> 
+    <string>Jproject986</string> 
+   </void> 
+   <void method="add"> 
+    <string>julien-krieger.de</string> 
+   </void> 
+   <void method="add"> 
+    <string>Julien31</string> 
+   </void> 
+   <void method="add"> 
+    <string>JulienHeck</string> 
+   </void> 
+   <void method="add"> 
+    <string>juliohouse</string> 
+   </void> 
+   <void method="add"> 
+    <string>jungsaml</string> 
+   </void> 
+   <void method="add"> 
+    <string>jwohnny_cwash</string> 
+   </void> 
+   <void method="add"> 
+    <string>K-records</string> 
+   </void> 
+   <void method="add"> 
+    <string>KaiaK</string> 
+   </void> 
+   <void method="add"> 
+    <string>kamtchaka</string> 
+   </void> 
+   <void method="add"> 
+    <string>kapoluigi</string> 
+   </void> 
+   <void method="add"> 
+    <string>kapteinbeck</string> 
+   </void> 
+   <void method="add"> 
+    <string>kayseri83</string> 
+   </void> 
+   <void method="add"> 
+    <string>kdln</string> 
+   </void> 
+   <void method="add"> 
+    <string>Kecco</string> 
+   </void> 
+   <void method="add"> 
+    <string>Kelske</string> 
+   </void> 
+   <void method="add"> 
+    <string>Kenzer007</string> 
+   </void> 
+   <void method="add"> 
+    <string>kettinghor</string> 
+   </void> 
+   <void method="add"> 
+    <string>kevinb52</string> 
+   </void> 
+   <void method="add"> 
+    <string>KeZ</string> 
+   </void> 
+   <void method="add"> 
+    <string>kid_acid</string> 
+   </void> 
+   <void method="add"> 
+    <string>KimberlyClark</string> 
+   </void> 
+   <void method="add"> 
+    <string>kiwy</string> 
+   </void> 
+   <void method="add"> 
+    <string>klaun</string> 
+   </void> 
+   <void method="add"> 
+    <string>Klee0001</string> 
+   </void> 
+   <void method="add"> 
+    <string>klicks</string> 
+   </void> 
+   <void method="add"> 
+    <string>Knatterton</string> 
+   </void> 
+   <void method="add"> 
+    <string>knede</string> 
+   </void> 
+   <void method="add"> 
+    <string>knuckles69</string> 
+   </void> 
+   <void method="add"> 
+    <string>Koenie</string> 
+   </void> 
+   <void method="add"> 
+    <string>koil</string> 
+   </void> 
+   <void method="add"> 
+    <string>Komo</string> 
+   </void> 
+   <void method="add"> 
+    <string>konydj</string> 
+   </void> 
+   <void method="add"> 
+    <string>kooz</string> 
+   </void> 
+   <void method="add"> 
+    <string>kridde</string> 
+   </void> 
+   <void method="add"> 
+    <string>kriegs67</string> 
+   </void> 
+   <void method="add"> 
+    <string>Krish</string> 
+   </void> 
+   <void method="add"> 
+    <string>kriztof_vendetta</string> 
+   </void> 
+   <void method="add"> 
+    <string>kuebin</string> 
+   </void> 
+   <void method="add"> 
+    <string>Kurple</string> 
+   </void> 
+   <void method="add"> 
+    <string>kwallie_2000</string> 
+   </void> 
+   <void method="add"> 
+    <string>Lab77</string> 
+   </void> 
+   <void method="add"> 
+    <string>LadyLektrix</string> 
+   </void> 
+   <void method="add"> 
+    <string>LameJames</string> 
+   </void> 
+   <void method="add"> 
+    <string>lauferjerome</string> 
+   </void> 
+   <void method="add"> 
+    <string>leach</string> 
+   </void> 
+   <void method="add"> 
+    <string>LeeWren</string> 
+   </void> 
+   <void method="add"> 
+    <string>lefax</string> 
+   </void> 
+   <void method="add"> 
+    <string>LeipeLeon</string> 
+   </void> 
+   <void method="add"> 
+    <string>lepetitparis</string> 
+   </void> 
+   <void method="add"> 
+    <string>lesheik</string> 
+   </void> 
+   <void method="add"> 
+    <string>LessExciting</string> 
+   </void> 
+   <void method="add"> 
+    <string>levelone</string> 
+   </void> 
+   <void method="add"> 
+    <string>LfO</string> 
+   </void> 
+   <void method="add"> 
+    <string>lil_luc</string> 
+   </void> 
+   <void method="add"> 
+    <string>lmi_hotmix</string> 
+   </void> 
+   <void method="add"> 
+    <string>lochkarte</string> 
+   </void> 
+   <void method="add"> 
+    <string>Lock-Bolt</string> 
+   </void> 
+   <void method="add"> 
+    <string>looppi</string> 
+   </void> 
+   <void method="add"> 
+    <string>LordNihi</string> 
+   </void> 
+   <void method="add"> 
+    <string>lxk</string> 
+   </void> 
+   <void method="add"> 
+    <string>MACKerMD</string> 
+   </void> 
+   <void method="add"> 
+    <string>Macumba</string> 
+   </void> 
+   <void method="add"> 
+    <string>madbang</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mahomet</string> 
+   </void> 
+   <void method="add"> 
+    <string>majortom01</string> 
+   </void> 
+   <void method="add"> 
+    <string>Maluet</string> 
+   </void> 
+   <void method="add"> 
+    <string>manimal</string> 
+   </void> 
+   <void method="add"> 
+    <string>manuelvis</string> 
+   </void> 
+   <void method="add"> 
+    <string>manuxx</string> 
+   </void> 
+   <void method="add"> 
+    <string>Maosoul</string> 
+   </void> 
+   <void method="add"> 
+    <string>MarcoB.</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mardukski</string> 
+   </void> 
+   <void method="add"> 
+    <string>mario4001</string> 
+   </void> 
+   <void method="add"> 
+    <string>marmelade</string> 
+   </void> 
+   <void method="add"> 
+    <string>martin81</string> 
+   </void> 
+   <void method="add"> 
+    <string>Martin_Avis</string> 
+   </void> 
+   <void method="add"> 
+    <string>masterflakka</string> 
+   </void> 
+   <void method="add"> 
+    <string>Matkis</string> 
+   </void> 
+   <void method="add"> 
+    <string>matttO28</string> 
+   </void> 
+   <void method="add"> 
+    <string>mauricer</string> 
+   </void> 
+   <void method="add"> 
+    <string>MaxCohen</string> 
+   </void> 
+   <void method="add"> 
+    <string>mazi</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mediosordo</string> 
+   </void> 
+   <void method="add"> 
+    <string>Meglis</string> 
+   </void> 
+   <void method="add"> 
+    <string>mekonin</string> 
+   </void> 
+   <void method="add"> 
+    <string>menos_kenada</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mentizid</string> 
+   </void> 
+   <void method="add"> 
+    <string>MGness</string> 
+   </void> 
+   <void method="add"> 
+    <string>Micha0501</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mickstah</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mienod</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mik3</string> 
+   </void> 
+   <void method="add"> 
+    <string>mikefasssy</string> 
+   </void> 
+   <void method="add"> 
+    <string>milo4miles</string> 
+   </void> 
+   <void method="add"> 
+    <string>mindblow_</string> 
+   </void> 
+   <void method="add"> 
+    <string>minimonomi</string> 
+   </void> 
+   <void method="add"> 
+    <string>mirhop</string> 
+   </void> 
+   <void method="add"> 
+    <string>misjaal</string> 
+   </void> 
+   <void method="add"> 
+    <string>Missmiawallace</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mister-Fab</string> 
+   </void> 
+   <void method="add"> 
+    <string>misuccc</string> 
+   </void> 
+   <void method="add"> 
+    <string>mixo</string> 
+   </void> 
+   <void method="add"> 
+    <string>MLeuffen</string> 
+   </void> 
+   <void method="add"> 
+    <string>mlipski</string> 
+   </void> 
+   <void method="add"> 
+    <string>mo-franco</string> 
+   </void> 
+   <void method="add"> 
+    <string>modesto</string> 
+   </void> 
+   <void method="add"> 
+    <string>momovk_DR</string> 
+   </void> 
+   <void method="add"> 
+    <string>monomental</string> 
+   </void> 
+   <void method="add"> 
+    <string>monoton</string> 
+   </void> 
+   <void method="add"> 
+    <string>Monty007</string> 
+   </void> 
+   <void method="add"> 
+    <string>moondog2B</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mophito</string> 
+   </void> 
+   <void method="add"> 
+    <string>Morningnightandday</string> 
+   </void> 
+   <void method="add"> 
+    <string>moronto</string> 
+   </void> 
+   <void method="add"> 
+    <string>MossBart</string> 
+   </void> 
+   <void method="add"> 
+    <string>mpmaxim</string> 
+   </void> 
+   <void method="add"> 
+    <string>mpp</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mr.lektrox</string> 
+   </void> 
+   <void method="add"> 
+    <string>mr.monkeyshines</string> 
+   </void> 
+   <void method="add"> 
+    <string>MrFonktrain</string> 
+   </void> 
+   <void method="add"> 
+    <string>MrGuytwo</string> 
+   </void> 
+   <void method="add"> 
+    <string>MrMisty</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mrzigzac</string> 
+   </void> 
+   <void method="add"> 
+    <string>muellerbeat</string> 
+   </void> 
+   <void method="add"> 
+    <string>mueltonne</string> 
+   </void> 
+   <void method="add"> 
+    <string>MushroomBubbleGum</string> 
+   </void> 
+   <void method="add"> 
+    <string>mutilelectric</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mykah</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mykel</string> 
+   </void> 
+   <void method="add"> 
+    <string>mzkbx</string> 
+   </void> 
+   <void method="add"> 
+    <string>nd-nrg</string> 
+   </void> 
+   <void method="add"> 
+    <string>neice</string> 
+   </void> 
+   <void method="add"> 
+    <string>neitscho</string> 
+   </void> 
+   <void method="add"> 
+    <string>neodubhouse</string> 
+   </void> 
+   <void method="add"> 
+    <string>nessus</string> 
+   </void> 
+   <void method="add"> 
+    <string>netluci</string> 
+   </void> 
+   <void method="add"> 
+    <string>NextrancE</string> 
+   </void> 
+   <void method="add"> 
+    <string>NielsR</string> 
+   </void> 
+   <void method="add"> 
+    <string>Niggoo</string> 
+   </void> 
+   <void method="add"> 
+    <string>nikb</string> 
+   </void> 
+   <void method="add"> 
+    <string>Nikke</string> 
+   </void> 
+   <void method="add"> 
+    <string>Nikosa</string> 
+   </void> 
+   <void method="add"> 
+    <string>nitser</string> 
+   </void> 
+   <void method="add"> 
+    <string>NIXAMR</string> 
+   </void> 
+   <void method="add"> 
+    <string>nixego</string> 
+   </void> 
+   <void method="add"> 
+    <string>NoelPeters</string> 
+   </void> 
+   <void method="add"> 
+    <string>nolloreis</string> 
+   </void> 
+   <void method="add"> 
+    <string>nor</string> 
+   </void> 
+   <void method="add"> 
+    <string>nuflexion</string> 
+   </void> 
+   <void method="add"> 
+    <string>nuphonik</string> 
+   </void> 
+   <void method="add"> 
+    <string>nurpo</string> 
+   </void> 
+   <void method="add"> 
+    <string>odok77</string> 
+   </void> 
+   <void method="add"> 
+    <string>onders</string> 
+   </void> 
+   <void method="add"> 
+    <string>onkit</string> 
+   </void> 
+   <void method="add"> 
+    <string>orberman</string> 
+   </void> 
+   <void method="add"> 
+    <string>Ortega</string> 
+   </void> 
+   <void method="add"> 
+    <string>Ortofon_S_On_Acid</string> 
+   </void> 
+   <void method="add"> 
+    <string>osmo3</string> 
+   </void> 
+   <void method="add"> 
+    <string>Osmosis</string> 
+   </void> 
+   <void method="add"> 
+    <string>otman</string> 
+   </void> 
+   <void method="add"> 
+    <string>pacosx</string> 
+   </void> 
+   <void method="add"> 
+    <string>paddydaly</string> 
+   </void> 
+   <void method="add"> 
+    <string>parnatzel</string> 
+   </void> 
+   <void method="add"> 
+    <string>Parson</string> 
+   </void> 
+   <void method="add"> 
+    <string>Patrique-Seguin</string> 
+   </void> 
+   <void method="add"> 
+    <string>Peephole</string> 
+   </void> 
+   <void method="add"> 
+    <string>pellium</string> 
+   </void> 
+   <void method="add"> 
+    <string>periwhetal</string> 
+   </void> 
+   <void method="add"> 
+    <string>Perle</string> 
+   </void> 
+   <void method="add"> 
+    <string>perlonized</string> 
+   </void> 
+   <void method="add"> 
+    <string>Pesci-Music</string> 
+   </void> 
+   <void method="add"> 
+    <string>Pete-Flame</string> 
+   </void> 
+   <void method="add"> 
+    <string>pfedorov</string> 
+   </void> 
+   <void method="add"> 
+    <string>phid</string> 
+   </void> 
+   <void method="add"> 
+    <string>Phlup</string> 
+   </void> 
+   <void method="add"> 
+    <string>phogel</string> 
+   </void> 
+   <void method="add"> 
+    <string>phor</string> 
+   </void> 
+   <void method="add"> 
+    <string>Pimm0</string> 
+   </void> 
+   <void method="add"> 
+    <string>pitbullix</string> 
+   </void> 
+   <void method="add"> 
+    <string>Pitta</string> 
+   </void> 
+   <void method="add"> 
+    <string>pizzaanchois</string> 
+   </void> 
+   <void method="add"> 
+    <string>PLAISIRDEFRANCE</string> 
+   </void> 
+   <void method="add"> 
+    <string>Planlable</string> 
+   </void> 
+   <void method="add"> 
+    <string>platten-wayne</string> 
+   </void> 
+   <void method="add"> 
+    <string>plut0r</string> 
+   </void> 
+   <void method="add"> 
+    <string>Po-pol</string> 
+   </void> 
+   <void method="add"> 
+    <string>popcorn</string> 
+   </void> 
+   <void method="add"> 
+    <string>popcornreborn</string> 
+   </void> 
+   <void method="add"> 
+    <string>PowCow</string> 
+   </void> 
+   <void method="add"> 
+    <string>Pragmatik</string> 
+   </void> 
+   <void method="add"> 
+    <string>prinz14712</string> 
+   </void> 
+   <void method="add"> 
+    <string>protege</string> 
+   </void> 
+   <void method="add"> 
+    <string>Psychogewitter</string> 
+   </void> 
+   <void method="add"> 
+    <string>Psykofab</string> 
+   </void> 
+   <void method="add"> 
+    <string>psykopatos</string> 
+   </void> 
+   <void method="add"> 
+    <string>pure-sonic</string> 
+   </void> 
+   <void method="add"> 
+    <string>PurpleRoses</string> 
+   </void> 
+   <void method="add"> 
+    <string>Querschnitt</string> 
+   </void> 
+   <void method="add"> 
+    <string>quill</string> 
+   </void> 
+   <void method="add"> 
+    <string>Quinie</string> 
+   </void> 
+   <void method="add"> 
+    <string>Rabulist</string> 
+   </void> 
+   <void method="add"> 
+    <string>RadiantBastard</string> 
+   </void> 
+   <void method="add"> 
+    <string>Raffi303</string> 
+   </void> 
+   <void method="add"> 
+    <string>Real_CEO</string> 
+   </void> 
+   <void method="add"> 
+    <string>reda69</string> 
+   </void> 
+   <void method="add"> 
+    <string>reefonline</string> 
+   </void> 
+   <void method="add"> 
+    <string>rekids</string> 
+   </void> 
+   <void method="add"> 
+    <string>Relski</string> 
+   </void> 
+   <void method="add"> 
+    <string>Remi.Lacoste</string> 
+   </void> 
+   <void method="add"> 
+    <string>RETALI8ONE</string> 
+   </void> 
+   <void method="add"> 
+    <string>RibbeL</string> 
+   </void> 
+   <void method="add"> 
+    <string>rickus</string> 
+   </void> 
+   <void method="add"> 
+    <string>RIESART1</string> 
+   </void> 
+   <void method="add"> 
+    <string>ripley-b</string> 
+   </void> 
+   <void method="add"> 
+    <string>Riss</string> 
+   </void> 
+   <void method="add"> 
+    <string>rmnstr</string> 
+   </void> 
+   <void method="add"> 
+    <string>RobThorpe</string> 
+   </void> 
+   <void method="add"> 
+    <string>rochard</string> 
+   </void> 
+   <void method="add"> 
+    <string>rodolphe</string> 
+   </void> 
+   <void method="add"> 
+    <string>Rosenbeez</string> 
+   </void> 
+   <void method="add"> 
+    <string>RSpawn</string> 
+   </void> 
+   <void method="add"> 
+    <string>rub0n</string> 
+   </void> 
+   <void method="add"> 
+    <string>rydimryder</string> 
+   </void> 
+   <void method="add"> 
+    <string>salubrious</string> 
+   </void> 
+   <void method="add"> 
+    <string>sam.lieff</string> 
+   </void> 
+   <void method="add"> 
+    <string>samu</string> 
+   </void> 
+   <void method="add"> 
+    <string>sarallobet</string> 
+   </void> 
+   <void method="add"> 
+    <string>Sasch713</string> 
+   </void> 
+   <void method="add"> 
+    <string>schizophonic</string> 
+   </void> 
+   <void method="add"> 
+    <string>scream</string> 
+   </void> 
+   <void method="add"> 
+    <string>Sebastian85</string> 
+   </void> 
+   <void method="add"> 
+    <string>selector</string> 
+   </void> 
+   <void method="add"> 
+    <string>sera</string> 
+   </void> 
+   <void method="add"> 
+    <string>SeRcH</string> 
+   </void> 
+   <void method="add"> 
+    <string>sergicarolines</string> 
+   </void> 
+   <void method="add"> 
+    <string>sfhm</string> 
+   </void> 
+   <void method="add"> 
+    <string>sgt.chill_7</string> 
+   </void> 
+   <void method="add"> 
+    <string>shango</string> 
+   </void> 
+   <void method="add"> 
+    <string>shaqadelic</string> 
+   </void> 
+   <void method="add"> 
+    <string>SHAT_HIPPENS</string> 
+   </void> 
+   <void method="add"> 
+    <string>Shawlin</string> 
+   </void> 
+   <void method="add"> 
+    <string>shazer</string> 
+   </void> 
+   <void method="add"> 
+    <string>Shirook</string> 
+   </void> 
+   <void method="add"> 
+    <string>shokun</string> 
+   </void> 
+   <void method="add"> 
+    <string>Shosh</string> 
+   </void> 
+   <void method="add"> 
+    <string>Silou</string> 
+   </void> 
+   <void method="add"> 
+    <string>silverbeat</string> 
+   </void> 
+   <void method="add"> 
+    <string>Simon_Walter</string> 
+   </void> 
+   <void method="add"> 
+    <string>sirrom</string> 
+   </void> 
+   <void method="add"> 
+    <string>Sjapper</string> 
+   </void> 
+   <void method="add"> 
+    <string>Skardy</string> 
+   </void> 
+   <void method="add"> 
+    <string>skidz</string> 
+   </void> 
+   <void method="add"> 
+    <string>Skvalradio</string> 
+   </void> 
+   <void method="add"> 
+    <string>Slate</string> 
+   </void> 
+   <void method="add"> 
+    <string>sli20</string> 
+   </void> 
+   <void method="add"> 
+    <string>Slipman</string> 
+   </void> 
+   <void method="add"> 
+    <string>SM001</string> 
+   </void> 
+   <void method="add"> 
+    <string>smack416</string> 
+   </void> 
+   <void method="add"> 
+    <string>SmashTV</string> 
+   </void> 
+   <void method="add"> 
+    <string>Sniper-Ron</string> 
+   </void> 
+   <void method="add"> 
+    <string>snoopypw</string> 
+   </void> 
+   <void method="add"> 
+    <string>snooz</string> 
+   </void> 
+   <void method="add"> 
+    <string>Snowstorm</string> 
+   </void> 
+   <void method="add"> 
+    <string>sofa_Q</string> 
+   </void> 
+   <void method="add"> 
+    <string>sonorosapiens</string> 
+   </void> 
+   <void method="add"> 
+    <string>soulbrotha</string> 
+   </void> 
+   <void method="add"> 
+    <string>soulraver</string> 
+   </void> 
+   <void method="add"> 
+    <string>SoundHype</string> 
+   </void> 
+   <void method="add"> 
+    <string>spertusiak85</string> 
+   </void> 
+   <void method="add"> 
+    <string>Spielmann</string> 
+   </void> 
+   <void method="add"> 
+    <string>spitens</string> 
+   </void> 
+   <void method="add"> 
+    <string>Spoiler242</string> 
+   </void> 
+   <void method="add"> 
+    <string>sptnk</string> 
+   </void> 
+   <void method="add"> 
+    <string>Stavros18</string> 
+   </void> 
+   <void method="add"> 
+    <string>Stefan7</string> 
+   </void> 
+   <void method="add"> 
+    <string>stephenclaeys</string> 
+   </void> 
+   <void method="add"> 
+    <string>stereoapples</string> 
+   </void> 
+   <void method="add"> 
+    <string>steve-dixon</string> 
+   </void> 
+   <void method="add"> 
+    <string>SteveStephano</string> 
+   </void> 
+   <void method="add"> 
+    <string>stijnverheyden</string> 
+   </void> 
+   <void method="add"> 
+    <string>Stoofdawg</string> 
+   </void> 
+   <void method="add"> 
+    <string>strandpenna</string> 
+   </void> 
+   <void method="add"> 
+    <string>Strubinator</string> 
+   </void> 
+   <void method="add"> 
+    <string>suppoz</string> 
+   </void> 
+   <void method="add"> 
+    <string>Swedens_Finest</string> 
+   </void> 
+   <void method="add"> 
+    <string>swenger</string> 
+   </void> 
+   <void method="add"> 
+    <string>swift-berlin</string> 
+   </void> 
+   <void method="add"> 
+    <string>t.i.A.</string> 
+   </void> 
+   <void method="add"> 
+    <string>T.LEZ</string> 
+   </void> 
+   <void method="add"> 
+    <string>tacozwart</string> 
+   </void> 
+   <void method="add"> 
+    <string>tasio</string> 
+   </void> 
+   <void method="add"> 
+    <string>tattwam9</string> 
+   </void> 
+   <void method="add"> 
+    <string>techniquer33</string> 
+   </void> 
+   <void method="add"> 
+    <string>technowelt</string> 
+   </void> 
+   <void method="add"> 
+    <string>teemup</string> 
+   </void> 
+   <void method="add"> 
+    <string>TheFakes</string> 
+   </void> 
+   <void method="add"> 
+    <string>THEGERM</string> 
+   </void> 
+   <void method="add"> 
+    <string>TheGuyWithSunglasses</string> 
+   </void> 
+   <void method="add"> 
+    <string>theory_x</string> 
+   </void> 
+   <void method="add"> 
+    <string>the_77x42</string> 
+   </void> 
+   <void method="add"> 
+    <string>the_fucker</string> 
+   </void> 
+   <void method="add"> 
+    <string>The_Technician</string> 
+   </void> 
+   <void method="add"> 
+    <string>Thijs_K</string> 
+   </void> 
+   <void method="add"> 
+    <string>thonik</string> 
+   </void> 
+   <void method="add"> 
+    <string>thrakatak</string> 
+   </void> 
+   <void method="add"> 
+    <string>tiago1971</string> 
+   </void> 
+   <void method="add"> 
+    <string>tmdrums17</string> 
+   </void> 
+   <void method="add"> 
+    <string>Tobi_Noyzer</string> 
+   </void> 
+   <void method="add"> 
+    <string>tokiclover</string> 
+   </void> 
+   <void method="add"> 
+    <string>tomanthoni</string> 
+   </void> 
+   <void method="add"> 
+    <string>tomazy</string> 
+   </void> 
+   <void method="add"> 
+    <string>tommitervonen</string> 
+   </void> 
+   <void method="add"> 
+    <string>toniripoll</string> 
+   </void> 
+   <void method="add"> 
+    <string>Tonixx</string> 
+   </void> 
+   <void method="add"> 
+    <string>tonumaa</string> 
+   </void> 
+   <void method="add"> 
+    <string>Topperdd</string> 
+   </void> 
+   <void method="add"> 
+    <string>Torben</string> 
+   </void> 
+   <void method="add"> 
+    <string>torch</string> 
+   </void> 
+   <void method="add"> 
+    <string>totoelectro</string> 
+   </void> 
+   <void method="add"> 
+    <string>tp4</string> 
+   </void> 
+   <void method="add"> 
+    <string>tract13</string> 
+   </void> 
+   <void method="add"> 
+    <string>Traktor5</string> 
+   </void> 
+   <void method="add"> 
+    <string>TrashCity</string> 
+   </void> 
+   <void method="add"> 
+    <string>tribal_sky</string> 
+   </void> 
+   <void method="add"> 
+    <string>tripkeun</string> 
+   </void> 
+   <void method="add"> 
+    <string>truenorth</string> 
+   </void> 
+   <void method="add"> 
+    <string>TshooterY</string> 
+   </void> 
+   <void method="add"> 
+    <string>tstolarski</string> 
+   </void> 
+   <void method="add"> 
+    <string>tumbletumble</string> 
+   </void> 
+   <void method="add"> 
+    <string>Tumke</string> 
+   </void> 
+   <void method="add"> 
+    <string>ty.cobb</string> 
+   </void> 
+   <void method="add"> 
+    <string>uglyfunker</string> 
+   </void> 
+   <void method="add"> 
+    <string>uniracer</string> 
+   </void> 
+   <void method="add"> 
+    <string>Unterhimmel</string> 
+   </void> 
+   <void method="add"> 
+    <string>untitled_being</string> 
+   </void> 
+   <void method="add"> 
+    <string>vampirul_18</string> 
+   </void> 
+   <void method="add"> 
+    <string>van-kappen</string> 
+   </void> 
+   <void method="add"> 
+    <string>vanlawrentz</string> 
+   </void> 
+   <void method="add"> 
+    <string>vantopger</string> 
+   </void> 
+   <void method="add"> 
+    <string>Verhesen</string> 
+   </void> 
+   <void method="add"> 
+    <string>Vernalobos</string> 
+   </void> 
+   <void method="add"> 
+    <string>VEX</string> 
+   </void> 
+   <void method="add"> 
+    <string>Vigro</string> 
+   </void> 
+   <void method="add"> 
+    <string>vince82</string> 
+   </void> 
+   <void method="add"> 
+    <string>vinici</string> 
+   </void> 
+   <void method="add"> 
+    <string>Vinylliebhaber82</string> 
+   </void> 
+   <void method="add"> 
+    <string>vinylmania3500</string> 
+   </void> 
+   <void method="add"> 
+    <string>VolkyVibes</string> 
+   </void> 
+   <void method="add"> 
+    <string>Vortex2k2</string> 
+   </void> 
+   <void method="add"> 
+    <string>wallybeats</string> 
+   </void> 
+   <void method="add"> 
+    <string>wellenresonanz</string> 
+   </void> 
+   <void method="add"> 
+    <string>Wenk</string> 
+   </void> 
+   <void method="add"> 
+    <string>wesleyvisser85</string> 
+   </void> 
+   <void method="add"> 
+    <string>wickeed</string> 
+   </void> 
+   <void method="add"> 
+    <string>wikd</string> 
+   </void> 
+   <void method="add"> 
+    <string>wingz</string> 
+   </void> 
+   <void method="add"> 
+    <string>woody2xlc</string> 
+   </void> 
+   <void method="add"> 
+    <string>www.k-records.be</string> 
+   </void> 
+   <void method="add"> 
+    <string>xavez</string> 
+   </void> 
+   <void method="add"> 
+    <string>Xera</string> 
+   </void> 
+   <void method="add"> 
+    <string>xlent</string> 
+   </void> 
+   <void method="add"> 
+    <string>Xtune</string> 
+   </void> 
+   <void method="add"> 
+    <string>xxxxxxxx</string> 
+   </void> 
+   <void method="add"> 
+    <string>Yeasayer</string> 
+   </void> 
+   <void method="add"> 
+    <string>zagortenej</string> 
+   </void> 
+   <void method="add"> 
+    <string>zanzarin</string> 
+   </void> 
+   <void method="add"> 
+    <string>zevieee</string> 
+   </void> 
+   <void method="add"> 
+    <string>zevulon</string> 
+   </void> 
+   <void method="add"> 
+    <string>Zjeroen</string> 
+   </void> 
+   <void method="add"> 
+    <string>zobzoy</string> 
+   </void> 
+   <void method="add"> 
+    <string>Zomar</string> 
+   </void> 
+   <void method="add"> 
+    <string>Zubeldia</string> 
+   </void> 
+   <void method="add"> 
+    <string>_naked_</string> 
+   </void> 
+   <void method="add"> 
+    <string>_Reiko_</string> 
+   </void> 
+   <void method="add"> 
+    <string>_SOMAtic_</string> 
+   </void> 
+  </void> 
+  <void property="primaryImageURL"> 
+   <string>http://www.discogs.com/image/R-724699-1153902206.jpeg</string> 
+  </void> 
+  <void property="ratings"> 
+   <object class="com.mixshare.rapid_evolution.data.mined.discogs.release.DiscogsReleaseRatings"> 
+    <void property="ratings"> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>3</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>1</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>3</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>3</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>3</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>3</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>3</int> 
+     </void> 
+     <void method="add"> 
+      <int>2</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>3</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>3</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>3</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>3</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>3</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>3</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>3</int> 
+     </void> 
+    </void> 
+    <void property="releaseId"> 
+     <string>724699</string> 
+    </void> 
+    <void property="users"> 
+     <void method="add"> 
+      <string>-SPQR-</string> 
+     </void> 
+     <void method="add"> 
+      <string>0epicurus0</string> 
+     </void> 
+     <void method="add"> 
+      <string>acidburn</string> 
+     </void> 
+     <void method="add"> 
+      <string>adingoatemybaby</string> 
+     </void> 
+     <void method="add"> 
+      <string>alain.v2</string> 
+     </void> 
+     <void method="add"> 
+      <string>alienboy</string> 
+     </void> 
+     <void method="add"> 
+      <string>AnalogAutomat</string> 
+     </void> 
+     <void method="add"> 
+      <string>andry_93</string> 
+     </void> 
+     <void method="add"> 
+      <string>AnnaTraXa</string> 
+     </void> 
+     <void method="add"> 
+      <string>apostle83</string> 
+     </void> 
+     <void method="add"> 
+      <string>AS8010a</string> 
+     </void> 
+     <void method="add"> 
+      <string>astralwerks</string> 
+     </void> 
+     <void method="add"> 
+      <string>atmo9</string> 
+     </void> 
+     <void method="add"> 
+      <string>audioporno</string> 
+     </void> 
+     <void method="add"> 
+      <string>BioTracer</string> 
+     </void> 
+     <void method="add"> 
+      <string>blackstar0711</string> 
+     </void> 
+     <void method="add"> 
+      <string>blcklng</string> 
+     </void> 
+     <void method="add"> 
+      <string>bluntafari</string> 
+     </void> 
+     <void method="add"> 
+      <string>Boson</string> 
+     </void> 
+     <void method="add"> 
+      <string>Bo_Walter</string> 
+     </void> 
+     <void method="add"> 
+      <string>Bugante</string> 
+     </void> 
+     <void method="add"> 
+      <string>burolive</string> 
+     </void> 
+     <void method="add"> 
+      <string>c8</string> 
+     </void> 
+     <void method="add"> 
+      <string>chefproducer</string> 
+     </void> 
+     <void method="add"> 
+      <string>Chronaut</string> 
+     </void> 
+     <void method="add"> 
+      <string>clementek</string> 
+     </void> 
+     <void method="add"> 
+      <string>coko987</string> 
+     </void> 
+     <void method="add"> 
+      <string>Combe</string> 
+     </void> 
+     <void method="add"> 
+      <string>connolly.st</string> 
+     </void> 
+     <void method="add"> 
+      <string>cossinnelle</string> 
+     </void> 
+     <void method="add"> 
+      <string>Coyu</string> 
+     </void> 
+     <void method="add"> 
+      <string>Dagas</string> 
+     </void> 
+     <void method="add"> 
+      <string>damadelagua</string> 
+     </void> 
+     <void method="add"> 
+      <string>DanielArgos</string> 
+     </void> 
+     <void method="add"> 
+      <string>daria</string> 
+     </void> 
+     <void method="add"> 
+      <string>Dark_Blue</string> 
+     </void> 
+     <void method="add"> 
+      <string>daxou</string> 
+     </void> 
+     <void method="add"> 
+      <string>dekomp.dj</string> 
+     </void> 
+     <void method="add"> 
+      <string>delysid</string> 
+     </void> 
+     <void method="add"> 
+      <string>Ders</string> 
+     </void> 
+     <void method="add"> 
+      <string>diegoahead</string> 
+     </void> 
+     <void method="add"> 
+      <string>dimitriis</string> 
+     </void> 
+     <void method="add"> 
+      <string>Dionysus</string> 
+     </void> 
+     <void method="add"> 
+      <string>dj-christian</string> 
+     </void> 
+     <void method="add"> 
+      <string>djnash</string> 
+     </void> 
+     <void method="add"> 
+      <string>DJoA</string> 
+     </void> 
+     <void method="add"> 
+      <string>DjRamo</string> 
+     </void> 
+     <void method="add"> 
+      <string>djsethnichols</string> 
+     </void> 
+     <void method="add"> 
+      <string>djsoxxx</string> 
+     </void> 
+     <void method="add"> 
+      <string>Dj_Freeart</string> 
+     </void> 
+     <void method="add"> 
+      <string>DJ_Googly</string> 
+     </void> 
+     <void method="add"> 
+      <string>DJ_Setec</string> 
+     </void> 
+     <void method="add"> 
+      <string>Dr.Alternative</string> 
+     </void> 
+     <void method="add"> 
+      <string>dropbeat</string> 
+     </void> 
+     <void method="add"> 
+      <string>drossie</string> 
+     </void> 
+     <void method="add"> 
+      <string>dryueh</string> 
+     </void> 
+     <void method="add"> 
+      <string>duke.j.walker</string> 
+     </void> 
+     <void method="add"> 
+      <string>Elektroprog</string> 
+     </void> 
+     <void method="add"> 
+      <string>enzoppi</string> 
+     </void> 
+     <void method="add"> 
+      <string>Epicur</string> 
+     </void> 
+     <void method="add"> 
+      <string>EPOCHALYPSE</string> 
+     </void> 
+     <void method="add"> 
+      <string>Exile85</string> 
+     </void> 
+     <void method="add"> 
+      <string>fahrenheights</string> 
+     </void> 
+     <void method="add"> 
+      <string>fastna</string> 
+     </void> 
+     <void method="add"> 
+      <string>fistondub</string> 
+     </void> 
+     <void method="add"> 
+      <string>frazer</string> 
+     </void> 
+     <void method="add"> 
+      <string>Freaky_Nicky</string> 
+     </void> 
+     <void method="add"> 
+      <string>Ganesha</string> 
+     </void> 
+     <void method="add"> 
+      <string>gehoermasseur</string> 
+     </void> 
+     <void method="add"> 
+      <string>giubo</string> 
+     </void> 
+     <void method="add"> 
+      <string>goran_s</string> 
+     </void> 
+     <void method="add"> 
+      <string>goshan</string> 
+     </void> 
+     <void method="add"> 
+      <string>Grammaton_Cleric</string> 
+     </void> 
+     <void method="add"> 
+      <string>hdpdt</string> 
+     </void> 
+     <void method="add"> 
+      <string>hype</string> 
+     </void> 
+     <void method="add"> 
+      <string>ibbjamin</string> 
+     </void> 
+     <void method="add"> 
+      <string>ilja</string> 
+     </void> 
+     <void method="add"> 
+      <string>IntoLSD</string> 
+     </void> 
+     <void method="add"> 
+      <string>JadedLittlePill</string> 
+     </void> 
+     <void method="add"> 
+      <string>Jaillen</string> 
+     </void> 
+     <void method="add"> 
+      <string>JamesKSS</string> 
+     </void> 
+     <void method="add"> 
+      <string>Jarren</string> 
+     </void> 
+     <void method="add"> 
+      <string>john_h</string> 
+     </void> 
+     <void method="add"> 
+      <string>JordiKodrinsky</string> 
+     </void> 
+     <void method="add"> 
+      <string>Jux</string> 
+     </void> 
+     <void method="add"> 
+      <string>KaiaK</string> 
+     </void> 
+     <void method="add"> 
+      <string>kamtchaka</string> 
+     </void> 
+     <void method="add"> 
+      <string>kapteinbeck</string> 
+     </void> 
+     <void method="add"> 
+      <string>kaspera123</string> 
+     </void> 
+     <void method="add"> 
+      <string>KeZ</string> 
+     </void> 
+     <void method="add"> 
+      <string>knut</string> 
+     </void> 
+     <void method="add"> 
+      <string>Koenie</string> 
+     </void> 
+     <void method="add"> 
+      <string>koertwazie</string> 
+     </void> 
+     <void method="add"> 
+      <string>koil</string> 
+     </void> 
+     <void method="add"> 
+      <string>Komo</string> 
+     </void> 
+     <void method="add"> 
+      <string>kouibier</string> 
+     </void> 
+     <void method="add"> 
+      <string>KraWaaT</string> 
+     </void> 
+     <void method="add"> 
+      <string>lauferjerome</string> 
+     </void> 
+     <void method="add"> 
+      <string>lefax</string> 
+     </void> 
+     <void method="add"> 
+      <string>leinad</string> 
+     </void> 
+     <void method="add"> 
+      <string>levelone</string> 
+     </void> 
+     <void method="add"> 
+      <string>Lock-Bolt</string> 
+     </void> 
+     <void method="add"> 
+      <string>ltdada</string> 
+     </void> 
+     <void method="add"> 
+      <string>lxk</string> 
+     </void> 
+     <void method="add"> 
+      <string>Main_Street</string> 
+     </void> 
+     <void method="add"> 
+      <string>majortom01</string> 
+     </void> 
+     <void method="add"> 
+      <string>manimal</string> 
+     </void> 
+     <void method="add"> 
+      <string>maobeat</string> 
+     </void> 
+     <void method="add"> 
+      <string>marioh</string> 
+     </void> 
+     <void method="add"> 
+      <string>markhardbone</string> 
+     </void> 
+     <void method="add"> 
+      <string>marmelade</string> 
+     </void> 
+     <void method="add"> 
+      <string>matttO28</string> 
+     </void> 
+     <void method="add"> 
+      <string>Meglis</string> 
+     </void> 
+     <void method="add"> 
+      <string>mekonin</string> 
+     </void> 
+     <void method="add"> 
+      <string>melank</string> 
+     </void> 
+     <void method="add"> 
+      <string>menos_kenada</string> 
+     </void> 
+     <void method="add"> 
+      <string>milo4miles</string> 
+     </void> 
+     <void method="add"> 
+      <string>Mister-Fab</string> 
+     </void> 
+     <void method="add"> 
+      <string>modesto</string> 
+     </void> 
+     <void method="add"> 
+      <string>moondog2B</string> 
+     </void> 
+     <void method="add"> 
+      <string>MossBart</string> 
+     </void> 
+     <void method="add"> 
+      <string>mpmaxim</string> 
+     </void> 
+     <void method="add"> 
+      <string>MrFonktrain</string> 
+     </void> 
+     <void method="add"> 
+      <string>muellerbeat</string> 
+     </void> 
+     <void method="add"> 
+      <string>MushroomBubbleGum</string> 
+     </void> 
+     <void method="add"> 
+      <string>mzkbx</string> 
+     </void> 
+     <void method="add"> 
+      <string>Nafdac</string> 
+     </void> 
+     <void method="add"> 
+      <string>neitscho</string> 
+     </void> 
+     <void method="add"> 
+      <string>nitser</string> 
+     </void> 
+     <void method="add"> 
+      <string>nolloreis</string> 
+     </void> 
+     <void method="add"> 
+      <string>nor</string> 
+     </void> 
+     <void method="add"> 
+      <string>Nosferatu254</string> 
+     </void> 
+     <void method="add"> 
+      <string>Ortofon_S_On_Acid</string> 
+     </void> 
+     <void method="add"> 
+      <string>PaulHazendonk</string> 
+     </void> 
+     <void method="add"> 
+      <string>Pete-Flame</string> 
+     </void> 
+     <void method="add"> 
+      <string>petersz_a</string> 
+     </void> 
+     <void method="add"> 
+      <string>phogel</string> 
+     </void> 
+     <void method="add"> 
+      <string>prinz14712</string> 
+     </void> 
+     <void method="add"> 
+      <string>protege</string> 
+     </void> 
+     <void method="add"> 
+      <string>rainvitalik</string> 
+     </void> 
+     <void method="add"> 
+      <string>random_numbers</string> 
+     </void> 
+     <void method="add"> 
+      <string>rapiet</string> 
+     </void> 
+     <void method="add"> 
+      <string>Rekel</string> 
+     </void> 
+     <void method="add"> 
+      <string>Riss</string> 
+     </void> 
+     <void method="add"> 
+      <string>RobThorpe</string> 
+     </void> 
+     <void method="add"> 
+      <string>rodolphe</string> 
+     </void> 
+     <void method="add"> 
+      <string>rydimryder</string> 
+     </void> 
+     <void method="add"> 
+      <string>samu</string> 
+     </void> 
+     <void method="add"> 
+      <string>Sasch713</string> 
+     </void> 
+     <void method="add"> 
+      <string>sgt.chill_7</string> 
+     </void> 
+     <void method="add"> 
+      <string>shmmr</string> 
+     </void> 
+     <void method="add"> 
+      <string>shokun</string> 
+     </void> 
+     <void method="add"> 
+      <string>SirTweak</string> 
+     </void> 
+     <void method="add"> 
+      <string>Sjapper</string> 
+     </void> 
+     <void method="add"> 
+      <string>SM001</string> 
+     </void> 
+     <void method="add"> 
+      <string>Snake_Pliszkin</string> 
+     </void> 
+     <void method="add"> 
+      <string>Sonoo</string> 
+     </void> 
+     <void method="add"> 
+      <string>sonorosapiens</string> 
+     </void> 
+     <void method="add"> 
+      <string>soulkings</string> 
+     </void> 
+     <void method="add"> 
+      <string>Spoiler242</string> 
+     </void> 
+     <void method="add"> 
+      <string>SteveStephano</string> 
+     </void> 
+     <void method="add"> 
+      <string>Stoofdawg</string> 
+     </void> 
+     <void method="add"> 
+      <string>Strubinator</string> 
+     </void> 
+     <void method="add"> 
+      <string>Swedens_Finest</string> 
+     </void> 
+     <void method="add"> 
+      <string>t.i.A.</string> 
+     </void> 
+     <void method="add"> 
+      <string>teemup</string> 
+     </void> 
+     <void method="add"> 
+      <string>The_Technician</string> 
+     </void> 
+     <void method="add"> 
+      <string>TinoMorreau</string> 
+     </void> 
+     <void method="add"> 
+      <string>tmdrums17</string> 
+     </void> 
+     <void method="add"> 
+      <string>tomazy</string> 
+     </void> 
+     <void method="add"> 
+      <string>toniripoll</string> 
+     </void> 
+     <void method="add"> 
+      <string>umbongostu</string> 
+     </void> 
+     <void method="add"> 
+      <string>vdq</string> 
+     </void> 
+     <void method="add"> 
+      <string>Vernalobos</string> 
+     </void> 
+     <void method="add"> 
+      <string>Vigro</string> 
+     </void> 
+     <void method="add"> 
+      <string>vinsans</string> 
+     </void> 
+     <void method="add"> 
+      <string>wallybeats</string> 
+     </void> 
+     <void method="add"> 
+      <string>wandler</string> 
+     </void> 
+     <void method="add"> 
+      <string>wesleyvisser85</string> 
+     </void> 
+     <void method="add"> 
+      <string>wikd</string> 
+     </void> 
+     <void method="add"> 
+      <string>xavez</string> 
+     </void> 
+     <void method="add"> 
+      <string>yvan</string> 
+     </void> 
+     <void method="add"> 
+      <string>Zipmix</string> 
+     </void> 
+     <void method="add"> 
+      <string>Zjeroen</string> 
+     </void> 
+     <void method="add"> 
+      <string>Zubeldia</string> 
+     </void> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="recommendations"> 
+   <object class="com.mixshare.rapid_evolution.data.mined.discogs.release.DiscogsReleaseRecommendations"> 
+    <void property="recommendedIds"> 
+     <void method="add"> 
+      <int>465692</int> 
+     </void> 
+     <void method="add"> 
+      <int>314449</int> 
+     </void> 
+     <void method="add"> 
+      <int>558793</int> 
+     </void> 
+     <void method="add"> 
+      <int>648476</int> 
+     </void> 
+     <void method="add"> 
+      <int>171075</int> 
+     </void> 
+     <void method="add"> 
+      <int>469580</int> 
+     </void> 
+     <void method="add"> 
+      <int>313744</int> 
+     </void> 
+     <void method="add"> 
+      <int>688344</int> 
+     </void> 
+     <void method="add"> 
+      <int>665335</int> 
+     </void> 
+     <void method="add"> 
+      <int>687809</int> 
+     </void> 
+     <void method="add"> 
+      <int>780558</int> 
+     </void> 
+     <void method="add"> 
+      <int>467519</int> 
+     </void> 
+     <void method="add"> 
+      <int>483791</int> 
+     </void> 
+     <void method="add"> 
+      <int>616516</int> 
+     </void> 
+     <void method="add"> 
+      <int>908704</int> 
+     </void> 
+     <void method="add"> 
+      <int>262049</int> 
+     </void> 
+     <void method="add"> 
+      <int>407552</int> 
+     </void> 
+     <void method="add"> 
+      <int>635048</int> 
+     </void> 
+     <void method="add"> 
+      <int>528435</int> 
+     </void> 
+     <void method="add"> 
+      <int>193039</int> 
+     </void> 
+     <void method="add"> 
+      <int>13148</int> 
+     </void> 
+     <void method="add"> 
+      <int>234110</int> 
+     </void> 
+     <void method="add"> 
+      <int>693199</int> 
+     </void> 
+     <void method="add"> 
+      <int>236605</int> 
+     </void> 
+     <void method="add"> 
+      <int>740164</int> 
+     </void> 
+     <void method="add"> 
+      <int>444265</int> 
+     </void> 
+     <void method="add"> 
+      <int>681549</int> 
+     </void> 
+     <void method="add"> 
+      <int>334064</int> 
+     </void> 
+     <void method="add"> 
+      <int>1029067</int> 
+     </void> 
+     <void method="add"> 
+      <int>691024</int> 
+     </void> 
+     <void method="add"> 
+      <int>81377</int> 
+     </void> 
+     <void method="add"> 
+      <int>915719</int> 
+     </void> 
+     <void method="add"> 
+      <int>2145</int> 
+     </void> 
+     <void method="add"> 
+      <int>391292</int> 
+     </void> 
+     <void method="add"> 
+      <int>1007840</int> 
+     </void> 
+     <void method="add"> 
+      <int>484759</int> 
+     </void> 
+     <void method="add"> 
+      <int>699784</int> 
+     </void> 
+     <void method="add"> 
+      <int>502847</int> 
+     </void> 
+     <void method="add"> 
+      <int>444359</int> 
+     </void> 
+     <void method="add"> 
+      <int>483386</int> 
+     </void> 
+     <void method="add"> 
+      <int>790262</int> 
+     </void> 
+     <void method="add"> 
+      <int>451574</int> 
+     </void> 
+     <void method="add"> 
+      <int>379304</int> 
+     </void> 
+     <void method="add"> 
+      <int>165</int> 
+     </void> 
+     <void method="add"> 
+      <int>494500</int> 
+     </void> 
+     <void method="add"> 
+      <int>817480</int> 
+     </void> 
+     <void method="add"> 
+      <int>841693</int> 
+     </void> 
+     <void method="add"> 
+      <int>767686</int> 
+     </void> 
+     <void method="add"> 
+      <int>720517</int> 
+     </void> 
+     <void method="add"> 
+      <int>619297</int> 
+     </void> 
+    </void> 
+    <void property="releaseId"> 
+     <string>724699</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="releaseId"> 
+   <int>724699</int> 
+  </void> 
+  <void property="released"> 
+   <string>Jul 2006</string> 
+  </void> 
+  <void property="styles"> 
+   <void method="add"> 
+    <string>Electro</string> 
+   </void> 
+   <void method="add"> 
+    <string>Tech House</string> 
+   </void> 
+   <void method="add"> 
+    <string>Experimental</string> 
+   </void> 
+   <void method="add"> 
+    <string>Ambient</string> 
+   </void> 
+  </void> 
+  <void property="title"> 
+   <string>Some Polyphony</string> 
+  </void> 
+  <void property="tracks"> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.discogs.song.DiscogsSong"> 
+     <void property="artists"> 
+      <object class="java.util.Vector"/> 
+     </void> 
+     <void property="duration"> 
+      <string>7:58</string> 
+     </void> 
+     <void property="position"> 
+      <string>A1</string> 
+     </void> 
+     <void property="remixers"> 
+      <object class="java.util.Vector"/> 
+     </void> 
+     <void property="title"> 
+      <string>&lt;a class=&quot;track_title&quot; href=&quot;http://clip.discogsmp3.com/MP3/SF1304717-02-01-01.mp3&quot;&gt;Some Polyphony&lt;/a&gt;</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.discogs.song.DiscogsSong"> 
+     <void property="artists"> 
+      <object class="java.util.Vector"/> 
+     </void> 
+     <void property="duration"> 
+      <string>6:27</string> 
+     </void> 
+     <void property="position"> 
+      <string>B1</string> 
+     </void> 
+     <void property="remixers"> 
+      <object class="java.util.Vector"/> 
+     </void> 
+     <void property="title"> 
+      <string>&lt;a class=&quot;track_title&quot; href=&quot;http://clip.discogsmp3.com/MP3/SF1304717-02-01-02.mp3&quot;&gt;Untight&lt;/a&gt;</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.discogs.song.DiscogsSong"> 
+     <void property="artists"> 
+      <object class="java.util.Vector"/> 
+     </void> 
+     <void property="duration"> 
+      <string>5:35</string> 
+     </void> 
+     <void property="position"> 
+      <string>B2</string> 
+     </void> 
+     <void property="remixers"> 
+      <object class="java.util.Vector"/> 
+     </void> 
+     <void property="title"> 
+      <string>&lt;a class=&quot;track_title&quot; href=&quot;http://clip.discogsmp3.com/MP3/SF1304717-02-01-03.mp3&quot;&gt;Less Exciting&lt;/a&gt;</string> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="wishlist"> 
+   <void method="add"> 
+    <string>44100</string> 
+   </void> 
+   <void method="add"> 
+    <string>acsika</string> 
+   </void> 
+   <void method="add"> 
+    <string>Anarkhan</string> 
+   </void> 
+   <void method="add"> 
+    <string>android01</string> 
+   </void> 
+   <void method="add"> 
+    <string>andry_93</string> 
+   </void> 
+   <void method="add"> 
+    <string>avraam</string> 
+   </void> 
+   <void method="add"> 
+    <string>balijani55</string> 
+   </void> 
+   <void method="add"> 
+    <string>ben540</string> 
+   </void> 
+   <void method="add"> 
+    <string>benie</string> 
+   </void> 
+   <void method="add"> 
+    <string>Boson</string> 
+   </void> 
+   <void method="add"> 
+    <string>bwise</string> 
+   </void> 
+   <void method="add"> 
+    <string>cajmere</string> 
+   </void> 
+   <void method="add"> 
+    <string>carlw</string> 
+   </void> 
+   <void method="add"> 
+    <string>cdk1899</string> 
+   </void> 
+   <void method="add"> 
+    <string>chiema</string> 
+   </void> 
+   <void method="add"> 
+    <string>Circlesquare</string> 
+   </void> 
+   <void method="add"> 
+    <string>coko987</string> 
+   </void> 
+   <void method="add"> 
+    <string>connolly.st</string> 
+   </void> 
+   <void method="add"> 
+    <string>Couch_Potato</string> 
+   </void> 
+   <void method="add"> 
+    <string>Crateaholic</string> 
+   </void> 
+   <void method="add"> 
+    <string>Daan.</string> 
+   </void> 
+   <void method="add"> 
+    <string>damien1195</string> 
+   </void> 
+   <void method="add"> 
+    <string>danielbechetoille</string> 
+   </void> 
+   <void method="add"> 
+    <string>dannyloscippo</string> 
+   </void> 
+   <void method="add"> 
+    <string>datashaper</string> 
+   </void> 
+   <void method="add"> 
+    <string>deadsell</string> 
+   </void> 
+   <void method="add"> 
+    <string>DeeJayMIC</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dekadenz</string> 
+   </void> 
+   <void method="add"> 
+    <string>deloco</string> 
+   </void> 
+   <void method="add"> 
+    <string>desker82</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dimi_MacManus</string> 
+   </void> 
+   <void method="add"> 
+    <string>DJ-LizarD</string> 
+   </void> 
+   <void method="add"> 
+    <string>dj-rickrock</string> 
+   </void> 
+   <void method="add"> 
+    <string>djides</string> 
+   </void> 
+   <void method="add"> 
+    <string>DJKIDFORM</string> 
+   </void> 
+   <void method="add"> 
+    <string>djluko</string> 
+   </void> 
+   <void method="add"> 
+    <string>DjMisty</string> 
+   </void> 
+   <void method="add"> 
+    <string>drn_dnl</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dy-Namic</string> 
+   </void> 
+   <void method="add"> 
+    <string>eastbaywatch</string> 
+   </void> 
+   <void method="add"> 
+    <string>easyrider</string> 
+   </void> 
+   <void method="add"> 
+    <string>Eivissa</string> 
+   </void> 
+   <void method="add"> 
+    <string>EliasRafael</string> 
+   </void> 
+   <void method="add"> 
+    <string>engram</string> 
+   </void> 
+   <void method="add"> 
+    <string>Enie</string> 
+   </void> 
+   <void method="add"> 
+    <string>Gabor_P</string> 
+   </void> 
+   <void method="add"> 
+    <string>Gomi-Soji</string> 
+   </void> 
+   <void method="add"> 
+    <string>Grorigo</string> 
+   </void> 
+   <void method="add"> 
+    <string>hdpdt</string> 
+   </void> 
+   <void method="add"> 
+    <string>Herschel</string> 
+   </void> 
+   <void method="add"> 
+    <string>Herzi.</string> 
+   </void> 
+   <void method="add"> 
+    <string>ibbjamin</string> 
+   </void> 
+   <void method="add"> 
+    <string>itchy2385</string> 
+   </void> 
+   <void method="add"> 
+    <string>jamesdmorgan</string> 
+   </void> 
+   <void method="add"> 
+    <string>jaysor</string> 
+   </void> 
+   <void method="add"> 
+    <string>jcford3</string> 
+   </void> 
+   <void method="add"> 
+    <string>JERRYNIMBUS</string> 
+   </void> 
+   <void method="add"> 
+    <string>jnnx</string> 
+   </void> 
+   <void method="add"> 
+    <string>Joy_machine</string> 
+   </void> 
+   <void method="add"> 
+    <string>k1mm0</string> 
+   </void> 
+   <void method="add"> 
+    <string>Kai-zen</string> 
+   </void> 
+   <void method="add"> 
+    <string>katkit</string> 
+   </void> 
+   <void method="add"> 
+    <string>KeviiN</string> 
+   </void> 
+   <void method="add"> 
+    <string>lacavale</string> 
+   </void> 
+   <void method="add"> 
+    <string>lolissimo</string> 
+   </void> 
+   <void method="add"> 
+    <string>M-Kiss</string> 
+   </void> 
+   <void method="add"> 
+    <string>manilo</string> 
+   </void> 
+   <void method="add"> 
+    <string>MARKYT1</string> 
+   </void> 
+   <void method="add"> 
+    <string>massyl</string> 
+   </void> 
+   <void method="add"> 
+    <string>MichaelReinboth</string> 
+   </void> 
+   <void method="add"> 
+    <string>mrill</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mvijf</string> 
+   </void> 
+   <void method="add"> 
+    <string>mycrow03</string> 
+   </void> 
+   <void method="add"> 
+    <string>napalmground</string> 
+   </void> 
+   <void method="add"> 
+    <string>needoktember</string> 
+   </void> 
+   <void method="add"> 
+    <string>nlscharm</string> 
+   </void> 
+   <void method="add"> 
+    <string>oohjanna</string> 
+   </void> 
+   <void method="add"> 
+    <string>Pheonix</string> 
+   </void> 
+   <void method="add"> 
+    <string>plinni</string> 
+   </void> 
+   <void method="add"> 
+    <string>progged</string> 
+   </void> 
+   <void method="add"> 
+    <string>rallerock</string> 
+   </void> 
+   <void method="add"> 
+    <string>Regilio</string> 
+   </void> 
+   <void method="add"> 
+    <string>Rosenbeez</string> 
+   </void> 
+   <void method="add"> 
+    <string>savageone</string> 
+   </void> 
+   <void method="add"> 
+    <string>schizomatik</string> 
+   </void> 
+   <void method="add"> 
+    <string>Semedo</string> 
+   </void> 
+   <void method="add"> 
+    <string>Sentinel</string> 
+   </void> 
+   <void method="add"> 
+    <string>SJBrem</string> 
+   </void> 
+   <void method="add"> 
+    <string>spiers69</string> 
+   </void> 
+   <void method="add"> 
+    <string>spiraloops</string> 
+   </void> 
+   <void method="add"> 
+    <string>Stiepan_Polax</string> 
+   </void> 
+   <void method="add"> 
+    <string>Stmac</string> 
+   </void> 
+   <void method="add"> 
+    <string>Stonedfubu</string> 
+   </void> 
+   <void method="add"> 
+    <string>stylofab</string> 
+   </void> 
+   <void method="add"> 
+    <string>Sunn</string> 
+   </void> 
+   <void method="add"> 
+    <string>thechemist</string> 
+   </void> 
+   <void method="add"> 
+    <string>thedelta</string> 
+   </void> 
+   <void method="add"> 
+    <string>Tirana</string> 
+   </void> 
+   <void method="add"> 
+    <string>tititiknik</string> 
+   </void> 
+   <void method="add"> 
+    <string>torkel</string> 
+   </void> 
+   <void method="add"> 
+    <string>toucan-tex</string> 
+   </void> 
+   <void method="add"> 
+    <string>tylerhollyfield</string> 
+   </void> 
+   <void method="add"> 
+    <string>umbongostu</string> 
+   </void> 
+   <void method="add"> 
+    <string>unibomber</string> 
+   </void> 
+   <void method="add"> 
+    <string>vilmis</string> 
+   </void> 
+   <void method="add"> 
+    <string>vinyl.willie</string> 
+   </void> 
+   <void method="add"> 
+    <string>vinylove</string> 
+   </void> 
+   <void method="add"> 
+    <string>zenvision</string> 
+   </void> 
+  </void> 
+  <void property="yearReleased"> 
+   <int>2006</int> 
+  </void> 
+ </object> 
+</java> 

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes" ?>
+<installation version="1.0">
+	<info>
+		<appname>Rapid Evolution 3</appname>
+		<appversion>@@@RE3_VERSION@@@</appversion>
+		<authors>
+			<author name="Jesse Bickmore" email="qualia@mixshare.com" />
+		</authors>
+		<url>http://www.mixshare.com/</url>
+		<run-privileged></run-privileged>		
+	</info>
+	<variables>
+		<variable name="APP_NAME" value="Rapid Evolution 3" />
+		<variable name="RE3_MEMORY" value="1000" />
+		<variable name="RE3_LIBRARY_PATH" value="" />
+		<variable name="RE3_VERSION" value="@@@RE3_VERSION@@@" />
+		<variable name="ShowCreateDirectoryMessage" value="false" />
+	</variables>
+	<guiprefs width="540" height="480" resizable="no">
+	</guiprefs>
+	<locale>
+		<langpack iso3="eng" />
+	</locale>
+	<resources>
+		<res id="InfoPanel.info" src="config/izpack/Readme.txt" />
+		<res src="config/izpack/userInputSpec.xml" id="userInputSpec.xml" />		
+  		<res id="userInputLang.xml_eng" src="config/izpack/userInputLang.xml_eng" />
+  		<res id="TargetPanel.dir.macosx" src="config/izpack/install files/macosx/install_path.txt" />  		
+  	</resources>
+	<panels>
+		<panel classname="HelloPanel" />
+		<panel classname="InfoPanel" />
+		<panel classname="DefaultTargetPanel" />
+		<panel classname="UserInputPanel" id="UserInputPanel.0"/>
+		<panel classname="UserInputPanel" id="UserInputPanel.1"/>
+		<panel classname="InstallPanel" />
+		<panel classname="FinishPanel" />
+	</panels>
+	<packs>
+		<pack name="Base" required="yes">
+			<description>The base files</description>
+
+			<file src="re3.properties"
+				targetdir="$INSTALL_PATH/Contents/Resources" override="true" />
+			<file src="settings.xml"
+				targetdir="$INSTALL_PATH/Contents/Resources" override="true" />
+			<file src="re3.css"
+				targetdir="$INSTALL_PATH/Contents/Resources" override="true" />
+			<file src="config/izpack/install files/macosx/log4j.properties"
+				targetdir="$INSTALL_PATH/Contents/Resources" />
+			<file src="config/izpack/install files/client.policy"
+				targetdir="$INSTALL_PATH/Contents/Resources" override="true" />
+
+			<file src="images/noalbumcover.gif"
+				targetdir="$INSTALL_PATH/Contents/Resources/images" override="true" />
+			<file src="images/splashscreen.gif"
+				targetdir="$INSTALL_PATH/Contents/Resources/images" override="true" />
+
+			<fileset dir=""
+				targetdir="$INSTALL_PATH/Contents/Resources" override="true">
+				<include name="icons/**/*"/>				
+				<include name="web/**/*"/>					
+				<exclude name="**/.svn"/>					
+				<exclude name="**/.svn/**"/>					
+				<exclude name="lib/qt/**"/>					
+			</fileset>
+			
+			<fileset dir=""
+				targetdir="$INSTALL_PATH/Contents/Resources/Java" override="true">
+				<include name="lib/**/*"/>
+				<exclude name="**/.svn"/>					
+				<exclude name="**/.svn/**"/>					
+				<exclude name="lib/qt/**"/>					
+			</fileset>			
+				
+			<file os="mac" src="lib/qt/mac/qtjambi-4.5.2_01.jar"
+				targetdir="$INSTALL_PATH/Contents/Resources/Java/lib/qt" />
+			<file os="mac" src="lib/qt/mac/qtjambi-macosx-gcc-4.5.2_01.jar"
+				targetdir="$INSTALL_PATH/Contents/Resources/Java/lib/qt" />
+								
+			<file os="mac" src="config\izpack\install files\macosx\Rapid Evolution 3.app\Contents\Info.plist"
+				targetdir="$INSTALL_PATH/Contents" override="true" />
+			<file os="mac" src="config\izpack\install files\macosx\Rapid Evolution 3.app\Contents\PkgInfo"
+				targetdir="$INSTALL_PATH/Contents" override="true" />
+			<file os="mac" src="config\izpack\install files\macosx\re3.icns"
+				targetdir="$INSTALL_PATH/Contents/Resources" override="true" />
+			<file os="mac" src="config\izpack\install files\macosx\re3.hqx"
+				targetdir="$INSTALL_PATH/Contents/Resources" override="true" />
+				
+			<file os="mac" src="bundles/translations.properties"
+				targetdir="$INSTALL_PATH/Contents/Resources/Java/bundles" override="true" />
+
+			<file os="mac" src="@@@RE3_DEPLOY_JAR@@@"
+				targetdir="$INSTALL_PATH/Contents/Resources/Java" override="true" />	
+											
+			<file os="mac"
+				src="config\izpack\install files\macosx\Rapid Evolution 3.app\Contents\MacOS\JavaApplicationStub"
+				targetdir="$INSTALL_PATH/Contents/MacOS" />
+			<file os="mac"
+				src="config\izpack\install files\macosx\faad_OSX"
+				targetdir="$INSTALL_PATH/Contents/Resources" override="true" />
+			<file os="mac"
+				src="config\izpack\install files\macosx\ffmpeg"
+				targetdir="$INSTALL_PATH/Contents/Resources" override="true" />
+				
+			<parsable targetfile="$INSTALL_PATH/Contents/Resources/re3.properties"
+				type="shell" />
+			<parsable targetfile="$INSTALL_PATH/Contents/Resources/log4j.properties"
+				type="shell" />
+			<parsable targetfile="$INSTALL_PATH/Contents/Info.plist"
+				type="shell" />
+
+			<executable os="mac"
+				targetfile="$INSTALL_PATH/Contents/MacOS/JavaApplicationStub"
+				stage="never" />
+			<executable os="mac"
+				targetfile="$INSTALL_PATH/Contents/Resources/faad_OSX"
+				stage="never" />
+			<executable os="mac"
+				targetfile="$INSTALL_PATH/Contents/Resources/ffmpeg"
+				stage="never" />
+				
+		</pack>
+	</packs>
+</installation>

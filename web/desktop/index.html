@@ -1,0 +1,666 @@
+<html>
+	<head id="head">	
+		<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+		<title>RE3 Web Access</title>
+		
+		<link href="js/css/styles.css" rel="stylesheet" type="text/css" />
+		<script src="js/dojo.js" type="text/javascript"></script>
+		<script src="js/re3dojo.js" type="text/javascript"></script>
+		
+		<script>
+			// dojo libraries
+		    dojo.require('dojox.grid.EnhancedGrid');
+		    dojo.require('dojox.grid.enhanced.plugins.DnD');
+		    dojo.require('dojox.grid.enhanced.plugins.Menu');
+		    dojo.require('dojox.grid.enhanced.plugins.NestedSorting');
+		    dojo.require('dojox.grid.enhanced.plugins.IndirectSelection');
+		    dojo.require('dojox.data.QueryReadStore');
+		    dojo.require('dojo.data.ItemFileReadStore');
+		    dojo.require('dijit.form.Button');
+		    dojo.require('dojo.parser');
+            dojo.require("dijit.layout.BorderContainer");
+            dojo.require("dijit.layout.ContentPane");
+			dojo.require("dojox.form.Rating");
+			dojo.require("dijit.Dialog");
+			dojo.require("dijit.form.CheckBox");
+			dojo.require("dijit.form.Button");		
+			dojo.require("dojox.layout.FloatingPane");
+
+			         
+			// global variables   
+		    var searchType = "labels";
+		    var searchText = "";
+		    var artistLayout = null;
+		    var labelLayout = null;
+		    var releaseLayout = null;
+		    var songLayout = null;
+		    var eventLayout = null;
+		    var venueLayout = null;
+		    
+		    var columnStore;
+		    					
+			// fetches the grid layout (column selection, sizes, ordering) from the server
+			// the method will pause until the result is fetched, but only fetch if it is null...
+			function getLayout(layout, type) {
+				if (layout == null) {
+			        dojo.xhrGet( {
+				        url: "gridView?type="+type,
+				        handleAs: "json",
+				        sync: true,
+				        load: function(responseObject, ioArgs) {
+				        	layout = responseObject;				        	
+			        	}
+					});					
+				}
+				return layout;
+			}
+		
+		    // when resources are loaded
+		    dojo.ready(function() {
+		        selectColumnsLayout = [{
+		            defaultCell: { width: 8, editable: false, type: dojox.grid.cells._Widget },
+		            rows:
+		            [
+		            	{ field: 'hidden', width: '3', name: '&nbsp;', formatter:showHidden },
+		                { field: 'column_title', width: '10', name: 'Column Title' },
+		                { field: 'description', width: '20', name: 'Description' }
+		            ]}
+		        ];	
+		        mergeLayout = [{
+		            defaultCell: { width: 8, editable: false, type: dojox.grid.cells._Widget },
+		            rows:
+		            [
+		            	{ field: 'name', width: '35', name: 'Name' }
+		            ]}
+		        ];		        
+		        hideLayout = [{
+		            defaultCell: { width: 8, editable: false, type: dojox.grid.cells._Widget },
+		            rows:
+		            [
+		            	{ field: 'name', width: '35', name: 'Name' }
+		            ]}
+		        ];		        
+		        // setup the main grid and column selection stores
+		        columnStore = new dojo.data.ItemFileReadStore({
+			        id: "columnStore",
+			        url: "columns?type=" + searchType,
+					queryOptions: { ignoreCase: true },
+					urlPreventCache: true,
+					clearOnClose: true
+				});
+				dojo.subscribe("/dnd/move/stop", widgetMoved);				
+		        //parse!
+		        dojo.parser.parse();		        
+
+		        // trigger the main view to be fetched/displayed
+				dojo.xhrGet( {
+			        url: "currentSearchType",
+			        handleAs: "text",
+			        load: function(responseObject, ioArgs) {
+						searchType = responseObject.trim();
+				        queryStore1 = new dojox.data.QueryReadStore({
+					        id: "queryStore1",
+					        url: searchType,
+							query: { name: "*" },
+							queryOptions: { ignoreCase: true },
+							clearOnClose: true,
+							start: 0,
+							count: 20		        				         
+						});						
+				        document.getElementById('searchType').value = searchType;
+				        document.getElementById('searchQuery').value = '';
+			        	createGrid();						
+		        	}
+				});		        
+		    });
+
+			function createGrid() {
+				dijit.byId('searchPane').setContent('<div id="searchGrid" dojoType="dojox.grid.EnhancedGrid" rowsPerPage="30" plugins=\'{nestedSorting: true, dnd: true, indirectSelection: true, menus:{headerMenu:"headerMenu", selectedRegionMenu:"selectedRegionMenu"}}\' store="queryStore1" structure="getLayout('+searchType.substring(0, searchType.length - 1)+'Layout, \''+searchType+'\')" onResizeColumn="searchColumnResized()"></div>');
+				dojo.connect(dijit.byId('searchGrid'), "onMoveColumn", searchColumnMoved);
+				dojo.subscribe(dijit.byId('searchGrid').rowSelectionChangedTopic, rowSelectionChanged);				
+			}
+
+			function updateSearchQuery() {
+				searchText = document.getElementById('searchQuery').value;
+				dijit.byId('searchGrid').selection.clear();
+				dijit.byId("searchGrid").rowSelectCell.toggleAllSelection(false);				
+				dijit.byId('searchGrid').setQuery({ q: searchText }, {ignoreCase:true});				
+			}
+		    function updateSearchType() {
+			    searchType = document.getElementById('searchType').options[document.getElementById('searchType').selectedIndex].value;
+			    queryStore1.url = searchType;
+			    queryStore1.close();
+			    columnStore.url = "columns?type=" + searchType;
+			    columnStore.close();
+				// calling setStructure breaks sort/drag capabilities, so the workaround for now is to recreate a new grid
+				createGrid();				
+		    	/*
+			    if (searchType == 'artists')
+			    	dijit.byId('searchGrid').setStructure(getLayout(artistLayout, "artists"));
+			    else if (searchType == 'releases')
+			    	dijit.byId('searchGrid').setStructure(getLayout(releaseLayout, "releases"));
+			    else if (searchType == 'labels')
+			    	dijit.byId('searchGrid').setStructure(getLayout(labelLayout, "labels"));
+			    else if (searchType == 'events')
+			    	dijit.byId('searchGrid').setStructure(getLayout(eventLayout, "events"));
+			    else if (searchType == 'venues')
+			    	dijit.byId('searchGrid').setStructure(getLayout(venueLayout, "venues"));
+			    else
+			    	dijit.byId('searchGrid').setStructure(getLayout(songLayout, "songs"));
+				*/
+		    }
+
+			// helper method
+		    function noSort(index){
+				return false;
+			}
+					    
+			// column/view customization	    
+		    function configureSearchColumns() {
+		    	// close and re-open the store in case selections were made
+		    	columnStore.close();
+				columnStore = new dojo.data.ItemFileReadStore({
+			        id: "columnStore",
+			        url: "columns?type=" + searchType,
+					queryOptions: { ignoreCase: true },
+					urlPreventCache: true,
+					clearOnClose: true
+				});		    	
+		    	var id = "columns_" + searchType;
+		    	var dialog = new dijit.Dialog({
+		    		title: 'Select Columns',
+      				content: "<div dojoType='dijit.layout.BorderContainer' style='width: 100%; height: 355px;'><div dojoType='dijit.layout.ContentPane' region='center'><div dojoType='dojox.grid.EnhancedGrid' rowsPerPage='30'  plugins='{nestedSorting: false, indirectSelection: false}' store='columnStore' canSort='noSort' structure='selectColumnsLayout' style='width: 100%; height: 100%;'/></div></div>",
+      				style: "width: 450px; height:400px;"
+  				});	
+  				dialog.show();
+		    }
+			// column events	
+			function searchColumnResized() {
+				var searchGrid = dojo.byId('searchGrid');				
+		        var columnWidths = '';
+		        var columns = dojo.query("th", searchGrid);
+		        var col;
+		        // indirect selection requires we skip over the first column
+		        for (col = 1; col < columns.length; col++) {
+		            // the column width will be in in pixels e.e. 78px
+		            // we need to remove the px value		            
+		            var width = parseInt(columns[col].style.width);
+		            if (columnWidths.length > 0)
+		            	columnWidths += ",";
+		            columnWidths += width;
+		        }
+				dojo.xhrPut({
+					url: 'columns',
+					content: { type: searchType, widths: columnWidths }
+				}); 
+			}
+			function searchColumnMoved(value, value2, fromIndex, toIndex) {
+				if (toIndex > fromIndex)
+					--toIndex;
+				// indirect selection requires we ignore the first column
+				//alert('searchColumnMoved(): fromIndex=' + fromIndex + ", toIndex=" + toIndex);
+				--fromIndex;
+				--toIndex;
+				dojo.xhrPut({
+					url: 'columns',
+					content: { type: searchType, from: fromIndex, to: toIndex }
+				}); 
+			}
+			
+			function rowSelectionChanged() {
+				var grid = dijit.byId('searchGrid');
+				var store = grid.store;
+				var selection = grid.selection.getSelected();
+	    		var menu = dijit.byId('selectedRegionMenu');
+	    		while (menu.getChildren().length > 0)
+					menu.removeChild(menu.getChildren()[0]);
+				var numSelected = selection.length;
+
+				if (numSelected == 0) {
+				} else if (numSelected == 1) {
+					if (searchType == 'songs') {
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Play",
+							onClick: playSelectedRecords	                		
+	            		}));
+	            		/*
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Download",
+							onClick: downloadSelectedRecords	                		
+	            		}));
+	            		*/	
+						menu.addChild(new dijit.MenuSeparator());
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Hide",
+							onClick: hideSelectedRecords	                		
+	            		}));					
+					} else if (searchType == 'artists') {
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Play",
+							onClick: playSelectedRecords	                		
+	            		}));
+	            		/*
+						menu.addChild(new dijit.MenuSeparator());
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Update Bio Image(s)",
+							onClick: updateArtistBioImage
+	            		}));
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Add Images To Gallery",
+							onClick: addArtistImagesToGallery	                		
+	            		}));
+	            		*/
+			    		menu.addChild(new dijit.MenuSeparator());
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Hide",
+							onClick: hideSelectedRecords	                		
+	            		}));
+					} else {
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Play",
+							onClick: playSelectedRecords	                		
+	            		}));
+						menu.addChild(new dijit.MenuSeparator());
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Hide",
+							onClick: hideSelectedRecords	                		
+	            		}));						
+					}
+				} else if (numSelected > 1) {
+					if (searchType == 'songs') {
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Play",
+							onClick: playSelectedRecords	                		
+	            		}));
+	            		/*
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Download",
+							onClick: downloadSelectedRecords	                		
+	            		}));
+	            		*/		            		
+						menu.addChild(new dijit.MenuSeparator());
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Merge",
+							onClick: mergeSelectedRecords	                		
+	            		}));							
+						menu.addChild(new dijit.MenuSeparator());
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Hide",
+							onClick: hideSelectedRecords	                		
+	            		}));	
+					} else if (searchType == 'artists') {
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Play",
+							onClick: playSelectedRecords	                		
+	            		}));
+	            		/*
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Download",
+							onClick: downloadSelectedRecords	                		
+	            		}));
+	            		*/
+	            		/*		           
+						menu.addChild(new dijit.MenuSeparator());
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Update Bio Image(s)",
+							onClick: updateArtistBioImage
+	            		}));
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Add Images To Gallery",
+							onClick: addArtistImagesToGallery	                		
+	            		}));	            		 		
+	            		*/
+						menu.addChild(new dijit.MenuSeparator());
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Merge",
+							onClick: mergeSelectedRecords	                		
+	            		}));							
+						menu.addChild(new dijit.MenuSeparator());
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Hide",
+							onClick: hideSelectedRecords	                		
+	            		}));	
+					} else {
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Play",
+							onClick: playSelectedRecords	                		
+	            		}));
+						menu.addChild(new dijit.MenuSeparator());					
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Merge",
+							onClick: mergeSelectedRecords	                		
+	            		}));					
+						menu.addChild(new dijit.MenuSeparator());
+			    		menu.addChild(new dijit.MenuItem({
+	                		label: "Hide",
+							onClick: hideSelectedRecords	                		
+	            		}));							
+					}		
+		    	}	
+			}
+			function mergeSelectedRecords() {
+				var grid = dijit.byId('searchGrid');
+				var store = grid.store;
+				var selection = grid.selection.getSelected();				
+				var mergeData = Array();
+				for (i = 0; i < selection.length; ++i) {
+					var mergeItem = { id: store.getValue(selection[i], 'id'), name: store.getValue(selection[i], 'name') };
+					mergeData.push(mergeItem);
+				}
+				var data = {data: {
+					identifier : 'id',
+				    items : mergeData
+                }};
+                var dialogId = 'mergeDialog_' + new Date().getTime();
+                var gridId = 'mergeGrid_' + new Date().getTime();
+				mergeStore = new dojo.data.ItemFileReadStore(data);				
+				var dialog = new dijit.Dialog({
+		    		title: 'Merge Records',
+		    		id: dialogId,
+      				content: "<div dojoType='dijit.layout.BorderContainer' style='width: 100%; height: 345px;'><div dojoType='dijit.layout.ContentPane' region='top'>Select the primary record to merge into:</div><div dojoType='dijit.layout.ContentPane' region='center' style='overflow: hidden;'><div dojoType='dojox.grid.EnhancedGrid' id='"+gridId+"' rowsPerPage='30' selectionMode='single' plugins='{nestedSorting: false, indirectSelection: true}' store='mergeStore' canSort='noSort' structure='mergeLayout' style='width: 100%; height: 255px;'/></div><div dojoType='dijit.layout.ContentPane' region='bottom'><button dojoType='dijit.form.Button' type='button' onclick='mergeConfirmed(dijit.byId(\""+gridId+"\"), \""+dialogId+"\")'>Merge</button><button dojoType='dijit.form.Button' type='button' onclick='dijit.byId(\""+dialogId+"\").hide()'>Cancel</button></div></div>",
+      				style: "width: 450px; height:390px;"
+  				});	
+  				dialog.show();
+			}
+			function mergeConfirmed(grid, dialogId) {
+				var store = grid.store;
+				var selection = grid.selection.getSelected();
+				if (selection.length == 0) {
+					alert('Select a primary record to merge into first');
+					return;					
+				}							
+				var primaryId = store.getValue(selection[0], 'id');								
+				var searchGrid = dijit.byId('searchGrid');
+				var searchStore = searchGrid.store;
+				var searchSelection = searchGrid.selection.getSelected();
+				var mergedIds = '';				
+				for (i = 0; i < searchSelection.length; ++i) {
+					var id = searchStore.getValue(searchSelection[i], 'id');
+					if (id != primaryId) {
+						if (mergedIds.length > 0)
+							mergedIds += ',';
+						mergedIds += id;
+					}
+				}
+				//alert('merge confirmed, primaryId=' + primaryId + ", mergedIds=" + mergedIds);				
+				dojo.xhrPut({
+					url: 'merge',
+					content: { primary_id: primaryId, type: searchType, merged_ids: mergedIds },
+			        load: function(responseObject, ioArgs) {
+						for (i = 0; i < searchSelection.length; ++i) {
+							var id = searchStore.getValue(searchSelection[i], 'id');
+							if (id != primaryId) {	
+								var row = searchStore.getValue(searchSelection[i], 'row');
+								//searchStore.deleteItem(searchSelection[i]);
+						        dojo.forEach(searchGrid.views.views, function(v){
+					                dojo.style(v.rowNodes[row], {'display':"none"});
+        						}); 
+							}
+						}
+					}							
+				}); 				
+				
+				dijit.byId(dialogId).hide();
+				searchGrid.selection.clear();
+				searchGrid.rowSelectCell.toggleAllSelection(false);
+			}
+
+			function getSelectedIdsAsString() {
+				var grid = dijit.byId('searchGrid');
+				var store = grid.store;
+				var selection = grid.selection.getSelected();				
+				var selectedIds = '';
+				for (i = 0; i < selection.length; ++i) {
+					var id = store.getValue(selection[i], 'id');
+					if (selectedIds.length > 0)
+						selectedIds += ',';
+					selectedIds += id;
+				}	
+				return selectedIds;				
+			}
+
+			function updateArtistBioImage() {
+				var selection = getSelectedIdsAsString();
+				dojo.xhrPut({
+					url: 'updateArtistBioImage',
+					content: { ids: selection }
+				}); 
+			}
+			function addArtistImagesToGallery() {
+				var selection = getSelectedIdsAsString();
+				dojo.xhrPut({
+					url: 'addArtistImagesToGallery',
+					content: { ids: selection }
+				}); 				
+			}
+
+			function hideSelectedRecords() {
+				var grid = dijit.byId('searchGrid');
+				var store = grid.store;
+				var selection = grid.selection.getSelected();				
+				var mergeData = Array();
+				for (i = 0; i < selection.length; ++i) {
+					var mergeItem = { id: store.getValue(selection[i], 'id'), name: store.getValue(selection[i], 'name') };
+					mergeData.push(mergeItem);
+				}
+				var data = {data: {
+					identifier : 'id',
+				    items : mergeData
+                }};
+                var dialogId = 'hideDialog_' + new Date().getTime();
+                var gridId = 'hideGrid_' + new Date().getTime();
+				hideStore = new dojo.data.ItemFileReadStore(data);				
+				var dialog = new dijit.Dialog({
+		    		title: 'Hide Records',
+		    		id: dialogId,
+      				content: "<div dojoType='dijit.layout.BorderContainer' style='width: 100%; height: 345px;'><div dojoType='dijit.layout.ContentPane' region='top'>Are you sure you want to hide the following records?</div><div dojoType='dijit.layout.ContentPane' region='center' style='overflow: hidden;'><div dojoType='dojox.grid.EnhancedGrid' id='"+gridId+"' rowsPerPage='30' selectionMode='none' plugins='{nestedSorting: false, indirectSelection: false}' store='hideStore' canSort='noSort' structure='hideLayout' style='width: 100%; height: 255px;'/></div><div dojoType='dijit.layout.ContentPane' region='bottom'><button dojoType='dijit.form.Button' type='button' onclick='hideConfirmed(dijit.byId(\""+gridId+"\"), \""+dialogId+"\")'>Hide</button><button dojoType='dijit.form.Button' type='button' onclick='dijit.byId(\""+dialogId+"\").hide()'>Cancel</button></div></div>",
+      				style: "width: 450px; height:390px;"
+  				});	
+  				dialog.show();
+			}
+			function hideConfirmed(grid, dialogId) {
+				var grid = dijit.byId('searchGrid');
+				var store = grid.store;
+				var selection = grid.selection.getSelected();				
+				var hideIds = '';
+				for (i = 0; i < selection.length; ++i) {
+					var id = store.getValue(selection[i], 'id');
+					if (hideIds.length > 0)
+						hideIds += ',';
+					hideIds += id;
+				}
+				//alert('hiding ids='+hideIds);				
+				dojo.xhrPut({
+					url: 'hide',
+					content: { ids: hideIds, type: searchType },
+			        load: function(responseObject, ioArgs) {
+						for (i = 0; i < selection.length; ++i) {
+							var row = store.getValue(selection[i], 'row');
+							//searchStore.deleteItem(searchSelection[i]);
+					        dojo.forEach(grid.views.views, function(v){
+				                dojo.style(v.rowNodes[row], {'display':"none"});
+       						}); 
+						}
+					}							
+				}); 								
+				dijit.byId(dialogId).hide();
+				grid.selection.clear();
+				grid.rowSelectCell.toggleAllSelection(false);				
+			}
+
+			function widgetMoved(e) {			
+				var widget = dijit.byNode(e.node);
+				if ((widget != null) && (widget.id == 'mediaPlayer')) {
+					// TODO: finish					
+					console.log(dojo.position(widget));
+				}
+			}
+			
+			function playSelectedRecords() {
+				var grid = dijit.byId('searchGrid');
+				var store = grid.store;
+				var selection = grid.selection.getSelected();				
+				if (selection.length > 0) {
+					var seedIds = '';
+					for (i = 0; i < selection.length; ++i) {
+						var id = store.getValue(selection[i], 'id');
+						if (seedIds.length > 0)
+							seedIds += ',';
+						seedIds += id;
+					}
+				
+					var id = store.getValue(selection[0], 'id');
+					dojo.xhrPut({
+						url: 'seed',
+						content: { ids: seedIds, type: searchType, keep_first: true },
+				        load: function(responseObject, ioArgs) {
+							var fp = dijit.byId('mediaPlayer');
+							if (fp == null) {
+								var div = dojo.doc.createElement('div');		
+								div.id = 'mediaPlayerDiv';
+								dojo.body().appendChild(div);							
+				                fp = new dojox.layout.FloatingPane({
+				                    title: "Media Player",
+				                    resizable: false,
+				                    dockable: false,
+				                    closable: true,
+				                    maxable: false,
+				                    id: 'mediaPlayer',
+				                    href: "player.html"
+				                }, div);
+								dojo.style(fp.domNode,{
+									width:"385px",
+								    height:"90px",
+								    top:"0", left:"0",
+								    position:"absolute",
+								    zIndex:"980",
+								    overflow:"hidden"
+								});			                
+				                fp.startup();
+				                fp.show();
+							} else {
+								nextSong();
+							}              
+						}							
+					}); 					
+				}			
+			}
+			function downloadSelectedRecords() {
+			}			
+					    
+		    // column cell formatters:
+		    function showImage(value) {
+		    	return '<img src="image?width=80&height=80&filename='+value+'" width="80" height="80" />';
+		    }
+		    function showHidden(value, idx) {
+		    	var store = this.grid.store;
+		    	var grid = this.grid;
+		    	var storeValue = grid.getItem(idx);
+		    	var id = store.getValue(storeValue, 'id');	
+		    	var type = store.getValue(storeValue, 'type');
+		    	return new dijit.form.CheckBox({
+					checked: !value,
+                    onChange: function(b) {
+						dojo.xhrPut({
+							url: 'columns',
+							content: { id: id, type: type, hidden: !b },
+					        load: function(responseObject, ioArgs) {
+							    if (searchType == 'artists') {
+							    	artistLayout = null;
+							    	//dijit.byId('searchGrid').setStructure(getLayout(artistLayout, "artists"));
+							    } else if (searchType == 'releases') {
+							    	releaseLayout = null;
+							    	//dijit.byId('searchGrid').setStructure(getLayout(releaseLayout, "releases"));
+							    } else if (searchType == 'labels') {
+							    	labelLayout = null;
+							    	//dijit.byId('searchGrid').setStructure(getLayout(labelLayout, "labels"));
+							    } else if (searchType == 'events') {
+							    	eventLayout = null;	
+							    	//dijit.byId('searchGrid').setStructure(getLayout(eventLayout, "events"));
+							    } else if (searchType == 'venues') {
+							    	venueLayout = null;
+							    	//dijit.byId('searchGrid').setStructure(getLayout(venueLayout, "venues"));
+							    } else {
+							    	songLayout = null;
+							    	//dijit.byId('searchGrid').setStructure(getLayout(songLayout, "songs"));
+							    }
+							    // since setStructure breaks sorting/dragging we'll recreate the grid for now
+							    createGrid();
+							}							
+						}); 
+                    }
+  				});
+		    }
+		    function showRating(value, idx) {
+		    	var store = this.grid.store;
+		    	var grid = this.grid;
+		    	var storeValue = grid.getItem(idx);
+		    	var id = store.getValue(storeValue, 'id');	
+		    	var type = store.getValue(storeValue, 'type');
+		    	var widgetId = "rating_" + type + "_" + id;
+		    	var ratingWidget = dijit.byId(widgetId);
+		    	if (ratingWidget == null) {
+			    	ratingWidget = new dojox.form.Rating({
+			    		numStars: 5,
+			    		value: value,
+			    		id: widgetId
+	  				});
+	  				dojo.connect(ratingWidget, "onChange", function() {
+	  					//alert('rating=' + ratingWidget.value + ", id=" + id + ", type=" + searchType);
+						dojo.xhrGet({
+							url: 'rate',
+							preventCache: true,
+							content: { id: id, type: searchType, value: ratingWidget.value }
+						});
+	   				});
+	    			dojo.connect(ratingWidget, "onMouseOver", function(evt, value) {
+	    				dojo.stopEvent(evt);
+	    				evt.stopPropagation();
+	    			});
+	    		}
+  				return ratingWidget;
+		    }
+
+		</script>	
+	</head>
+	<body id="body" class="claro">
+		<div id="content">		
+	        <div dojoType="dijit.layout.BorderContainer" style="width: 100%; height: 100%;">
+	            <div dojoType="dijit.layout.ContentPane" region="top">
+	            	<div dojoType="dijit.layout.BorderContainer" style="width: 100%; height: 30px;" gutters="false">
+	            		<div dojoType="dijit.layout.ContentPane" region="left" style="overflow: hidden">
+	            			<img class="searchIcon" src="images/search.png"/>
+	            		</div>
+	            		<div dojoType="dijit.layout.ContentPane" region="center" style="overflow: hidden">
+	            			<input id="searchQuery" type="text" onchange="updateSearchQuery()"/>
+	            		</div>
+	            		<div dojoType="dijit.layout.ContentPane" region="right" style="overflow: hidden">
+							<select id="searchType" onchange="updateSearchType()">
+				  				<option value="artists">Artists</option>
+				  				<option value="labels">Labels</option>
+				  				<option value="releases">Releases</option>
+				  				<option value="songs">Songs</option>
+				  				<option value="events">Events</option>
+				  				<option value="venues">Venues</option>
+							</select>
+	            		</div>
+	            	</div>
+	            </div>
+	            <div id="searchPane" dojoType="dijit.layout.ContentPane" region="center">
+	            </div>
+	        </div>				
+			<div style="display: none">
+			    <div dojoType="dijit.Menu" id="headerMenu" style="display: none;">
+			        <div dojoType="dijit.MenuItem" onclick="configureSearchColumns()">Select Columns</div>
+			    </div>
+			    <div dojoType="dijit.Menu" id="selectedRegionMenu" style="display: none;">
+			        <div dojoType="dijit.MenuItem" onclick="mergeSelectedRecords">Merge</div>
+			    </div>		
+			</div>		
+		</div>
+		<noscript>
+    		JavaScript is required, please enable it in your browser.	
+		</noscript>
+	</body>
+
+</html>

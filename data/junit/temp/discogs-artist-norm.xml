@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_21" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.discogs.artist.DiscogsArtist"> 
+  <void property="artistName"> 
+   <string>DJ Frane</string> 
+  </void> 
+  <void property="imageURLs"> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/A-42080-1211525634.jpeg</string> 
+   </void> 
+  </void> 
+  <void property="primaryImageURL"> 
+   <string>http://www.discogs.com/image/A-42080-1211525634.jpeg</string> 
+  </void> 
+  <void property="profile"> 
+   <string>He gained recognition as a DJ through his mixtapes and his acrobatic turntable solos opening for rappers like Doug E. Fresh, Medusa, and Tha Liks. He made underground beats for members of Warren G&apos;s G-Funk clique. He honed his musical chops collaborating with funk legends like Mandrill and Blowfly. And now DJ Frane earns his acclaim producing instrumental concept albums that sound like nothing youve ever heard. His first solo album, Frane&apos;s Fantastic Boatride (or beats to blaze to volume 1), was released on Goodvibe Recordings and became a college radio favorite. Used for the joint-smoking scene in the film Romeo Must Die, it also became the soundtrack for real-life herb smoking sessions around the world and was named Best Record to Freestyle Over by Vice Magazine. The album cover was created by Mike Shinoda, rapper for Linkin Park.</string> 
+  </void> 
+  <void property="releaseIds"> 
+   <void method="add"> 
+    <string>350137</string> 
+   </void> 
+   <void method="add"> 
+    <string>52211</string> 
+   </void> 
+   <void method="add"> 
+    <string>915345</string> 
+   </void> 
+   <void method="add"> 
+    <string>307165</string> 
+   </void> 
+   <void method="add"> 
+    <string>1357157</string> 
+   </void> 
+  </void> 
+  <void property="urls"> 
+   <void method="add"> 
+    <string>http://www.myspace.com/djfrane</string> 
+   </void> 
+  </void> 
+ </object> 
+</java> 

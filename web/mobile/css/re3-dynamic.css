@@ -1,0 +1,24 @@
+/* Portrait */
+@media screen and (max-width: 320px)
+{
+	.resultEntryDetails { 
+		max-width: 205px; 
+	}
+	
+	.resultEntry {
+		width: 310px;
+	}
+}
+ 
+/* Landscape */
+@media screen and (min-width: 321px)
+{
+	.resultEntryDetails { 
+		max-width: 365px; 
+		width: 365px;
+	}
+	
+	.resultEntry {
+		width: 470px;
+	}	
+}

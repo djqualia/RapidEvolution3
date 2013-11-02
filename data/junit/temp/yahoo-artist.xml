@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_21" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.yahoo.artist.YahooArtistProfile"> 
+  <void property="artistId"> 
+   <string>288959</string> 
+  </void> 
+  <void property="artistName"> 
+   <string>Squarepusher</string> 
+  </void> 
+  <void property="categories"> 
+   <void method="add"> 
+    <string>Electronic/Dance</string> 
+   </void> 
+  </void> 
+  <void property="similarArtistNames"> 
+   <void method="add"> 
+    <string>Plaid</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mu-Ziq</string> 
+   </void> 
+   <void method="add"> 
+    <string>Telefon Tel Aviv</string> 
+   </void> 
+   <void method="add"> 
+    <string>Autechre</string> 
+   </void> 
+   <void method="add"> 
+    <string>Wagon Christ</string> 
+   </void> 
+   <void method="add"> 
+    <string>Four Tet</string> 
+   </void> 
+   <void method="add"> 
+    <string>Baby Mammoth</string> 
+   </void> 
+   <void method="add"> 
+    <string>Children Of The Bong</string> 
+   </void> 
+   <void method="add"> 
+    <string>Boards Of Canada</string> 
+   </void> 
+   <void method="add"> 
+    <string>Human Mesh Dance</string> 
+   </void> 
+   <void method="add"> 
+    <string>Plastikman</string> 
+   </void> 
+   <void method="add"> 
+    <string>Kieran Hebden &amp; Steve Reid</string> 
+   </void> 
+   <void method="add"> 
+    <string>T.D.F.</string> 
+   </void> 
+   <void method="add"> 
+    <string>Goldie</string> 
+   </void> 
+   <void method="add"> 
+    <string>Meat Beat Manifesto</string> 
+   </void> 
+   <void method="add"> 
+    <string>Amon Tobin</string> 
+   </void> 
+   <void method="add"> 
+    <string>Fila Brazillia</string> 
+   </void> 
+   <void method="add"> 
+    <string>Coldcut</string> 
+   </void> 
+   <void method="add"> 
+    <string>Photek</string> 
+   </void> 
+   <void method="add"> 
+    <string>Roni Size &amp; Reprazent</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Baldwin Brothers</string> 
+   </void> 
+   <void method="add"> 
+    <string>DJ Food</string> 
+   </void> 
+   <void method="add"> 
+    <string>Grooverider</string> 
+   </void> 
+   <void method="add"> 
+    <string>Banco De Gaia</string> 
+   </void> 
+   <void method="add"> 
+    <string>808 State</string> 
+   </void> 
+   <void method="add"> 
+    <string>Adam F</string> 
+   </void> 
+   <void method="add"> 
+    <string>Husikesque</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dot Allison</string> 
+   </void> 
+   <void method="add"> 
+    <string>Le Gooster</string> 
+   </void> 
+   <void method="add"> 
+    <string>Roni Size </string> 
+   </void> 
+   <void method="add"> 
+    <string>Fluke</string> 
+   </void> 
+   <void method="add"> 
+    <string>Daedelus</string> 
+   </void> 
+   <void method="add"> 
+    <string>Vanessa Daou</string> 
+   </void> 
+   <void method="add"> 
+    <string>Motion Unit</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dave Aude</string> 
+   </void> 
+   <void method="add"> 
+    <string>Prototype 909</string> 
+   </void> 
+   <void method="add"> 
+    <string>Laurent Garnier</string> 
+   </void> 
+   <void method="add"> 
+    <string>DJ Vadim</string> 
+   </void> 
+   <void method="add"> 
+    <string>Aphex Twin</string> 
+   </void> 
+   <void method="add"> 
+    <string>Blue States</string> 
+   </void> 
+   <void method="add"> 
+    <string>Jazzanova</string> 
+   </void> 
+   <void method="add"> 
+    <string>Nuspirit Helsinki</string> 
+   </void> 
+   <void method="add"> 
+    <string>Swayzak</string> 
+   </void> 
+   <void method="add"> 
+    <string>Bent</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Avalanches</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Orb</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Tao Of Groove</string> 
+   </void> 
+   <void method="add"> 
+    <string>Electric Skychurch</string> 
+   </void> 
+   <void method="add"> 
+    <string>LTJ Bukem</string> 
+   </void> 
+   <void method="add"> 
+    <string>DJ Cam</string> 
+   </void> 
+   <void method="add"> 
+    <string>Lemon Jelly</string> 
+   </void> 
+   <void method="add"> 
+    <string>Audio Bullys</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Knife</string> 
+   </void> 
+   <void method="add"> 
+    <string>Ror-Shak</string> 
+   </void> 
+   <void method="add"> 
+    <string>Hybrid</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mocean Worker</string> 
+   </void> 
+   <void method="add"> 
+    <string>Gus Gus</string> 
+   </void> 
+   <void method="add"> 
+    <string>Propellerheads</string> 
+   </void> 
+   <void method="add"> 
+    <string>Moloko</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Starseeds</string> 
+   </void> 
+   <void method="add"> 
+    <string>Future Sound Of London</string> 
+   </void> 
+   <void method="add"> 
+    <string>U.N.K.L.E.</string> 
+   </void> 
+   <void method="add"> 
+    <string>Fischerspooner</string> 
+   </void> 
+   <void method="add"> 
+    <string>Alpha</string> 
+   </void> 
+   <void method="add"> 
+    <string>Edun</string> 
+   </void> 
+   <void method="add"> 
+    <string>Juno Reactor</string> 
+   </void> 
+   <void method="add"> 
+    <string>Emilie Simon</string> 
+   </void> 
+   <void method="add"> 
+    <string>Etro Anime</string> 
+   </void> 
+   <void method="add"> 
+    <string>Grace</string> 
+   </void> 
+   <void method="add"> 
+    <string>Cibo Matto</string> 
+   </void> 
+   <void method="add"> 
+    <string>Leftfield</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Dining Rooms</string> 
+   </void> 
+   <void method="add"> 
+    <string>My Bloody Valentine</string> 
+   </void> 
+   <void method="add"> 
+    <string>dZihan &amp; Kamien</string> 
+   </void> 
+   <void method="add"> 
+    <string>Sasha &amp; Digweed</string> 
+   </void> 
+   <void method="add"> 
+    <string>Ladytron</string> 
+   </void> 
+   <void method="add"> 
+    <string>Caia</string> 
+   </void> 
+   <void method="add"> 
+    <string>Timo Maas</string> 
+   </void> 
+   <void method="add"> 
+    <string>Sash!</string> 
+   </void> 
+   <void method="add"> 
+    <string>Tricky</string> 
+   </void> 
+   <void method="add"> 
+    <string>Bombay Dub Orchestra</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Beta Band</string> 
+   </void> 
+   <void method="add"> 
+    <string>Chromeo</string> 
+   </void> 
+   <void method="add"> 
+    <string>DJ Gius</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mono</string> 
+   </void> 
+   <void method="add"> 
+    <string>Conjure One</string> 
+   </void> 
+   <void method="add"> 
+    <string>Nightmares On Wax</string> 
+   </void> 
+   <void method="add"> 
+    <string>Larry Tee</string> 
+   </void> 
+   <void method="add"> 
+    <string>Felix Da Housecat</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Go! Team</string> 
+   </void> 
+   <void method="add"> 
+    <string>Mogwai</string> 
+   </void> 
+   <void method="add"> 
+    <string>Lamb</string> 
+   </void> 
+   <void method="add"> 
+    <string>Wolf Parade</string> 
+   </void> 
+   <void method="add"> 
+    <string>The Cinematic Orchestra</string> 
+   </void> 
+   <void method="add"> 
+    <string>John Digweed</string> 
+   </void> 
+   <void method="add"> 
+    <string>Hot Chip</string> 
+   </void> 
+   <void method="add"> 
+    <string>Brian Eno</string> 
+   </void> 
+   <void method="add"> 
+    <string>Simian Mobile Disco</string> 
+   </void> 
+   <void method="add"> 
+    <string>Stereolab</string> 
+   </void> 
+   <void method="add"> 
+    <string>Christopher Lawrence</string> 
+   </void> 
+  </void> 
+  <void property="similarArtists"> 
+   <void method="put"> 
+    <string>the baldwin brothers</string> 
+    <string>291317</string> 
+   </void> 
+   <void method="put"> 
+    <string>808 state</string> 
+    <string>262108</string> 
+   </void> 
+   <void method="put"> 
+    <string>t.d.f.</string> 
+    <string>266110</string> 
+   </void> 
+   <void method="put"> 
+    <string>fischerspooner</string> 
+    <string>298098</string> 
+   </void> 
+   <void method="put"> 
+    <string>my bloody valentine</string> 
+    <string>258206</string> 
+   </void> 
+   <void method="put"> 
+    <string>gus gus</string> 
+    <string>250605</string> 
+   </void> 
+   <void method="put"> 
+    <string>audio bullys</string> 
+    <string>303588</string> 
+   </void> 
+   <void method="put"> 
+    <string>laurent garnier</string> 
+    <string>315951</string> 
+   </void> 
+   <void method="put"> 
+    <string>the go! team</string> 
+    <string>15658301</string> 
+   </void> 
+   <void method="put"> 
+    <string>wagon christ</string> 
+    <string>268665</string> 
+   </void> 
+   <void method="put"> 
+    <string>prototype 909</string> 
+    <string>261908</string> 
+   </void> 
+   <void method="put"> 
+    <string>roni size </string> 
+    <string>271461</string> 
+   </void> 
+   <void method="put"> 
+    <string>future sound of london</string> 
+    <string>250006</string> 
+   </void> 
+   <void method="put"> 
+    <string>chromeo</string> 
+    <string>306441</string> 
+   </void> 
+   <void method="put"> 
+    <string>dj vadim</string> 
+    <string>272763</string> 
+   </void> 
+   <void method="put"> 
+    <string>coldcut</string> 
+    <string>304034</string> 
+   </void> 
+   <void method="put"> 
+    <string>conjure one</string> 
+    <string>304482</string> 
+   </void> 
+   <void method="put"> 
+    <string>grace</string> 
+    <string>250560</string> 
+   </void> 
+   <void method="put"> 
+    <string>plastikman</string> 
+    <string>261520</string> 
+   </void> 
+   <void method="put"> 
+    <string>bombay dub orchestra</string> 
+    <string>23836503</string> 
+   </void> 
+   <void method="put"> 
+    <string>dot allison</string> 
+    <string>294559</string> 
+   </void> 
+   <void method="put"> 
+    <string>mono</string> 
+    <string>272363</string> 
+   </void> 
+   <void method="put"> 
+    <string>motion unit</string> 
+    <string>305650</string> 
+   </void> 
+   <void method="put"> 
+    <string>dj cam</string> 
+    <string>312969</string> 
+   </void> 
+   <void method="put"> 
+    <string>the tao of groove</string> 
+    <string>297326</string> 
+   </void> 
+   <void method="put"> 
+    <string>mocean worker</string> 
+    <string>284838</string> 
+   </void> 
+   <void method="put"> 
+    <string>timo maas</string> 
+    <string>298287</string> 
+   </void> 
+   <void method="put"> 
+    <string>roni size &amp; reprazent</string> 
+    <string>279750</string> 
+   </void> 
+   <void method="put"> 
+    <string>the cinematic orchestra</string> 
+    <string>278866</string> 
+   </void> 
+   <void method="put"> 
+    <string>caia</string> 
+    <string>302944</string> 
+   </void> 
+   <void method="put"> 
+    <string>children of the bong</string> 
+    <string>302060</string> 
+   </void> 
+   <void method="put"> 
+    <string>ladytron</string> 
+    <string>301325</string> 
+   </void> 
+   <void method="put"> 
+    <string>husikesque</string> 
+    <string>252575</string> 
+   </void> 
+   <void method="put"> 
+    <string>propellerheads</string> 
+    <string>284879</string> 
+   </void> 
+   <void method="put"> 
+    <string>vanessa daou</string> 
+    <string>312202</string> 
+   </void> 
+   <void method="put"> 
+    <string>the dining rooms</string> 
+    <string>302945</string> 
+   </void> 
+   <void method="put"> 
+    <string>boards of canada</string> 
+    <string>286939</string> 
+   </void> 
+   <void method="put"> 
+    <string>the beta band</string> 
+    <string>290543</string> 
+   </void> 
+   <void method="put"> 
+    <string>brian eno</string> 
+    <string>314165</string> 
+   </void> 
+   <void method="put"> 
+    <string>john digweed</string> 
+    <string>288687</string> 
+   </void> 
+   <void method="put"> 
+    <string>adam f</string> 
+    <string>282732</string> 
+   </void> 
+   <void method="put"> 
+    <string>le gooster</string> 
+    <string>271453</string> 
+   </void> 
+   <void method="put"> 
+    <string>nightmares on wax</string> 
+    <string>259550</string> 
+   </void> 
+   <void method="put"> 
+    <string>etro anime</string> 
+    <string>277704</string> 
+   </void> 
+   <void method="put"> 
+    <string>mogwai</string> 
+    <string>271132</string> 
+   </void> 
+   <void method="put"> 
+    <string>swayzak</string> 
+    <string>284501</string> 
+   </void> 
+   <void method="put"> 
+    <string>daedelus</string> 
+    <string>15705937</string> 
+   </void> 
+   <void method="put"> 
+    <string>baby mammoth</string> 
+    <string>286882</string> 
+   </void> 
+   <void method="put"> 
+    <string>cibo matto</string> 
+    <string>256949</string> 
+   </void> 
+   <void method="put"> 
+    <string>hot chip</string> 
+    <string>26223011</string> 
+   </void> 
+   <void method="put"> 
+    <string>blue states</string> 
+    <string>273071</string> 
+   </void> 
+   <void method="put"> 
+    <string>the knife</string> 
+    <string>20921319</string> 
+   </void> 
+   <void method="put"> 
+    <string>sasha &amp; digweed</string> 
+    <string>294885</string> 
+   </void> 
+   <void method="put"> 
+    <string>wolf parade</string> 
+    <string>24392094</string> 
+   </void> 
+   <void method="put"> 
+    <string>edun</string> 
+    <string>23872351</string> 
+   </void> 
+   <void method="put"> 
+    <string>kieran hebden &amp; steve reid</string> 
+    <string>30946118</string> 
+   </void> 
+   <void method="put"> 
+    <string>mu-ziq</string> 
+    <string>291876</string> 
+   </void> 
+   <void method="put"> 
+    <string>leftfield</string> 
+    <string>254408</string> 
+   </void> 
+   <void method="put"> 
+    <string>telefon tel aviv</string> 
+    <string>298865</string> 
+   </void> 
+   <void method="put"> 
+    <string>amon tobin</string> 
+    <string>271830</string> 
+   </void> 
+   <void method="put"> 
+    <string>ltj bukem</string> 
+    <string>297621</string> 
+   </void> 
+   <void method="put"> 
+    <string>banco de gaia</string> 
+    <string>257643</string> 
+   </void> 
+   <void method="put"> 
+    <string>dave aude</string> 
+    <string>300542</string> 
+   </void> 
+   <void method="put"> 
+    <string>dj food</string> 
+    <string>313274</string> 
+   </void> 
+   <void method="put"> 
+    <string>grooverider</string> 
+    <string>288326</string> 
+   </void> 
+   <void method="put"> 
+    <string>electric skychurch</string> 
+    <string>313756</string> 
+   </void> 
+   <void method="put"> 
+    <string>u.n.k.l.e.</string> 
+    <string>287281</string> 
+   </void> 
+   <void method="put"> 
+    <string>sash!</string> 
+    <string>271426</string> 
+   </void> 
+   <void method="put"> 
+    <string>stereolab</string> 
+    <string>265695</string> 
+   </void> 
+   <void method="put"> 
+    <string>hybrid</string> 
+    <string>284640</string> 
+   </void> 
+   <void method="put"> 
+    <string>the orb</string> 
+    <string>266688</string> 
+   </void> 
+   <void method="put"> 
+    <string>felix da housecat</string> 
+    <string>275015</string> 
+   </void> 
+   <void method="put"> 
+    <string>the avalanches</string> 
+    <string>284623</string> 
+   </void> 
+   <void method="put"> 
+    <string>nuspirit helsinki</string> 
+    <string>298269</string> 
+   </void> 
+   <void method="put"> 
+    <string>meat beat manifesto</string> 
+    <string>256826</string> 
+   </void> 
+   <void method="put"> 
+    <string>goldie</string> 
+    <string>250210</string> 
+   </void> 
+   <void method="put"> 
+    <string>the starseeds</string> 
+    <string>290385</string> 
+   </void> 
+   <void method="put"> 
+    <string>juno reactor</string> 
+    <string>253234</string> 
+   </void> 
+   <void method="put"> 
+    <string>photek</string> 
+    <string>260269</string> 
+   </void> 
+   <void method="put"> 
+    <string>lemon jelly</string> 
+    <string>284963</string> 
+   </void> 
+   <void method="put"> 
+    <string>plaid</string> 
+    <string>289017</string> 
+   </void> 
+   <void method="put"> 
+    <string>alpha</string> 
+    <string>271174</string> 
+   </void> 
+   <void method="put"> 
+    <string>human mesh dance</string> 
+    <string>252572</string> 
+   </void> 
+   <void method="put"> 
+    <string>aphex twin</string> 
+    <string>251026</string> 
+   </void> 
+   <void method="put"> 
+    <string>tricky</string> 
+    <string>267769</string> 
+   </void> 
+   <void method="put"> 
+    <string>dj gius</string> 
+    <string>285570</string> 
+   </void> 
+   <void method="put"> 
+    <string>fila brazillia</string> 
+    <string>315055</string> 
+   </void> 
+   <void method="put"> 
+    <string>moloko</string> 
+    <string>258008</string> 
+   </void> 
+   <void method="put"> 
+    <string>emilie simon</string> 
+    <string>29986486</string> 
+   </void> 
+   <void method="put"> 
+    <string>autechre</string> 
+    <string>254133</string> 
+   </void> 
+   <void method="put"> 
+    <string>lamb</string> 
+    <string>255009</string> 
+   </void> 
+   <void method="put"> 
+    <string>fluke</string> 
+    <string>271444</string> 
+   </void> 
+   <void method="put"> 
+    <string>larry tee</string> 
+    <string>300621</string> 
+   </void> 
+   <void method="put"> 
+    <string>ror-shak</string> 
+    <string>39014360</string> 
+   </void> 
+   <void method="put"> 
+    <string>jazzanova</string> 
+    <string>300314</string> 
+   </void> 
+   <void method="put"> 
+    <string>christopher lawrence</string> 
+    <string>271044</string> 
+   </void> 
+   <void method="put"> 
+    <string>simian mobile disco</string> 
+    <string>40135170</string> 
+   </void> 
+   <void method="put"> 
+    <string>dzihan &amp; kamien</string> 
+    <string>273221</string> 
+   </void> 
+   <void method="put"> 
+    <string>four tet</string> 
+    <string>303997</string> 
+   </void> 
+   <void method="put"> 
+    <string>bent</string> 
+    <string>264218</string> 
+   </void> 
+  </void> 
+  <void property="valid"> 
+   <boolean>true</boolean> 
+  </void> 
+ </object> 
+</java> 

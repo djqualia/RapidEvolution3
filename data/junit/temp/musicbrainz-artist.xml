@@ -1,0 +1,3926 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_21" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.artist.MusicbrainzArtistProfile"> 
+  <void property="allReleaseIds"> 
+   <void method="put"> 
+    <string>TypeSingle</string> 
+    <object class="java.util.Vector"> 
+     <void method="add"> 
+      <string>1a415032-3566-416e-aa74-3adad8ac1df3</string> 
+     </void> 
+     <void method="add"> 
+      <string>b7d22326-59c8-4948-b5c2-c0eb9ac0fb53</string> 
+     </void> 
+     <void method="add"> 
+      <string>fb625eba-9a91-449a-9e4e-f6b0f6c69dee</string> 
+     </void> 
+     <void method="add"> 
+      <string>378b99d3-4265-4709-8a17-133a2b747e1c</string> 
+     </void> 
+     <void method="add"> 
+      <string>b7b90355-3c4f-4bab-a87b-bd7dff33ca14</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="put"> 
+    <string>TypeCompilation</string> 
+    <object class="java.util.Vector"> 
+     <void method="add"> 
+      <string>c761e4b7-f77b-406e-8c68-72aa46bf98b7</string> 
+     </void> 
+     <void method="add"> 
+      <string>87d76fcc-16f8-44e9-892f-c9dcef0a30b0</string> 
+     </void> 
+     <void method="add"> 
+      <string>c6e155a6-5f36-43d5-bd6d-d0c661f0be49</string> 
+     </void> 
+     <void method="add"> 
+      <string>0f7ca027-bb4a-4949-a671-fdd53b033038</string> 
+     </void> 
+     <void method="add"> 
+      <string>c1e5d051-6826-4b1a-9ae0-121bbc390d34</string> 
+     </void> 
+     <void method="add"> 
+      <string>c75949db-6c6c-421c-a554-ab09fc6f5af0</string> 
+     </void> 
+     <void method="add"> 
+      <string>0abf1ec7-791b-44c3-9be7-3ec15b739152</string> 
+     </void> 
+     <void method="add"> 
+      <string>b998780c-2ec1-43a8-8af0-24c73e1cf942</string> 
+     </void> 
+     <void method="add"> 
+      <string>f5f64636-1b8c-4906-8348-1be770a700e0</string> 
+     </void> 
+     <void method="add"> 
+      <string>94f7263c-c2aa-484c-961d-11d00fcf5997</string> 
+     </void> 
+     <void method="add"> 
+      <string>4acfc99c-7be2-4a1d-97d4-5fb6520aca49</string> 
+     </void> 
+     <void method="add"> 
+      <string>05b2b6b3-5bb3-4eb7-80a7-6e89a7fbc9d2</string> 
+     </void> 
+     <void method="add"> 
+      <string>a428d3d8-cdc5-4105-9722-4bd4b215b419</string> 
+     </void> 
+     <void method="add"> 
+      <string>247dde57-8d8b-4fb1-a586-a662de889ab0</string> 
+     </void> 
+     <void method="add"> 
+      <string>35c991c6-37a9-43fa-ae3b-cd584beace00</string> 
+     </void> 
+     <void method="add"> 
+      <string>64ca8900-22bf-4ac3-960e-6ef6cf057048</string> 
+     </void> 
+     <void method="add"> 
+      <string>e1a0aab8-2360-425d-8d3d-488ddf567af8</string> 
+     </void> 
+     <void method="add"> 
+      <string>f4d8fc3a-6eec-4ffe-8b92-120db9a370dd</string> 
+     </void> 
+     <void method="add"> 
+      <string>f2220b4a-a916-44d3-ba4b-949fe458339d</string> 
+     </void> 
+     <void method="add"> 
+      <string>04286dbe-3505-47f5-aca6-43888aab95ee</string> 
+     </void> 
+     <void method="add"> 
+      <string>d5d3723a-865a-47c3-bcd2-569850f3ee20</string> 
+     </void> 
+     <void method="add"> 
+      <string>97450e6e-dd10-4afb-b0fe-b034d6683f72</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="put"> 
+    <string>TypeRemix</string> 
+    <object class="java.util.Vector"> 
+     <void method="add"> 
+      <string>100350f3-0b40-452c-9779-ba79fe670575</string> 
+     </void> 
+     <void method="add"> 
+      <string>1debcbb6-c501-424b-8615-323e7a502451</string> 
+     </void> 
+     <void method="add"> 
+      <string>9f04043d-a3b4-4bc6-b98a-e98d8648cc15</string> 
+     </void> 
+     <void method="add"> 
+      <string>40389801-3936-497a-9826-761cf2b4b467</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="put"> 
+    <string>TypeEP</string> 
+    <object class="java.util.Vector"> 
+     <void method="add"> 
+      <string>dd353505-eb5b-440b-b7c8-16fa6f29f012</string> 
+     </void> 
+     <void method="add"> 
+      <string>3cc3b194-aa18-4fef-bf54-354b427a999b</string> 
+     </void> 
+     <void method="add"> 
+      <string>76b923c7-c98b-4186-9864-2c1125b6b2bb</string> 
+     </void> 
+     <void method="add"> 
+      <string>fdfe3489-8c49-4a5b-a54a-31caea6c5604</string> 
+     </void> 
+     <void method="add"> 
+      <string>fff6bc87-c0de-4395-aa6d-96fb0bdc23a4</string> 
+     </void> 
+     <void method="add"> 
+      <string>2be8d829-e767-4a5c-a50f-822566b6fc2d</string> 
+     </void> 
+     <void method="add"> 
+      <string>b124179a-bbf3-4515-a3dc-50468bbab78d</string> 
+     </void> 
+     <void method="add"> 
+      <string>067ce837-63d5-4be0-bd20-f81b167a0ea3</string> 
+     </void> 
+     <void method="add"> 
+      <string>736f0e01-499a-4574-89f0-df0d716f1fc6</string> 
+     </void> 
+     <void method="add"> 
+      <string>4507f9ca-f376-4347-a10f-78c03731afe1</string> 
+     </void> 
+     <void method="add"> 
+      <string>a2d78c21-d52c-49b7-a048-99d966081d44</string> 
+     </void> 
+     <void method="add"> 
+      <string>9e3f54da-d745-4ee2-b2cd-b0814061089e</string> 
+     </void> 
+     <void method="add"> 
+      <string>16f3b21c-8b1b-46f9-b042-205b3b13994b</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="put"> 
+    <string>TypeAlbum</string> 
+    <object class="java.util.Vector"> 
+     <void method="add"> 
+      <string>2b56208d-73df-44b9-934a-5fe006275275</string> 
+     </void> 
+     <void method="add"> 
+      <string>ad182844-e533-4b30-bc2e-c11805675924</string> 
+     </void> 
+     <void method="add"> 
+      <string>9439bdb0-622c-4549-b155-1e0d30a994ac</string> 
+     </void> 
+     <void method="add"> 
+      <string>9c080fb7-2b10-43a9-8602-165f04bf6880</string> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="artistName"> 
+   <string>Minilogue</string> 
+  </void> 
+  <void property="avgRating"> 
+   <float>2.0</float> 
+  </void> 
+  <void property="lifeSpanBegin"> 
+   <string></string> 
+  </void> 
+  <void property="lifeSpanEnd"> 
+   <string></string> 
+  </void> 
+  <void property="mbId"> 
+   <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+  </void> 
+  <void property="numRaters"> 
+   <int>3</int> 
+  </void> 
+  <void property="relatedArtists"> 
+   <void method="add"> 
+    <string>K.A.B. vs. Minilogue</string> 
+   </void> 
+   <void method="add"> 
+    <string>Marcus Henriksson</string> 
+   </void> 
+   <void method="add"> 
+    <string>Sebastian Mullaert</string> 
+   </void> 
+  </void> 
+  <void property="releases"> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>1a415032-3566-416e-aa74-3adad8ac1df3</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2005</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>e6e654b6-ac2e-49ab-9097-d1d6ef473e59</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>Little Sisters</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>Little Sisters</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>486000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>66311058-448e-4a09-845c-18b739fa62a1</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>1a415032-3566-416e-aa74-3adad8ac1df3</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Little Sisters</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Little Sisters (original mix)</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>517000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>af1ef502-9102-4486-9ffb-8383fe32fb94</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>1a415032-3566-416e-aa74-3adad8ac1df3</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Little Sisters</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Little Sisters (D-Nox &amp; Beckers remix)</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>Single Official</string> 
+     </void> 
+     <void property="urls"> 
+      <void method="put"> 
+       <string>Discogs</string> 
+       <object class="java.util.Vector"> 
+        <void method="add"> 
+         <string>http://www.discogs.com/release/493288</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>dd353505-eb5b-440b-b7c8-16fa6f29f012</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2009</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>754a43f5-4c5b-49d1-936c-dba7dc7c79d0</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>My Teenager Gang</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>My Teenager Gang</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>604000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>c49fd6fb-148d-48b4-b50f-14c68d2d5d6e</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>dd353505-eb5b-440b-b7c8-16fa6f29f012</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>My Teenager Gang</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>My Teenager Gang</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>525000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>8f092ea4-7d11-43ad-92ba-c11bc2d22b01</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>dd353505-eb5b-440b-b7c8-16fa6f29f012</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>My Teenager Gang</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Hundraelva</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>EP Official</string> 
+     </void> 
+     <void property="urls"> 
+      <void method="put"> 
+       <string>Discogs</string> 
+       <object class="java.util.Vector"> 
+        <void method="add"> 
+         <string>http://www.discogs.com/release/1651123</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>3cc3b194-aa18-4fef-bf54-354b427a999b</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2008</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>6cf5e22f-a165-4432-8e1a-2e87c2fa55df</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>Mr Mustafa</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>Mr Mustafa</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>686000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>8e7feec3-0887-4188-b6b3-86c93f3b3a35</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>3cc3b194-aa18-4fef-bf54-354b427a999b</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Mr Mustafa</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Mr Mustafa A</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>464000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>44f0bf90-dcb5-4341-8c37-cfe6931a14f5</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>3cc3b194-aa18-4fef-bf54-354b427a999b</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Mr Mustafa</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Mr Mustafa B</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>EP Official</string> 
+     </void> 
+     <void property="urls"> 
+      <void method="put"> 
+       <string>Discogs</string> 
+       <object class="java.util.Vector"> 
+        <void method="add"> 
+         <string>http://www.discogs.com/release/1514544</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>76b923c7-c98b-4186-9864-2c1125b6b2bb</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2008</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>b88e2e81-c90a-4027-b601-9101bbaa5f7b</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>Doiicie</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>Doiicie</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>490000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>61e4a6ea-fc3b-45af-82a9-c3ff62b89e6c</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>76b923c7-c98b-4186-9864-2c1125b6b2bb</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Doiicie</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Doiicie A</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>561000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>502bddfc-7895-40e3-aa2d-18e4a9bc22a6</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>76b923c7-c98b-4186-9864-2c1125b6b2bb</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Doiicie</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Doiicie B</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>EP Official</string> 
+     </void> 
+     <void property="urls"> 
+      <void method="put"> 
+       <string>Discogs</string> 
+       <object class="java.util.Vector"> 
+        <void method="add"> 
+         <string>http://www.discogs.com/release/1300137</string> 
+        </void> 
+        <void method="add"> 
+         <string>http://www.discogs.com/release/2131681</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>b7d22326-59c8-4948-b5c2-c0eb9ac0fb53</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2009</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>da17157a-73c0-419b-a55e-baa4ea766452</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>Animals Rmx</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>Animals Rmx</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>677000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>b45d46c0-4da0-4dee-af8f-8c347c065b26</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>b7d22326-59c8-4948-b5c2-c0eb9ac0fb53</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals Rmx</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Animals (Luciano Remix)</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>466000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>83b6d709-0f28-46fd-b7ca-6bb2ace7c1dd</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>b7d22326-59c8-4948-b5c2-c0eb9ac0fb53</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals Rmx</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Animals (Tolga Fidan Remix)</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>435000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>d9a97114-1f77-4aed-9e20-bb55891325bb</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>b7d22326-59c8-4948-b5c2-c0eb9ac0fb53</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals Rmx</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Animals (Beat Pharmacy&apos; Into The Wild Dub Mix)</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>449000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>bef701cc-d620-43a6-be42-2f0730a9792b</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>b7d22326-59c8-4948-b5c2-c0eb9ac0fb53</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals Rmx</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Animals (Beat Pharmacy Six Feet Under Mix)</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>Single Official</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>fb625eba-9a91-449a-9e4e-f6b0f6c69dee</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2009</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>3669fbbf-1206-4b39-a79e-85bfca766382</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>Arb Almub Almoh</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>Arb Almub Almoh</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>501000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>580a1b48-2265-42ae-8a13-ec5a4caaf775</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>fb625eba-9a91-449a-9e4e-f6b0f6c69dee</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Arb Almub Almoh</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Arb Almub Almoh</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>546000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>9726aa18-1aa0-4cd1-81bc-c5ba5350a01c</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>fb625eba-9a91-449a-9e4e-f6b0f6c69dee</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Arb Almub Almoh</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Arb Almub Almoh (Kenneth Graham Mix)</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>Single Official</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>fdfe3489-8c49-4a5b-a54a-31caea6c5604</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2008</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>d965788e-cd3b-43bc-aed2-606fbd7fb26a</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>Snake Charmer EP</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>Snake Charmer EP</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>611000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>04e39562-8f8c-477e-bfd7-5387892fc127</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>fdfe3489-8c49-4a5b-a54a-31caea6c5604</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Snake Charmer EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Snake Charmer</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>401000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>e6478363-04e3-4393-838f-e704bd35f3fe</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>fdfe3489-8c49-4a5b-a54a-31caea6c5604</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Snake Charmer EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Urban Slough</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>EP Official</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>fff6bc87-c0de-4395-aa6d-96fb0bdc23a4</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2006</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>4b756981-2c4f-3a8c-bb30-cfe43826f7cf</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>Hitchhikers Choice EP</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>Hitchhikers Choice EP</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>537000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>b3fac84f-d3d1-4f00-bd23-c8262fa6bd8d</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>fff6bc87-c0de-4395-aa6d-96fb0bdc23a4</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Hitchhikers Choice EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Hitchhikers Choice</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>477000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>049527a4-d3c2-4023-a1f3-d03732ed909e</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>fff6bc87-c0de-4395-aa6d-96fb0bdc23a4</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Hitchhikers Choice EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>City Boy</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>395000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>8d0c00f4-53f7-4fff-b7cf-e744e6dd5d68</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>fff6bc87-c0de-4395-aa6d-96fb0bdc23a4</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Hitchhikers Choice EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Small Town Beauty</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="tags"> 
+      <void method="put"> 
+       <string>minimal</string> 
+       <int>1</int> 
+      </void> 
+      <void method="put"> 
+       <string>tech house</string> 
+       <int>1</int> 
+      </void> 
+      <void method="put"> 
+       <string>electronic</string> 
+       <int>1</int> 
+      </void> 
+      <void method="put"> 
+       <string>electro</string> 
+       <int>1</int> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>EP Official</string> 
+     </void> 
+     <void property="urls"> 
+      <void method="put"> 
+       <string>Discogs</string> 
+       <object class="java.util.Vector"> 
+        <void method="add"> 
+         <string>http://www.discogs.com/release/799655</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>2be8d829-e767-4a5c-a50f-822566b6fc2d</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2006</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>b9129c91-e96e-395a-a20c-e3e8eb4eb535</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>The Girl From Botany Bay</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>The Girl From Botany Bay</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>644000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>a50685ee-e541-4f46-8319-bc1a3d1a5416</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>2be8d829-e767-4a5c-a50f-822566b6fc2d</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>The Girl From Botany Bay</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>The Girl From Botany Bay</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>523000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>91b05f3a-8309-4e68-8029-cfc2b9624fde</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>2be8d829-e767-4a5c-a50f-822566b6fc2d</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>The Girl From Botany Bay</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Ahck</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="tags"> 
+      <void method="put"> 
+       <string>minimal</string> 
+       <int>1</int> 
+      </void> 
+      <void method="put"> 
+       <string>tech house</string> 
+       <int>1</int> 
+      </void> 
+      <void method="put"> 
+       <string>electronic</string> 
+       <int>1</int> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>EP Official</string> 
+     </void> 
+     <void property="urls"> 
+      <void method="put"> 
+       <string>Discogs</string> 
+       <object class="java.util.Vector"> 
+        <void method="add"> 
+         <string>http://www.discogs.com/release/640136</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>378b99d3-4265-4709-8a17-133a2b747e1c</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2007</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>7adb1207-1a0f-36f8-a5e0-9a4df8830fee</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>Elephant&apos;s Parade</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>Elephant&apos;s Parade</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>620000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>177f09e0-285a-4dde-84ce-168786d57fea</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>378b99d3-4265-4709-8a17-133a2b747e1c</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Elephant&apos;s Parade</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Elephant&apos;s Parade</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>627000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>8198cc09-f76c-42c3-baba-bc1cc1d30a3d</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>378b99d3-4265-4709-8a17-133a2b747e1c</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Elephant&apos;s Parade</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Bird Song</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>Single Official</string> 
+     </void> 
+     <void property="urls"> 
+      <void method="put"> 
+       <string>Discogs</string> 
+       <object class="java.util.Vector"> 
+        <void method="add"> 
+         <string>http://www.discogs.com/release/869926</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>b124179a-bbf3-4515-a3dc-50468bbab78d</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2005</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>970d7682-88be-38b6-9686-5a91951617b1</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>Certain Things EP</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>Certain Things EP</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>398000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>a8e35c8a-7dfd-41c9-a0c9-6dc1ba3af767</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>b124179a-bbf3-4515-a3dc-50468bbab78d</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Certain Things EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Certain Things Around You, Part 1</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>349000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>5b23cd38-18a6-457b-95d7-3c8aa9cff5e6</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>b124179a-bbf3-4515-a3dc-50468bbab78d</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Certain Things EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Certain Things Around You, Part 2</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>380000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>1afb64dc-c6b0-45ea-b386-b36cb90075a4</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>b124179a-bbf3-4515-a3dc-50468bbab78d</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Certain Things EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Certain Things Around You, Part 1 (Steve Barnes remix)</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="tags"> 
+      <void method="put"> 
+       <string>minimal</string> 
+       <int>1</int> 
+      </void> 
+      <void method="put"> 
+       <string>tech house</string> 
+       <int>1</int> 
+      </void> 
+      <void method="put"> 
+       <string>electronic</string> 
+       <int>2</int> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>EP Official</string> 
+     </void> 
+     <void property="urls"> 
+      <void method="put"> 
+       <string>Discogs</string> 
+       <object class="java.util.Vector"> 
+        <void method="add"> 
+         <string>http://www.discogs.com/release/518423</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>067ce837-63d5-4be0-bd20-f81b167a0ea3</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2006</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>659678c0-b403-3e97-941d-934d988d7146</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>The Leopard EP</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>The Leopard EP</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>531000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>cd110b81-85c6-40fd-8665-df6ecb337c15</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>067ce837-63d5-4be0-bd20-f81b167a0ea3</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>The Leopard EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>The Leopard</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>509000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>a2d07c43-197b-41d6-8933-33a5ccde5c6a</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>067ce837-63d5-4be0-bd20-f81b167a0ea3</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>The Leopard EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Seconds</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="tags"> 
+      <void method="put"> 
+       <string>minimal</string> 
+       <int>1</int> 
+      </void> 
+      <void method="put"> 
+       <string>tech house</string> 
+       <int>1</int> 
+      </void> 
+      <void method="put"> 
+       <string>electronic</string> 
+       <int>1</int> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>EP Official</string> 
+     </void> 
+     <void property="urls"> 
+      <void method="put"> 
+       <string>Discogs</string> 
+       <object class="java.util.Vector"> 
+        <void method="add"> 
+         <string>http://www.discogs.com/release/700281</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>b7b90355-3c4f-4bab-a87b-bd7dff33ca14</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2007</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>f523d9ff-9cdd-3f0a-a5a8-fdb7aa0ec93e</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>Out of the Curious</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>Out of the Curious</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="mbId"> 
+         <string>09fcf352-5c6f-4d99-befc-1c528e998eae</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>b7b90355-3c4f-4bab-a87b-bd7dff33ca14</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Out of the Curious</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Out of the Curious</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="mbId"> 
+         <string>3ccad051-9d38-423c-a743-c5b77f9d6374</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>b7b90355-3c4f-4bab-a87b-bd7dff33ca14</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Out of the Curious</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Out of the Curious (Luke Dzierzek remix)</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>Single Official</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>736f0e01-499a-4574-89f0-df0d716f1fc6</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2007</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>55c6b580-0b07-382a-8315-434e9c603234</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>Inca EP</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>Inca EP</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>777000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>8da915b5-a162-4b8d-bf62-bb311f62bcc1</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>736f0e01-499a-4574-89f0-df0d716f1fc6</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Inca EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Inca</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>580000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>9aac4934-1cfe-4fcf-a5f3-d97a61311cb2</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>736f0e01-499a-4574-89f0-df0d716f1fc6</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Inca EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Urubamba</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>EP Official</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>4507f9ca-f376-4347-a10f-78c03731afe1</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2000</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>e22b279c-9103-30af-bef2-9034c16ef717</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>Fågel EP</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>Fågel EP</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="mbId"> 
+         <string>406a9798-7381-4086-8bae-42b38c26169c</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>4507f9ca-f376-4347-a10f-78c03731afe1</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Fågel EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Andrum</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="mbId"> 
+         <string>b466544e-3abf-4926-9ebf-8bc7a5522882</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>4507f9ca-f376-4347-a10f-78c03731afe1</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Fågel EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Smörgås</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="mbId"> 
+         <string>a587a13c-8768-4947-80f8-12b7597937f1</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>4507f9ca-f376-4347-a10f-78c03731afe1</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Fågel EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Strutsrum</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="tags"> 
+      <void method="put"> 
+       <string>tech house</string> 
+       <int>1</int> 
+      </void> 
+      <void method="put"> 
+       <string>electronic</string> 
+       <int>1</int> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>EP Official</string> 
+     </void> 
+     <void property="urls"> 
+      <void method="put"> 
+       <string>Discogs</string> 
+       <object class="java.util.Vector"> 
+        <void method="add"> 
+         <string>http://www.discogs.com/release/5071</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string>B00168E7BS</string> 
+     </void> 
+     <void property="avgRating"> 
+      <float>2.0</float> 
+     </void> 
+     <void property="mbId"> 
+      <string>2b56208d-73df-44b9-934a-5fe006275275</string> 
+     </void> 
+     <void property="numRaters"> 
+      <int>1</int> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2008</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>0936667b-bd31-3baf-bfbc-0fcf1ebc71e5</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>Animals</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>Animals (disc 2)</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>322866</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>1937cf62-68da-482f-86d8-7d2f20da9934</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>2b56208d-73df-44b9-934a-5fe006275275</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 2)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Old Water</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>247746</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>4eea8d9b-81b2-4973-a5f2-cb1b0f6f2c5a</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>2b56208d-73df-44b9-934a-5fe006275275</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 2)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Windows</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>297813</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>28cd1f64-a805-43ea-975e-5f40159d7c36</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>2b56208d-73df-44b9-934a-5fe006275275</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 2)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>City Lights</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>354360</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>9f9eed41-91f0-479d-807a-6438578de3de</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>2b56208d-73df-44b9-934a-5fe006275275</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 2)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Six Arms and One Leg</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>267840</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>980a6da3-d6d0-44b2-8c70-0b6cc790ea9c</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>2b56208d-73df-44b9-934a-5fe006275275</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 2)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Swamp Op</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>347053</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>64083a74-a792-4eaf-a0d3-4f5af8bbd5df</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>2b56208d-73df-44b9-934a-5fe006275275</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 2)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>In the Shade of the Sun</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="avgRating"> 
+         <float>2.0</float> 
+        </void> 
+        <void property="duration"> 
+         <int>266160</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>9ccaaec7-7eb0-44d3-9be3-4e9f161c6c51</string> 
+        </void> 
+        <void property="numRaters"> 
+         <int>1</int> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>2b56208d-73df-44b9-934a-5fe006275275</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 2)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Stations I</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>299026</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>0f33ded5-a201-4d00-b324-a9084805473e</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>2b56208d-73df-44b9-934a-5fe006275275</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 2)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Stations II</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>230666</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>a7fe1759-96d4-40d3-b5bf-915f960ae012</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>2b56208d-73df-44b9-934a-5fe006275275</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 2)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Stations III</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>382173</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>1f0ef605-adb3-4dcb-9902-45be304276c5</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>2b56208d-73df-44b9-934a-5fe006275275</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 2)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Even the Wind Seemed in Deep Sleep</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>489040</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>3f646260-a2ea-49fd-a225-d94ea2f31e93</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>2b56208d-73df-44b9-934a-5fe006275275</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 2)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Europhonia</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>462253</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>03dbdde4-df44-4ae3-99f5-692e008b7367</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>2b56208d-73df-44b9-934a-5fe006275275</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 2)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Feeling in Spring Beside the Dressing Table</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>403533</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>170f786a-6f53-4c87-9d0a-5b1ebe9b1f33</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>2b56208d-73df-44b9-934a-5fe006275275</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 2)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Seconds (Colour &amp; Sound)</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>134960</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>21f541d2-05bd-4de6-b2e6-9eefb18491f3</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>2b56208d-73df-44b9-934a-5fe006275275</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 2)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Outro</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>Album Official</string> 
+     </void> 
+     <void property="urls"> 
+      <void method="put"> 
+       <string>AmazonAsin</string> 
+       <object class="java.util.Vector"> 
+        <void method="add"> 
+         <string>http://www.amazon.de/gp/product/B00168E7BS</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>a2d78c21-d52c-49b7-a048-99d966081d44</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2007</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>cc460375-bd3e-3459-97bd-1e3655084593</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>Space EP</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>Space EP</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>540000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>886c0cd4-0cac-43bb-9fb3-070011da4c00</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>a2d78c21-d52c-49b7-a048-99d966081d44</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Space EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Space</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>453000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>ee718800-ea02-4b63-aa2c-7be403926c4d</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>a2d78c21-d52c-49b7-a048-99d966081d44</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Space EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Star Command</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>EP Official</string> 
+     </void> 
+     <void property="urls"> 
+      <void method="put"> 
+       <string>Discogs</string> 
+       <object class="java.util.Vector"> 
+        <void method="add"> 
+         <string>http://www.discogs.com/release/1034186</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>9e3f54da-d745-4ee2-b2cd-b0814061089e</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2007</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>506e00be-4439-3772-8dbf-43c90ede941a</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>Orglar</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>Orglar</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>546000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>6f99785e-ac21-4f28-8a1c-2fcd786d8663</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9e3f54da-d745-4ee2-b2cd-b0814061089e</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Orglar</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Orglar A</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>532000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>bfe4ea85-2814-407c-a2b2-3336440d5e08</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9e3f54da-d745-4ee2-b2cd-b0814061089e</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Orglar</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Orglar B</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>EP Official</string> 
+     </void> 
+     <void property="urls"> 
+      <void method="put"> 
+       <string>Discogs</string> 
+       <object class="java.util.Vector"> 
+        <void method="add"> 
+         <string>http://www.discogs.com/release/996979</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>16f3b21c-8b1b-46f9-b042-205b3b13994b</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2007</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>93cee966-a380-3c9f-b32f-72760ad0d749</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>Ghost EP</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>Ghost EP</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>524000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>8e15480e-c230-4389-ae4d-1aa6479aafd9</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>16f3b21c-8b1b-46f9-b042-205b3b13994b</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Ghost EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Ghost</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>398000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>ca3439e9-d753-4ce0-8880-bb01e845e1ce</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>16f3b21c-8b1b-46f9-b042-205b3b13994b</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Ghost EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Ghost (Beat Tool)</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>399000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>a05ab000-e4e5-44de-b718-ab45c2efdc74</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>16f3b21c-8b1b-46f9-b042-205b3b13994b</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Ghost EP</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Ghost (dub)</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>EP Official</string> 
+     </void> 
+     <void property="urls"> 
+      <void method="put"> 
+       <string>Discogs</string> 
+       <object class="java.util.Vector"> 
+        <void method="add"> 
+         <string>http://www.discogs.com/release/1046847</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Minilogue</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+     </void> 
+     <void property="asin"> 
+      <string>B00168E7BS</string> 
+     </void> 
+     <void property="avgRating"> 
+      <float>2.0</float> 
+     </void> 
+     <void property="mbId"> 
+      <string>ad182844-e533-4b30-bc2e-c11805675924</string> 
+     </void> 
+     <void property="numRaters"> 
+      <int>2</int> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2008</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>0936667b-bd31-3baf-bfbc-0fcf1ebc71e5</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>Animals</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>Animals (disc 1)</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>120880</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>42e25a82-43a3-4e32-968a-2c7bbe093568</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>ad182844-e533-4b30-bc2e-c11805675924</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Yesterday Bells</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="avgRating"> 
+         <float>2.0</float> 
+        </void> 
+        <void property="duration"> 
+         <int>428800</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>55ad457f-1771-488c-b5e0-0896d53be8b3</string> 
+        </void> 
+        <void property="numRaters"> 
+         <int>1</int> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>ad182844-e533-4b30-bc2e-c11805675924</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Cow, Crickets and Clay</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>440293</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>0b5c0212-0736-447d-951d-99038ff4e526</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>ad182844-e533-4b30-bc2e-c11805675924</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Hitchhiker&apos;s Choice</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>217280</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>4ea16024-911e-4546-ab3c-8a4e0e56e0a2</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>ad182844-e533-4b30-bc2e-c11805675924</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Loud</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>415973</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>5d22887b-3ce0-4173-a665-1e43fa018b49</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>ad182844-e533-4b30-bc2e-c11805675924</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>We All</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>516333</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>5a1815ef-46ab-46c0-a8a4-f01011b66f2c</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>ad182844-e533-4b30-bc2e-c11805675924</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>33 000 Honeybees</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>597973</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>ee72c567-b4e5-4553-9cc4-97319ad88dee</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>ad182844-e533-4b30-bc2e-c11805675924</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Jamaica</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>189746</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>b9c70585-70bc-490a-bd16-1ac052e05da7</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>ad182844-e533-4b30-bc2e-c11805675924</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>View of a Juggling Ball</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="avgRating"> 
+         <float>2.0</float> 
+        </void> 
+        <void property="duration"> 
+         <int>438920</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>cc6d76d4-b9cc-4335-b4f7-7e9bab7dbb58</string> 
+        </void> 
+        <void property="numRaters"> 
+         <int>1</int> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>ad182844-e533-4b30-bc2e-c11805675924</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Giant Hairy Super Monster</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>511293</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>85a91ed7-c10b-428e-b662-43c861a7151f</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>ad182844-e533-4b30-bc2e-c11805675924</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Hypnotized</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>434666</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>53873c2e-fa80-4dc4-b3aa-c988c866e557</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>ad182844-e533-4b30-bc2e-c11805675924</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Animals</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Minilogue</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>56a70482-5528-4bef-8da2-a33cf098ce9b</string> 
+        </void> 
+        <void property="duration"> 
+         <int>469213</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>6af7517c-b781-447c-89fe-cec17173fb60</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>ad182844-e533-4b30-bc2e-c11805675924</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Animals (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>In a Distance</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>Album Official</string> 
+     </void> 
+     <void property="urls"> 
+      <void method="put"> 
+       <string>AmazonAsin</string> 
+       <object class="java.util.Vector"> 
+        <void method="add"> 
+         <string>http://www.amazon.de/gp/product/B00168E7BS</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Various Artists</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>9439bdb0-622c-4549-b155-1e0d30a994ac</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string>2006</string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>88f248bb-60d1-34e9-9e70-64a9b75a4973</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>CrosstownRebels Vol 01. Mixed by Damian Lazarus</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>CrosstownRebels Vol 01. Mixed by Damian Lazarus</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="duration"> 
+         <int>377000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>4e29de7f-9d34-4537-b1ba-9a735216486f</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9439bdb0-622c-4549-b155-1e0d30a994ac</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>CrosstownRebels Vol 01. Mixed by Damian Lazarus</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>City Boy</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="duration"> 
+         <int>403000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>02d6102e-62da-4fee-97ec-e40256614978</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9439bdb0-622c-4549-b155-1e0d30a994ac</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>CrosstownRebels Vol 01. Mixed by Damian Lazarus</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Electric Generation (Rob Mello No Ears dub)</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="duration"> 
+         <int>284000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>2429f874-9bf8-4332-917e-3945883f7ae0</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9439bdb0-622c-4549-b155-1e0d30a994ac</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>CrosstownRebels Vol 01. Mixed by Damian Lazarus</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Safari (Alex Smoke Tink mix)</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="duration"> 
+         <int>225000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>e79c330c-32b6-4a95-a85c-8bce3397694b</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9439bdb0-622c-4549-b155-1e0d30a994ac</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>CrosstownRebels Vol 01. Mixed by Damian Lazarus</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>We Was There Tomorrow</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="duration"> 
+         <int>307000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>28be76a9-cfa2-4271-a5a1-fd7f040b8e88</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9439bdb0-622c-4549-b155-1e0d30a994ac</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>CrosstownRebels Vol 01. Mixed by Damian Lazarus</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Far Away</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="duration"> 
+         <int>112000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>72daa113-0b34-44cb-8847-ee13f4030161</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9439bdb0-622c-4549-b155-1e0d30a994ac</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>CrosstownRebels Vol 01. Mixed by Damian Lazarus</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>The Key</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="duration"> 
+         <int>371000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>d32128ee-e86f-4915-82ff-fa85505aef9e</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9439bdb0-622c-4549-b155-1e0d30a994ac</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>CrosstownRebels Vol 01. Mixed by Damian Lazarus</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Sleeza</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="duration"> 
+         <int>457000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>e38608e9-1393-494c-afda-e6eafccc4852</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9439bdb0-622c-4549-b155-1e0d30a994ac</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>CrosstownRebels Vol 01. Mixed by Damian Lazarus</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Last Dub on Earth (Arnaud Rebotini remix)</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="duration"> 
+         <int>215000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>3b37bc6d-16ba-4b61-83f1-d88e148fb161</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9439bdb0-622c-4549-b155-1e0d30a994ac</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>CrosstownRebels Vol 01. Mixed by Damian Lazarus</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Stay (Roman Flügel remix)</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="duration"> 
+         <int>384000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>a6b702eb-361b-409c-9300-dc2b50a1957f</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9439bdb0-622c-4549-b155-1e0d30a994ac</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>CrosstownRebels Vol 01. Mixed by Damian Lazarus</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Acix</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="duration"> 
+         <int>474000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>301da64f-fe18-42f6-a6c1-9f72a007614e</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9439bdb0-622c-4549-b155-1e0d30a994ac</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>CrosstownRebels Vol 01. Mixed by Damian Lazarus</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>L Nuit (Dominik Eulberg remix)</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="duration"> 
+         <int>740000</int> 
+        </void> 
+        <void property="mbId"> 
+         <string>ac1fd16d-45d5-4d3c-b1b5-a699941a1a8f</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9439bdb0-622c-4549-b155-1e0d30a994ac</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>CrosstownRebels Vol 01. Mixed by Damian Lazarus</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>She&apos;s the One (Circles in Time remix by Mathew Jonson)</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="tags"> 
+      <void method="put"> 
+       <string>techno</string> 
+       <int>1</int> 
+      </void> 
+      <void method="put"> 
+       <string>deep house</string> 
+       <int>1</int> 
+      </void> 
+      <void method="put"> 
+       <string>progressive house</string> 
+       <int>1</int> 
+      </void> 
+      <void method="put"> 
+       <string>minimal</string> 
+       <int>1</int> 
+      </void> 
+      <void method="put"> 
+       <string>tech house</string> 
+       <int>1</int> 
+      </void> 
+      <void method="put"> 
+       <string>house</string> 
+       <int>1</int> 
+      </void> 
+      <void method="put"> 
+       <string>tribal</string> 
+       <int>1</int> 
+      </void> 
+      <void method="put"> 
+       <string>electronic</string> 
+       <int>1</int> 
+      </void> 
+      <void method="put"> 
+       <string>electro</string> 
+       <int>1</int> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>Album Official</string> 
+     </void> 
+     <void property="urls"> 
+      <void method="put"> 
+       <string>Discogs</string> 
+       <object class="java.util.Vector"> 
+        <void method="add"> 
+         <string>http://www.discogs.com/release/873233</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.release.MusicbrainzReleaseProfile"> 
+     <void property="artistDescription"> 
+      <string>Various Artists</string> 
+     </void> 
+     <void property="artistMbid"> 
+      <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+     </void> 
+     <void property="asin"> 
+      <string></string> 
+     </void> 
+     <void property="mbId"> 
+      <string>9c080fb7-2b10-43a9-8602-165f04bf6880</string> 
+     </void> 
+     <void property="originalYearReleased"> 
+      <string></string> 
+     </void> 
+     <void property="releaseGroupId"> 
+      <string>73f89aeb-36fb-31f2-9d4e-b55368c5d8ab</string> 
+     </void> 
+     <void property="releaseGroupTitle"> 
+      <string>Addicted Vol.2 by Gui Boratto</string> 
+     </void> 
+     <void property="releaseTitle"> 
+      <string>Addicted Vol.2 by Gui Boratto (disc 1)</string> 
+     </void> 
+     <void property="songs"> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="mbId"> 
+         <string>b0d75390-0a59-4eb7-bfa4-7ff5610185b4</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9c080fb7-2b10-43a9-8602-165f04bf6880</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Addicted Vol.2 by Gui Boratto (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Circuits</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="mbId"> 
+         <string>4cf89e5e-24a3-4de9-a94a-9e53e882dd69</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9c080fb7-2b10-43a9-8602-165f04bf6880</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Addicted Vol.2 by Gui Boratto (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Hi Murda (LP Edit)</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="mbId"> 
+         <string>9288b3e6-d650-4b3a-91c1-75c5d99b5016</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9c080fb7-2b10-43a9-8602-165f04bf6880</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Addicted Vol.2 by Gui Boratto (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Liebe Ist...</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="mbId"> 
+         <string>d530a7d8-736a-41a0-a28a-56caddb57b0c</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9c080fb7-2b10-43a9-8602-165f04bf6880</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Addicted Vol.2 by Gui Boratto (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Hielo Sobre Arena</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="mbId"> 
+         <string>b8129fbb-541a-4485-9eb2-74431f1533d0</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9c080fb7-2b10-43a9-8602-165f04bf6880</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Addicted Vol.2 by Gui Boratto (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>The Way Home</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="mbId"> 
+         <string>ccf9420e-1be4-4696-8e3c-ae6989390e4b</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9c080fb7-2b10-43a9-8602-165f04bf6880</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Addicted Vol.2 by Gui Boratto (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Mr. Decay (Robert Babicz Universum Disco Mix)</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="mbId"> 
+         <string>d06950dc-245e-4e41-b05e-0dc96ab7b2af</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9c080fb7-2b10-43a9-8602-165f04bf6880</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Addicted Vol.2 by Gui Boratto (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Sayyes</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="mbId"> 
+         <string>8f5e98b1-eb09-4a16-a906-968e5f76d3d6</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9c080fb7-2b10-43a9-8602-165f04bf6880</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Addicted Vol.2 by Gui Boratto (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Sinus Wave</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="mbId"> 
+         <string>c689e2f2-4789-4f81-bd66-0be2ffaf2ec2</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9c080fb7-2b10-43a9-8602-165f04bf6880</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Addicted Vol.2 by Gui Boratto (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Milk</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="mbId"> 
+         <string>e91c8cff-f823-4481-a895-0bd7f49cb7a9</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9c080fb7-2b10-43a9-8602-165f04bf6880</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Addicted Vol.2 by Gui Boratto (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Elephants Parade</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="mbId"> 
+         <string>28899df0-ffe7-45be-a33a-5c7a9ec08be8</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9c080fb7-2b10-43a9-8602-165f04bf6880</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Addicted Vol.2 by Gui Boratto (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Thujon</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="com.mixshare.rapid_evolution.data.mined.musicbrainz.song.MusicbrainzSongProfile"> 
+        <void property="artistDescription"> 
+         <string>Various Artists</string> 
+        </void> 
+        <void property="artistMbid"> 
+         <string>89ad4ac3-39f7-470e-963a-56509c546377</string> 
+        </void> 
+        <void property="mbId"> 
+         <string>ec386927-02a2-4b8e-b978-134e7ede9de1</string> 
+        </void> 
+        <void property="releaseMbids"> 
+         <void method="add"> 
+          <string>9c080fb7-2b10-43a9-8602-165f04bf6880</string> 
+         </void> 
+        </void> 
+        <void property="releaseTitles"> 
+         <void method="add"> 
+          <string>Addicted Vol.2 by Gui Boratto (disc 1)</string> 
+         </void> 
+        </void> 
+        <void property="songDescription"> 
+         <string>Guimba</string> 
+        </void> 
+       </object> 
+      </void> 
+     </void> 
+     <void property="type"> 
+      <string>Album Official</string> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="tags"> 
+   <void method="put"> 
+    <string>techno</string> 
+    <int>1</int> 
+   </void> 
+   <void method="put"> 
+    <string>deep house</string> 
+    <int>1</int> 
+   </void> 
+   <void method="put"> 
+    <string>progressive house</string> 
+    <int>1</int> 
+   </void> 
+   <void method="put"> 
+    <string>minimal</string> 
+    <int>5</int> 
+   </void> 
+   <void method="put"> 
+    <string>house</string> 
+    <int>1</int> 
+   </void> 
+   <void method="put"> 
+    <string>tech house</string> 
+    <int>6</int> 
+   </void> 
+   <void method="put"> 
+    <string>tribal</string> 
+    <int>1</int> 
+   </void> 
+   <void method="put"> 
+    <string>electronic</string> 
+    <int>7</int> 
+   </void> 
+   <void method="put"> 
+    <string>electro</string> 
+    <int>2</int> 
+   </void> 
+  </void> 
+  <void property="type"> 
+   <string>Group</string> 
+  </void> 
+  <void property="urls"> 
+   <void method="put"> 
+    <string>OfficialHomepage</string> 
+    <object class="java.util.Vector"> 
+     <void method="add"> 
+      <string>http://www.minilogue.com/</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="put"> 
+    <string>Myspace</string> 
+    <object class="java.util.Vector"> 
+     <void method="add"> 
+      <string>http://www.myspace.com/minilogue</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="put"> 
+    <string>Discogs</string> 
+    <object class="java.util.Vector"> 
+     <void method="add"> 
+      <string>http://www.discogs.com/artist/Minilogue</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="put"> 
+    <string>Wikipedia</string> 
+    <object class="java.util.Vector"> 
+     <void method="add"> 
+      <string>http://en.wikipedia.org/wiki/Minilogue</string> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+ </object> 
+</java> 

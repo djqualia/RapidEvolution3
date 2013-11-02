@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_21" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.discogs.release.DiscogsRelease"> 
+  <void property="artistNames"> 
+   <void method="add"> 
+    <string>A Homeboy, A Hippie &amp; A Funki Dredd</string> 
+   </void> 
+  </void> 
+  <void property="country"> 
+   <string>UK</string> 
+  </void> 
+  <void property="genres"> 
+   <void method="add"> 
+    <string>Electronic</string> 
+   </void> 
+  </void> 
+  <void property="imageURLs"> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/R-1087726-1191712935.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/R-1087726-1193252102.jpeg</string> 
+   </void> 
+  </void> 
+  <void property="labels"> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.discogs.release.DiscogsReleaseLabelInstance"> 
+     <void property="catno"> 
+      <string>TTT 031</string> 
+     </void> 
+     <void property="name"> 
+      <string>Tam Tam / Savage Records</string> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="owners"> 
+   <void method="add"> 
+    <string>burneverything</string> 
+   </void> 
+   <void method="add"> 
+    <string>ChrisChill</string> 
+   </void> 
+   <void method="add"> 
+    <string>Deepbass9</string> 
+   </void> 
+   <void method="add"> 
+    <string>dj_hedgehog</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dj_Nefke</string> 
+   </void> 
+   <void method="add"> 
+    <string>fatky</string> 
+   </void> 
+   <void method="add"> 
+    <string>fatttttmattttt</string> 
+   </void> 
+   <void method="add"> 
+    <string>Fez786</string> 
+   </void> 
+   <void method="add"> 
+    <string>iljin1</string> 
+   </void> 
+   <void method="add"> 
+    <string>NonDigital</string> 
+   </void> 
+   <void method="add"> 
+    <string>pacific3000</string> 
+   </void> 
+   <void method="add"> 
+    <string>robbie_kamper_collection</string> 
+   </void> 
+   <void method="add"> 
+    <string>sinbox</string> 
+   </void> 
+   <void method="add"> 
+    <string>Sputnik86</string> 
+   </void> 
+   <void method="add"> 
+    <string>suitcasebaby</string> 
+   </void> 
+  </void> 
+  <void property="primaryImageURL"> 
+   <string>http://www.discogs.com/image/R-1087726-1191712935.jpeg</string> 
+  </void> 
+  <void property="ratings"> 
+   <object class="com.mixshare.rapid_evolution.data.mined.discogs.release.DiscogsReleaseRatings"> 
+    <void property="ratings"> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+    </void> 
+    <void property="releaseId"> 
+     <string>1087726</string> 
+    </void> 
+    <void property="users"> 
+     <void method="add"> 
+      <string>dj_hedgehog</string> 
+     </void> 
+     <void method="add"> 
+      <string>Johnmarcus</string> 
+     </void> 
+     <void method="add"> 
+      <string>scherben</string> 
+     </void> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="recommendations"> 
+   <object class="com.mixshare.rapid_evolution.data.mined.discogs.release.DiscogsReleaseRecommendations"> 
+    <void property="recommendedIds"> 
+     <void method="add"> 
+      <int>47461</int> 
+     </void> 
+     <void method="add"> 
+      <int>20977</int> 
+     </void> 
+     <void method="add"> 
+      <int>31031</int> 
+     </void> 
+     <void method="add"> 
+      <int>7740</int> 
+     </void> 
+     <void method="add"> 
+      <int>7466</int> 
+     </void> 
+     <void method="add"> 
+      <int>6310</int> 
+     </void> 
+     <void method="add"> 
+      <int>59157</int> 
+     </void> 
+     <void method="add"> 
+      <int>55381</int> 
+     </void> 
+     <void method="add"> 
+      <int>50142</int> 
+     </void> 
+     <void method="add"> 
+      <int>43809</int> 
+     </void> 
+     <void method="add"> 
+      <int>35547</int> 
+     </void> 
+     <void method="add"> 
+      <int>11511</int> 
+     </void> 
+     <void method="add"> 
+      <int>8905</int> 
+     </void> 
+     <void method="add"> 
+      <int>6528</int> 
+     </void> 
+     <void method="add"> 
+      <int>6316</int> 
+     </void> 
+     <void method="add"> 
+      <int>6311</int> 
+     </void> 
+     <void method="add"> 
+      <int>5181</int> 
+     </void> 
+     <void method="add"> 
+      <int>2474</int> 
+     </void> 
+     <void method="add"> 
+      <int>2473</int> 
+     </void> 
+     <void method="add"> 
+      <int>2085</int> 
+     </void> 
+    </void> 
+    <void property="releaseId"> 
+     <string>1087726</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="releaseId"> 
+   <int>1087726</int> 
+  </void> 
+  <void property="released"> 
+   <string>1990</string> 
+  </void> 
+  <void property="styles"> 
+   <void method="add"> 
+    <string>Breakbeat</string> 
+   </void> 
+   <void method="add"> 
+    <string>Hardcore</string> 
+   </void> 
+  </void> 
+  <void property="title"> 
+   <string>Total Confusion</string> 
+  </void> 
+  <void property="tracks"> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.discogs.song.DiscogsSong"> 
+     <void property="artists"> 
+      <object class="java.util.Vector"/> 
+     </void> 
+     <void property="position"> 
+      <string>A</string> 
+     </void> 
+     <void property="remixers"> 
+      <object class="java.util.Vector"/> 
+     </void> 
+     <void property="title"> 
+      <string>Total Confusion (Confusion Mix)</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.discogs.song.DiscogsSong"> 
+     <void property="artists"> 
+      <object class="java.util.Vector"/> 
+     </void> 
+     <void property="position"> 
+      <string>B1</string> 
+     </void> 
+     <void property="remixers"> 
+      <object class="java.util.Vector"/> 
+     </void> 
+     <void property="title"> 
+      <string>Total Confusion (Heavenly Mix)</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.discogs.song.DiscogsSong"> 
+     <void property="artists"> 
+      <object class="java.util.Vector"/> 
+     </void> 
+     <void property="position"> 
+      <string>B2</string> 
+     </void> 
+     <void property="remixers"> 
+      <object class="java.util.Vector"/> 
+     </void> 
+     <void property="title"> 
+      <string>Total Confusion (Reprise)</string> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="wishlist"> 
+   <void method="add"> 
+    <string>captainbilos</string> 
+   </void> 
+   <void method="add"> 
+    <string>Dj_Cartel</string> 
+   </void> 
+   <void method="add"> 
+    <string>kapibcn2009</string> 
+   </void> 
+   <void method="add"> 
+    <string>kdrevival</string> 
+   </void> 
+   <void method="add"> 
+    <string>mdonkin</string> 
+   </void> 
+   <void method="add"> 
+    <string>Murphy23x</string> 
+   </void> 
+   <void method="add"> 
+    <string>snatz</string> 
+   </void> 
+  </void> 
+  <void property="yearReleased"> 
+   <int>1990</int> 
+  </void> 
+ </object> 
+</java> 

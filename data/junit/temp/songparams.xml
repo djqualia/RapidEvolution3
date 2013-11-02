@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_17" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.search.parameters.search.song.SongSearchParameters"> 
+  <void property="relativeProfile"> 
+   <object class="com.mixshare.rapid_evolution.data.profile.search.song.SongProfile"> 
+    <void property="record"> 
+     <object class="com.mixshare.rapid_evolution.data.record.search.song.SongRecord"> 
+      <void property="dateAdded"> 
+       <long>1274732490485</long> 
+      </void> 
+      <void property="duplicateIds"> 
+       <array class="int" length="1"> 
+        <void index="0"> 
+         <int>2</int> 
+        </void> 
+       </array> 
+      </void> 
+      <void id="intArray0" property="featuringArtistIds"/> 
+      <void property="featuringArtistIds"> 
+       <object idref="intArray0"/> 
+      </void> 
+      <void property="id"> 
+       <object class="com.mixshare.rapid_evolution.data.identifier.search.song.SongIdentifier"> 
+        <void property="artistIds"> 
+         <array class="int" length="1"> 
+          <void index="0"> 
+           <int>1</int> 
+          </void> 
+         </array> 
+        </void> 
+        <void property="songDescription"> 
+         <string>bike pump</string> 
+        </void> 
+       </object> 
+      </void> 
+      <void property="lastModified"> 
+       <long>1274732490531</long> 
+      </void> 
+      <void property="remix"> 
+       <string></string> 
+      </void> 
+      <void property="sourceStyleDegrees"> 
+       <array class="float" length="0"/> 
+      </void> 
+      <void property="sourceStyleIds"> 
+       <array class="int" length="0"/> 
+      </void> 
+      <void property="sourceStyleSources"> 
+       <array class="byte" length="0"/> 
+      </void> 
+      <void property="sourceTagDegrees"> 
+       <array class="float" length="0"/> 
+      </void> 
+      <void property="sourceTagIds"> 
+       <array class="int" length="0"/> 
+      </void> 
+      <void property="sourceTagSources"> 
+       <array class="byte" length="0"/> 
+      </void> 
+      <void property="title"> 
+       <string>bike pump</string> 
+      </void> 
+      <void property="track"> 
+       <string>a1</string> 
+      </void> 
+      <void property="uniqueId"> 
+       <int>1</int> 
+      </void> 
+     </object> 
+    </void> 
+    <void property="replayGain"> 
+     <float>0.0</float> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="relativeProfileIdentifier"> 
+   <void property="artistIds"> 
+    <array class="int" length="0"/> 
+   </void> 
+   <void property="songDescription"> 
+    <string>test</string> 
+   </void> 
+  </void> 
+ </object> 
+</java> 

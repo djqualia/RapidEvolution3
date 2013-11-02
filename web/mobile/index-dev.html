@@ -1,0 +1,113 @@
+<html>
+	<head id="head">	
+		<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+		<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, target-densityDpi=medium-dpi" name="viewport">
+		<link href="css/jquery.rating.css" rel="stylesheet" type="text/css" />
+		<link href="css/re3-dev.css" rel="stylesheet" type="text/css" />
+		<link href="css/re3-dynamic.css" rel="stylesheet" type="text/css" />
+		<title>RE3 Web Access</title>
+		<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>		
+		<script type="text/javascript" src="js/jquery.rating.pack.js"></script>
+		<script type="text/javascript" src="js/jquery.scrollTo-min.js"></script>
+		<script type="text/javascript" src="js/jquery.autocomplete.js"></script>
+		<script type="text/javascript" src="js/re3.js"></script>
+	</head>
+	<body id="body">
+		<div id="content">
+		
+			<div class="menuBarContainer">
+				<div class="menuBar">
+					<div class="logoContainer">
+						<div class="logo"></div>
+					</div>
+					<div class="buttonBar">
+						<a id="searchLink" class="iconButton" onclick="showSearchBar()" history="false" targetid="searchbar" navtype="inline" href="javascript:void(0);">
+							<div class="buttonBox">
+								<div class="searchButton">
+								</div>
+							</div>
+						</a>
+						<a id="cancelSearchLink" class="textButton" history="false" targetid="searchbar" navtype="inline" href="javascript:hideSearchBar();">
+							<div class="cancelButtonBox">
+								<div class="cancelButton">Hide Search Options</div>
+							</div>
+						</a>								
+					</div>
+				</div>
+			</div>
+			
+			<div class="contentBody">
+			
+				<div id="searchBar" class="searchForm">
+					<form noscrollup="true" action="javascript:search();" id="searchForm">
+						<div id="searchContainer" class="searchContainerCleared">
+							<div class="searchInputContainer">
+								<div class="searchInputFieldContainer">
+									<input type="search" name="query" id="query" placeholder="Search text" autocapitalize="off" autocorrect="off" autocomplete="off" class="searchInputField" id="searchField" style="padding-bottom: 5px;" onChange="updateClearButton()">
+								</div>
+							</div>
+							<a id="clearSearchLink" class="cancelSearchLinkHidden" history="false" navtype="inline" href="javascript:clearSearch()">
+								<div class="searchFormButtonContainer">
+									<div class="searchCancelButton">
+										<input type="submit" class="searchSubmitInput" id="acSubmitButton" onclick="search()">
+									</div>
+								</div>
+							</a>							
+							<a history="false" navtype="inline" href="javascript:search()">
+								<div class="searchFormButtonContainer">
+									<div class="searchFormButton">
+										<input type="submit" class="searchSubmitInput" id="acSubmitButton" onclick="search()">
+									</div>
+								</div>
+							</a>
+						</div>
+					</form>
+				</div>					
+				
+				<div class="typeSelect">
+					<nobr id="typeList">
+						<a id="type_artists" href="javascript:selectType('type_artists')" class="typeItem">Artists</a> &nbsp;&nbsp;
+						<a id="type_labels" href="javascript:selectType('type_labels')" class="typeItem">Labels</a> &nbsp;&nbsp;
+						<a id="type_releases" href="javascript:selectType('type_releases')" class="typeItem">Releases</a> &nbsp;&nbsp;
+						<a id="type_songs" href="javascript:selectType('type_songs')" class="typeSelectedItem">Songs</a>
+		        	</nobr>
+				</div>
+				
+				<div class="nav">
+					<nobr id="viewsList">
+						<span id="views">Views:</span> &nbsp;
+		        	</nobr>
+				</div>				
+				
+				<div class="videoListContainer">
+				
+					<div page_element_id="videos" class="videoList">
+
+						<div id="injectedResults"></div>
+						
+						<a id="showMoreLink" targetid="videos" onclick="showMoreVideos()" history="false" navtype="inline" href="javascript:void(0);">
+							<div class="showMoreCell">
+								<div class="showMoreText">Show more results</div>
+							</div>
+						</a>
+						
+					</div>
+											
+					<div id="loadingText" class="loading">Loading...</div>
+					<div id="noResultsText" class="loading">No results found</div>
+					
+				</div>
+				
+			</div>			
+		</div>
+		
+		<script type="text/javascript">
+			$('#query').autocomplete('autocomplete', {delay:10,minChars:3,matchSubset:1, matchContains:1, cacheLength:10, autoFill:true, resultsClass: "ac_results" } );
+			initPage();
+		</script>			
+		<noscript>
+    		JavaScript is required, please enable it in your browser.	
+		</noscript>
+	</body>
+
+</html>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_04" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.lyricsfly.song.LyricsflySongProfile"> 
+  <void property="artistDescription"> 
+   <string>Beck</string> 
+  </void> 
+  <void property="lyricsText"> 
+   <string>In the time of chimpanzees, I was a monkey
+
+Butane in my veins and I&apos;m out to cut the junkie
+
+With the plastic eyeballs, spray-paint the vegetables
+
+Dog food stalls with the beefcake pantyhose
+
+
+
+
+Kill the headlights and put it in neutral
+
+Stock car flaming with a loser and the cruise control
+
+Baby&apos;s in Reno with the vitamin D
+
+Got a couple of couches, sleep on the love seat
+
+
+
+
+Someone keeps saying, I&apos;m insane to complain
+
+About a shotgun
+
+ wedding and a stain on my shirt
+
+Don&apos;t believe everything that you breathe
+
+You get a parking violation and a maggot on your sleeve
+
+
+
+
+So shave your face with some mace... *** Your access is restricted to 30% of content. Please get permanent user ID key for 100% at lyricsfly.com/api/ *** 
+ Lyrics delivered by lyricsfly.com 
+</string> 
+  </void> 
+  <void property="songDescription"> 
+   <string>Loser</string> 
+  </void> 
+ </object> 
+</java> 

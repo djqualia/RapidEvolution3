@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_11" class="java.beans.XMLDecoder">
+ <object class="com.mixshare.rapid_evolution.data.index.search.song.SongIndex">
+  <void property="filenameMap">
+   <void method="put">
+    <string>test.mp3</string>
+    <int>1</int>
+   </void>
+  </void>
+  <void property="imdb">
+   <void property="duplicateIdMap">
+    <void method="put">
+     <int>2</int>
+     <object class="com.mixshare.rapid_evolution.data.record.search.song.SongRecord" id="SongRecord0">
+      <void id="intArray0" property="featuringArtistIds"/>
+      <void property="featuringArtistIds">
+       <object idref="intArray0"/>
+      </void>
+      <void property="id">
+       <object class="com.mixshare.rapid_evolution.data.identifier.search.song.SongIdentifier" id="SongIdentifier0">
+        <void property="artistIds">
+         <array class="int" length="0"/>
+        </void>
+        <void property="songDescription">
+         <string>test song</string>
+        </void>
+       </object>
+      </void>
+      <void property="lastModified">
+       <long>1382677485017</long>
+      </void>
+      <void property="uniqueId">
+       <int>1</int>
+      </void>
+     </object>
+    </void>
+   </void>
+   <void property="recordMap">
+    <void method="put">
+     <int>1</int>
+     <object idref="SongRecord0"/>
+    </void>
+    <void method="put">
+     <int>2</int>
+     <object class="com.mixshare.rapid_evolution.data.record.search.song.SongRecord">
+      <void id="intArray1" property="featuringArtistIds"/>
+      <void property="featuringArtistIds">
+       <object idref="intArray1"/>
+      </void>
+      <void property="id">
+       <object class="com.mixshare.rapid_evolution.data.identifier.search.song.SongIdentifier" id="SongIdentifier1">
+        <void property="artistIds">
+         <array class="int" length="0"/>
+        </void>
+        <void property="songDescription">
+         <string>test song2</string>
+        </void>
+       </object>
+      </void>
+      <void property="lastModified">
+       <long>1382677485017</long>
+      </void>
+      <void property="uniqueId">
+       <int>2</int>
+      </void>
+     </object>
+    </void>
+   </void>
+   <void property="uniqueIdTable">
+    <void property="identifierMap">
+     <void method="put">
+      <object idref="SongIdentifier0"/>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object idref="SongIdentifier1"/>
+      <int>2</int>
+     </void>
+    </void>
+    <void property="nextIntegerValue">
+     <int>3</int>
+    </void>
+    <void property="uniqueIdMap">
+     <void method="put">
+      <int>1</int>
+      <object idref="SongIdentifier0"/>
+     </void>
+     <void method="put">
+      <int>2</int>
+      <object idref="SongIdentifier1"/>
+     </void>
+    </void>
+   </void>
+   <void property="userDataTypes">
+    <void method="add">
+     <object class="com.mixshare.rapid_evolution.data.record.user.UserDataType">
+      <void property="description">
+       <string>descr</string>
+      </void>
+      <void property="fieldType">
+       <byte>2</byte>
+      </void>
+      <void property="id">
+       <short>1</short>
+      </void>
+      <void property="title">
+       <string>title</string>
+      </void>
+     </object>
+    </void>
+   </void>
+  </void>
+  <void property="songModelManager">
+   <object class="com.mixshare.rapid_evolution.ui.model.search.song.SongModelManager"/>
+  </void>
+ </object>
+</java>

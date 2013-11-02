@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_04" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.ui.model.filter.style.StyleModelManager"> 
+  <void property="extendedSortEnabled"> 
+   <boolean>true</boolean> 
+  </void> 
+  <void property="nextUserColumnId"> 
+   <byte>-2</byte> 
+  </void> 
+  <void property="sortOrdering"> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.ui.model.column.ColumnOrdering"> 
+     <void property="ascending"> 
+      <boolean>true</boolean> 
+     </void> 
+     <void property="column"> 
+      <object class="com.mixshare.rapid_evolution.ui.model.column.StaticTypeColumn"> 
+       <void property="columnDescriptionKey"> 
+        <string>column_style_name_description</string> 
+       </void> 
+       <void property="columnId"> 
+        <byte>39</byte> 
+       </void> 
+       <void property="columnTitleKey"> 
+        <string>column_style_name_title</string> 
+       </void> 
+       <void property="idColumn"> 
+        <boolean>true</boolean> 
+       </void> 
+       <void property="size"> 
+        <short>300</short> 
+       </void> 
+      </object> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void id="Vector0" property="sourceColumns"> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.ui.model.column.StaticTypeColumn"> 
+     <void property="columnDescriptionKey"> 
+      <string>column_style_name_description</string> 
+     </void> 
+     <void property="columnId"> 
+      <byte>39</byte> 
+     </void> 
+     <void property="columnTitleKey"> 
+      <string>column_style_name_title</string> 
+     </void> 
+     <void property="idColumn"> 
+      <boolean>true</boolean> 
+     </void> 
+     <void property="size"> 
+      <short>300</short> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.ui.model.column.StaticTypeColumn"> 
+     <void property="columnDescriptionKey"> 
+      <string>column_degree_description</string> 
+     </void> 
+     <void property="columnId"> 
+      <byte>53</byte> 
+     </void> 
+     <void property="columnTitleKey"> 
+      <string>column_degree_title</string> 
+     </void> 
+     <void property="size"> 
+      <short>90</short> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="viewColumns"> 
+   <object idref="Vector0"/> 
+  </void> 
+ </object> 
+</java> 

@@ -1,0 +1,343 @@
+Un-assimilated RE3 thoughts:
+
+Recent:
+tag values aren't normalized?
+TOFIX: discogs
+detection managers not working? (have to manually detect BI?)
+detect all doesn't spawn task but rather individual ones?
+consistency check should scrub mined bits
+problem picking default thumbnail that's readable?!?
+** tag "drum and bass" disappeared from tags view but still exists...
+how are artists being added with 0 songs?
+
+RE3:
+  adding mixouts strangeness!!!!
+  tag reading not working?
+  flac initial key
+  multiple detection tasks
+  osx media player can't be closed
+  prevent repeats option in main view
+  opton to filter compatible/similar tab from style selections on left?
+  clearing bpm/tags not instant
+  billboard api
+REPLAYGAIN_TRACK_GAIN caps
+max simultaenous detection tasks
+MIXOUTS PROBLEM
+CTRL-A, SHIFT SELECT TAGS
+when date added already exists
+can't alt click multiple
+write INITIAL KEY
+file menu (with quit)
+merge -> update counts
+deleting songs from playlists, #s should have decreased
+right click add tags should eventually update the count...
+import/export excel files
+check background priorities
+investigate loss in hierarchy by studying downtempo style
+when videi finished in full screen hung
+making empty date added playlists
+RE3:
+	strict key search mode?
+	tag writing behavior (to start immediately)
+	set key/bpm in fields->set
+	more testing with the mixout behavior (with them showing up and ratings)
+	xuggle/quicktime crashes
+	installer remember options
+
+FORUM SHIT:
+
+Some tag fields are removed from my files when I save the tag. I can reproduce this for File Owner (ID3v2.4: TOWN) and Original Filename (ID3v2.4: TOFN); maybe more fields are concerned. I'm using JAudiotagger and ID3v2.4 
+It seems that the BPM formatting options (scaling, number of decimal places) have been removed. I used to store the BPM value as a 5 digit number, interpreted as 3 digits for the main part and 2 digits for the fractional part. This way I have standard tags and acceptable precision. This is not possible with RE3.
+
+
+DESKTOP ACCESS:
+ * rating ability on media player
+ * ability to pause/resume video
+use levinstein when saying "i alredy have", and for searching for duplicate tags/styles
+
+need a semaphore around     	for (MinedProfile minedProfile : minedProfiles.keySet()) { in SearchProfile
+
+tag integrity getting messed up (chill out was deleted and re-added2?)_
+pause when sorting by tags, should not interrupt user?
+
+dojo iframe to make cross domain calls to send tracking/click pixels
+
+cancelling tasks that are put to sleep stay cancelled currently...
+computing filter stats eating up cpu??
+tags add-to doesn't work for ordered playlists (also--can't drag and drop to ordered playZASlist)
+mobile -- fix show more results link
+
+SEARCH BY LYRICS for karaoke
+GUESS ARTIST NAME WHEN ONLY TITLE FOR KARAOKE?
+selecting and dragging multiple tags is slow
+SEARCH MATCH NOT CLEARED AFTER CLEARING TEXT
+
+
+move sub-styles then click no and they go away temporarily"
+
+#1 expanded profile section, bpm slider marks were off
+#2 fix ordering of playlists to allow repeatss1.
+
+TEST: date added empty  on new artst
+
+in install shortcut, cvhange to java -jar to not rely on file extension for jar
+database cleaner task causing styles to lose hierarchy again??
+
+make sure discogs styles get to releases
+limit # of writesr for some RWSemaphores?
+counts for playlists # songs.. etc
+
+have foreground tasks run in addition to background fore read tags task, etc, so it starts immediately ..
+xx of xx results in lazy mode, when scrolled to bottom add more results
+organize task hangs, worked after restart, lock within program? check FileLock...
+determine why database cleaner remerges the same things
+test cases for event fetchers...
+2 lastfm artist fetch tasks started on same artists, due to on emand tasks -> make sure only 1 of each type goes at a time?
+
+if you close the media player before it finishes loading, it will play audio but the media player is nowhere to be seen
+
+volume changes to media player?!? (bad speakers?)
+** add similarity tab to main screen, relative to current profile (could mean similarity of songs to artists?)
+add key lock/etc/ to main view too
+** add option
+track sorting behavior
+import from excel
+
+ISSUES:
+if the profile is switched, close add tags window?
+crash when closing video player
+dubstep bpm fix?
+perf with tags--cached filter #s, handle better
+
+NICE+EASY:
+fBPM traktor reading decimals
+able to edit more fields in-line in places...
+places that toCustomCase is needed:
+	when updating fields like artist name
+
+NICE-DIFFICULT
+acid format for ableton
+lib on different drives to handle changing drive letters
+
+NICE-OBSCURE:
+remove from... option
+ability to overwrite detect keys...
+when setting artist name, if detected in title strip out
+
+ffmpeg errors on i:\music\organized\p\plone\plock [1998]\plone - plock - [03] - sunday laid.wma
+
+RE2:
+	scrollbars on
+
+
+##########
+## BUGS ##
+##########
+
+HIGH: 
+ * get drag and drop to itunes working
+ * difficulty editing artists, can't remove space in front of names, resorts.. (apply/cancel)
+ * fix serato cue points being cleared
+ * add to->play list "key me" kind of froze
+ 
+MEDIUM:
+ * window sizes/positions are slightly moving when reloaded? (test columns)
+ * web access playlist # songs incorrect, is it just totaling up children?
+ * investigate possible mem leaks (high ram breaks phonon player, try to keep it down)
+ * changing volume can have startling results
+ * rearranging columns can result in an empty one (not easily reproducible)
+ * couldn't rename release title to lower case version (from songs->set fields, but could change by changing release title)
+ * allow repeats of songs in ordered playlists
+ * sorting of tags view doesn't seem consistent, loses expanded sections
+ * don't show lyrics tab if "Not found"
+ * playlist rating change did not show up
+
+LOW:
+ * when automerging with external items, list reset
+ * when editing field in details, tabbing to next row does not continue "edit mode"
+ * occasional error from qt: QTreeView::rowsInserted internal representation of the model has been corrupted, resetting.
+ * phonon track time still messed (on some tracks)
+ * quicktime popup of DRM content, needed to load itunes to authorize, waited for user input (any way to avoid?)
+
+########################
+## INVESTIGATE / TEST ##
+########################
+
+HIGH:
+ * mr. scruff -> mrs. cruff dilemna (way to view duplicates and un-duplicate)
+ * hierarchy not updating properly in details tab? (TODO: test)
+ * get install options to remember user settings
+ * compilation albums
+ 
+MEDIUM:
+ * option to preserve sort properties of compatible view
+ * data collection on compilation releases
+ * option to show more distant key matches... (test strict match option)
+ * long running detection tasks can prevent tag writing tasks
+ * get msising metadata like label/year/tracks
+ * to improve key accuracy, when mode is detected, guess the normal verson of it?
+ 
+LOW:
+ * smooth scrolling in tables
+ * how to handle if files are renamed/moved outside of RE3?
+ * style/tag column sizes not being set initially?
+ * cleanup column width properties (use types instead of individual fields)
+ * investigate using key results from echonest for higher accuracy -- case study, deceptikon song, echonest returns Am, Re2 E, correct Em.. way for averager to see through?
+ * renaming necessary? property to disable behavior for quicktime ....
+ * sometimes its not obvious why a song shows up (i.e. "love"-> minimal love so minimal showed up, although keyword "love" wasn't shown)
+ * faad2 on linux
+ * move encrypted string to a deep package structure for security
+ * beat intensity failing on some files?
+ 
+###########
+## TO-DO ##
+###########
+
+HIGH:
+ * search behavior, how to do combined sortings/weights/etc
+ * add file paths to search tokens? (lucene index?)
+ * auto update the database (e.g. files, deletions, directory changes etc.) on startup?  use file timestamps to know when to refresh!
+ * mac: preview image (RE3) can be higher resolution
+ * ability to customize colors
+ * option to highlight harmonically compatible songs (+bpm range) in search table
+ * welcome msg
+ * ; between artists instead of ,
+ * option to overwrite tags
+ * select groups of things
+ * add close button to task progress window
+ 
+MEDIUM:
+ * task to cleanup files (with check)
+ * task to index additional material like lyrics, artist name variations (in background?)
+ * line editing in main search view
+ * apply/cancel button on edit details section?
+ * HELPER FUNCTIONS
+ 	- remove underscores
+ 	- track formatting
+ 	- case formatting
+ * font size selection for library
+ * all categories filter?
+ * ability to drg and drop images onto image pane
+ * add buffering to xuggle player to eliminate stutters? (if that is indeed the cause)
+ * search by wildcard/regular expression?
+ * search include file paths
+ * install option for web access
+ * drop on playlist to add as playlist
+ * way to drag current song
+ * installer should use my documents location not c:\users\...
+ * add ability to cancel tasks/use to speedup shutdown/cancel tasks for manual detection, etc
+ * undo system
+ * way to specify bpm/key lock changes to current song while mixing
+ * contact lyrics fly peeps to get an official api key
+ * use duplicate variations to fetch data
+ * right click->add to playlist option
+ * right click option for fields->convert to->upper/lower/proper cases
+ * videos should have fields: dimensions, fps
+ * install should remember locations
+ * import options (spreadsheet)
+ * export options (xml, spreadsheet, itunes?) 
+ * error message more specific, i.e. "are you sure you wanted to delete the selected filters" to "playlists"?
+ * get pre-amp style player working instead of centering ~0.5 (then remove hack in video player for volume increase)
+ * auto expand to match when lazy searching tags -> will involve scan
+ * ability to edit dynamic playlists
+ * instanceof -> search for bad code fand fix
+ * column selection resizable
+ * ability to delete custom field?
+ * if organize feature fails, need to notify user
+ * add built in views for missing files, favorites, etc
+ * get track info from discogs
+ * ability to  disable automatic adding of styles/tags
+ * ability to sort by user columns in lazy mode
+ * if enabling music discovery, should start to re-fetch profiles or go through and add from existing profiles?
+ * dups not adding but some people want them to
+ * preload next song in album mode
+ * read mood as tag
+ * make spacing in UI consistent (precise!) margins
+ * ability to filter "never listened to"
+ * can't disable group of tracks
+ * view full screen image option
+ * search lyrics too
+ * cut tags/styles from below threshold when adding to index to improve results
+ 
+LOW:
+ * update playlists only for itunes import
+ * loading message in lazy mode when populating tables, don't steal user focus...
+ * utilize xuggle for VIDEO codecs in java (& playback)
+ * add descriptions for each column, relative to type
+ * purchase APIs: openDaad, Beatport, SNOCAP
+ * concert APIs: Jambase, 5gig.com, songkick
+ * images: gumgum
+ * blogs: mog.com?
+ * video support
+ * allow network content (urls) not just filenames
+ * globalize normalization of songgroup ratings.. (right now centered towards 3.5?)
+ * control which fields are searched
+ * merging styles with instances in multiple places, should check behavior so user doesn't have to re-establish relationships...
+ * some Widget classes end with UI others don't
+ * use discogs url in musicbrainz data as a way of resolving ambiguousness?
+ * get discogs song remixer info into song profile
+ * get vids from lastfm?
+ * ability to merge links?
+ * filter lastfm data playcount from releases/songs to labels
+ * make it so discogs can exceed 5000 by using html after limit is reached
+ * playcount/lyrics/other metadata from files?
+ * # roots column
+ * writing additional mp4 fields (was it the upper case?)
+ * control tab ordering (videos tab got inserted between styles and tags tab)
+ * make fields of media player clickable to load profiles...
+ * option to see what has tags?
+ * persist search text in tabs as well?
+ * look into task bar icon/popup ability?
+ * add ability to exclude in compatible list (excludes)
+ * buttons for detect key/bpm/bi within song details?
+ * allow stored usernames for following sites so idiomag can recommend music:, 'lastfm', 'mog', 'ilike', 'mystrands', 'projectplaylist', 'imeem', 'pandora', 'bebo', 'myspace' and 'songza
+ * at most 1 detection/import type task at a time?
+ * option to say "i already own" in recommended view (and then select pre-existing item)
+ * more tooltips
+ * locale sensitive sorting of strings (using collator, instead of compareTo, compareToIgnoreCase..)
+ * resizable sub windows (non modal?)
+ * ability to unrate/rate in increments
+ * ALAC file support
+ * way to view disabled?
+ * add name variations to encoded tokens
+ * filter irrelevant videos (must match existing song title?)
+ * detect changed thumbnail size and adjust
+ * way to detect broken file links
+ * way to prioritize song tags over release stuff
+ * right click sort for filters for ease of access (right now requires columns showing)
+ * details columns resize automaticlaly (expand and able to see full file path)
+ * filter album types (official, live, etc)
+ * be able to sort by non-visible columns in trees (and could make default sorting in tags different)
+ * customizable selction colors (no color picker for jambi qt?)
+ * release siimlarity, discogs part needs to check variations of artists
+ * failed minings should retry sooner than successful ones...
+ * predefined hierarchy that ships with re3?
+ * cancellable with retry (for detection tasks)
+ * simplify tag reading code to new api
+ 
+  
+#################
+## PERFORMANCE ##
+#################
+
+HIGH:
+ * memory usage
+ * use hash to optimize searches in other places
+ * load time is slow
+ 
+ 
+MEDIUM:
+ * similar tab taking a while?
+ * be able to cancel searches in action in case user keeps typing.. .(slick!)
+ * only have 1 view loaded in memory at a time?
+ * option to disable wildcard searching for tags for performance
+ 
+LOW:
+ * removing lots of videos slight delay
+ * check that sub-sorting of columns is only done on initial sort, not every time user sorts (make sure sub sorting persists)
+ * custom proxy model?
+ * style/tag slider editor get created every time search field/combobox changes?
+ * utilize invalidation pattern in more places versus recomputing every time something is updated?
+ * make sure html titles are fetched minimally?
+ * research canFetchMore / fetchMore functions to optimize large data sets
+ * parallelize organize task as well?

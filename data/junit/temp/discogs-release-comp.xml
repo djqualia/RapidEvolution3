@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_21" class="java.beans.XMLDecoder"> 
+ <object class="com.mixshare.rapid_evolution.data.mined.discogs.release.DiscogsRelease"> 
+  <void property="artistNames"> 
+   <void method="add"> 
+    <string>Various</string> 
+   </void> 
+  </void> 
+  <void property="country"> 
+   <string>UK</string> 
+  </void> 
+  <void property="genres"> 
+   <void method="add"> 
+    <string>Electronic</string> 
+   </void> 
+  </void> 
+  <void property="imageURLs"> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/R-148889-1146869126.jpeg</string> 
+   </void> 
+   <void method="add"> 
+    <string>http://www.discogs.com/image/R-148889-1215703168.jpeg</string> 
+   </void> 
+  </void> 
+  <void property="labels"> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.discogs.release.DiscogsReleaseLabelInstance"> 
+     <void property="catno"> 
+      <string>WAP100PD</string> 
+     </void> 
+     <void property="name"> 
+      <string>Warp Records</string> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="owners"> 
+   <void method="add"> 
+    <string>ae.tc</string> 
+   </void> 
+   <void method="add"> 
+    <string>alec.tron</string> 
+   </void> 
+   <void method="add"> 
+    <string>alucas</string> 
+   </void> 
+   <void method="add"> 
+    <string>batesman</string> 
+   </void> 
+   <void method="add"> 
+    <string>Breakage</string> 
+   </void> 
+   <void method="add"> 
+    <string>christophe_n</string> 
+   </void> 
+   <void method="add"> 
+    <string>cijax</string> 
+   </void> 
+   <void method="add"> 
+    <string>craigoh</string> 
+   </void> 
+   <void method="add"> 
+    <string>djconcept_1</string> 
+   </void> 
+   <void method="add"> 
+    <string>dmusict</string> 
+   </void> 
+   <void method="add"> 
+    <string>Don_Juan</string> 
+   </void> 
+   <void method="add"> 
+    <string>gescom33</string> 
+   </void> 
+   <void method="add"> 
+    <string>geskid</string> 
+   </void> 
+   <void method="add"> 
+    <string>giginger</string> 
+   </void> 
+   <void method="add"> 
+    <string>Hecomat</string> 
+   </void> 
+   <void method="add"> 
+    <string>hutlock</string> 
+   </void> 
+   <void method="add"> 
+    <string>iamthegreatwarlord</string> 
+   </void> 
+   <void method="add"> 
+    <string>inky</string> 
+   </void> 
+   <void method="add"> 
+    <string>Jasper_BE</string> 
+   </void> 
+   <void method="add"> 
+    <string>joachimp</string> 
+   </void> 
+   <void method="add"> 
+    <string>JOBPROD</string> 
+   </void> 
+   <void method="add"> 
+    <string>john_power</string> 
+   </void> 
+   <void method="add"> 
+    <string>juhaniemela</string> 
+   </void> 
+   <void method="add"> 
+    <string>kalamischk</string> 
+   </void> 
+   <void method="add"> 
+    <string>knesux</string> 
+   </void> 
+   <void method="add"> 
+    <string>krakman</string> 
+   </void> 
+   <void method="add"> 
+    <string>lofixxx</string> 
+   </void> 
+   <void method="add"> 
+    <string>luchai</string> 
+   </void> 
+   <void method="add"> 
+    <string>Lunarphase</string> 
+   </void> 
+   <void method="add"> 
+    <string>markarmstrong</string> 
+   </void> 
+   <void method="add"> 
+    <string>MichaelReinboth</string> 
+   </void> 
+   <void method="add"> 
+    <string>minisystem</string> 
+   </void> 
+   <void method="add"> 
+    <string>monkai</string> 
+   </void> 
+   <void method="add"> 
+    <string>monski</string> 
+   </void> 
+   <void method="add"> 
+    <string>mushroom-1</string> 
+   </void> 
+   <void method="add"> 
+    <string>neilvassallo</string> 
+   </void> 
+   <void method="add"> 
+    <string>Oldskoolbunkert</string> 
+   </void> 
+   <void method="add"> 
+    <string>otterman</string> 
+   </void> 
+   <void method="add"> 
+    <string>ozymandias</string> 
+   </void> 
+   <void method="add"> 
+    <string>phax</string> 
+   </void> 
+   <void method="add"> 
+    <string>Pitbulle</string> 
+   </void> 
+   <void method="add"> 
+    <string>planned_attack</string> 
+   </void> 
+   <void method="add"> 
+    <string>pnerz</string> 
+   </void> 
+   <void method="add"> 
+    <string>popcornreborn</string> 
+   </void> 
+   <void method="add"> 
+    <string>pughboy</string> 
+   </void> 
+   <void method="add"> 
+    <string>pughboy1</string> 
+   </void> 
+   <void method="add"> 
+    <string>quoz</string> 
+   </void> 
+   <void method="add"> 
+    <string>ricone</string> 
+   </void> 
+   <void method="add"> 
+    <string>rockit</string> 
+   </void> 
+   <void method="add"> 
+    <string>roger23</string> 
+   </void> 
+   <void method="add"> 
+    <string>sagruen</string> 
+   </void> 
+   <void method="add"> 
+    <string>schmee</string> 
+   </void> 
+   <void method="add"> 
+    <string>scumtron</string> 
+   </void> 
+   <void method="add"> 
+    <string>sophokles1</string> 
+   </void> 
+   <void method="add"> 
+    <string>soulcialist</string> 
+   </void> 
+   <void method="add"> 
+    <string>Soulfari</string> 
+   </void> 
+   <void method="add"> 
+    <string>steady-j</string> 
+   </void> 
+   <void method="add"> 
+    <string>steinomite</string> 
+   </void> 
+   <void method="add"> 
+    <string>thewintman</string> 
+   </void> 
+   <void method="add"> 
+    <string>TMR</string> 
+   </void> 
+   <void method="add"> 
+    <string>Tribaltek</string> 
+   </void> 
+   <void method="add"> 
+    <string>ttiser</string> 
+   </void> 
+   <void method="add"> 
+    <string>tunerexpro</string> 
+   </void> 
+   <void method="add"> 
+    <string>Turlough</string> 
+   </void> 
+   <void method="add"> 
+    <string>twobarbquickstep</string> 
+   </void> 
+   <void method="add"> 
+    <string>ungaro</string> 
+   </void> 
+   <void method="add"> 
+    <string>Warren72</string> 
+   </void> 
+   <void method="add"> 
+    <string>xceque</string> 
+   </void> 
+   <void method="add"> 
+    <string>yunblud</string> 
+   </void> 
+   <void method="add"> 
+    <string>zombek</string> 
+   </void> 
+  </void> 
+  <void property="primaryImageURL"> 
+   <string>http://www.discogs.com/image/R-148889-1146869126.jpeg</string> 
+  </void> 
+  <void property="ratings"> 
+   <object class="com.mixshare.rapid_evolution.data.mined.discogs.release.DiscogsReleaseRatings"> 
+    <void property="ratings"> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>3</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>5</int> 
+     </void> 
+     <void method="add"> 
+      <int>4</int> 
+     </void> 
+     <void method="add"> 
+      <int>3</int> 
+     </void> 
+    </void> 
+    <void property="releaseId"> 
+     <string>148889</string> 
+    </void> 
+    <void property="users"> 
+     <void method="add"> 
+      <string>awillhoite</string> 
+     </void> 
+     <void method="add"> 
+      <string>Don_Juan</string> 
+     </void> 
+     <void method="add"> 
+      <string>geskid</string> 
+     </void> 
+     <void method="add"> 
+      <string>l0k1</string> 
+     </void> 
+     <void method="add"> 
+      <string>lofixxx</string> 
+     </void> 
+     <void method="add"> 
+      <string>luchai</string> 
+     </void> 
+     <void method="add"> 
+      <string>MichaelReinboth</string> 
+     </void> 
+     <void method="add"> 
+      <string>Pitbulle</string> 
+     </void> 
+     <void method="add"> 
+      <string>roger23</string> 
+     </void> 
+     <void method="add"> 
+      <string>steady-j</string> 
+     </void> 
+     <void method="add"> 
+      <string>thewintman</string> 
+     </void> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="recommendations"> 
+   <object class="com.mixshare.rapid_evolution.data.mined.discogs.release.DiscogsReleaseRecommendations"> 
+    <void property="recommendedIds"> 
+     <void method="add"> 
+      <int>11777</int> 
+     </void> 
+     <void method="add"> 
+      <int>3662</int> 
+     </void> 
+     <void method="add"> 
+      <int>3666</int> 
+     </void> 
+     <void method="add"> 
+      <int>385638</int> 
+     </void> 
+     <void method="add"> 
+      <int>385640</int> 
+     </void> 
+     <void method="add"> 
+      <int>8433</int> 
+     </void> 
+     <void method="add"> 
+      <int>400077</int> 
+     </void> 
+     <void method="add"> 
+      <int>11778</int> 
+     </void> 
+     <void method="add"> 
+      <int>757</int> 
+     </void> 
+     <void method="add"> 
+      <int>415851</int> 
+     </void> 
+     <void method="add"> 
+      <int>29074</int> 
+     </void> 
+     <void method="add"> 
+      <int>3214</int> 
+     </void> 
+     <void method="add"> 
+      <int>482391</int> 
+     </void> 
+     <void method="add"> 
+      <int>398345</int> 
+     </void> 
+     <void method="add"> 
+      <int>24482</int> 
+     </void> 
+     <void method="add"> 
+      <int>444484</int> 
+     </void> 
+     <void method="add"> 
+      <int>428328</int> 
+     </void> 
+     <void method="add"> 
+      <int>30849</int> 
+     </void> 
+     <void method="add"> 
+      <int>261</int> 
+     </void> 
+     <void method="add"> 
+      <int>236</int> 
+     </void> 
+     <void method="add"> 
+      <int>54978</int> 
+     </void> 
+     <void method="add"> 
+      <int>34129</int> 
+     </void> 
+     <void method="add"> 
+      <int>27129</int> 
+     </void> 
+     <void method="add"> 
+      <int>24435</int> 
+     </void> 
+     <void method="add"> 
+      <int>24349</int> 
+     </void> 
+     <void method="add"> 
+      <int>20621</int> 
+     </void> 
+     <void method="add"> 
+      <int>5248</int> 
+     </void> 
+     <void method="add"> 
+      <int>451034</int> 
+     </void> 
+     <void method="add"> 
+      <int>172619</int> 
+     </void> 
+     <void method="add"> 
+      <int>51612</int> 
+     </void> 
+     <void method="add"> 
+      <int>32852</int> 
+     </void> 
+     <void method="add"> 
+      <int>24484</int> 
+     </void> 
+     <void method="add"> 
+      <int>14937</int> 
+     </void> 
+     <void method="add"> 
+      <int>13473</int> 
+     </void> 
+     <void method="add"> 
+      <int>13102</int> 
+     </void> 
+     <void method="add"> 
+      <int>4690</int> 
+     </void> 
+     <void method="add"> 
+      <int>4002</int> 
+     </void> 
+     <void method="add"> 
+      <int>212</int> 
+     </void> 
+     <void method="add"> 
+      <int>136</int> 
+     </void> 
+     <void method="add"> 
+      <int>30837</int> 
+     </void> 
+     <void method="add"> 
+      <int>30187</int> 
+     </void> 
+     <void method="add"> 
+      <int>24546</int> 
+     </void> 
+     <void method="add"> 
+      <int>20307</int> 
+     </void> 
+     <void method="add"> 
+      <int>19628</int> 
+     </void> 
+     <void method="add"> 
+      <int>4691</int> 
+     </void> 
+     <void method="add"> 
+      <int>3623</int> 
+     </void> 
+     <void method="add"> 
+      <int>35292</int> 
+     </void> 
+     <void method="add"> 
+      <int>30811</int> 
+     </void> 
+     <void method="add"> 
+      <int>28760</int> 
+     </void> 
+     <void method="add"> 
+      <int>2503</int> 
+     </void> 
+    </void> 
+    <void property="releaseId"> 
+     <string>148889</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="releaseId"> 
+   <int>148889</int> 
+  </void> 
+  <void property="released"> 
+   <string>29 Jun 1998</string> 
+  </void> 
+  <void property="styles"> 
+   <void method="add"> 
+    <string>Techno</string> 
+   </void> 
+   <void method="add"> 
+    <string>Electro</string> 
+   </void> 
+   <void method="add"> 
+    <string>Future Jazz</string> 
+   </void> 
+  </void> 
+  <void property="title"> 
+   <string>We Are Reasonable People</string> 
+  </void> 
+  <void property="tracks"> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.discogs.song.DiscogsSong"> 
+     <void property="artists"> 
+      <object class="java.util.Vector"> 
+       <void method="add"> 
+        <string>Nightmares On Wax</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void property="position"> 
+      <string>A01</string> 
+     </void> 
+     <void property="remixers"> 
+      <object class="java.util.Vector"/> 
+     </void> 
+     <void property="title"> 
+      <string>Fishtail Parker</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.discogs.song.DiscogsSong"> 
+     <void property="artists"> 
+      <object class="java.util.Vector"> 
+       <void method="add"> 
+        <string>Jimi Tenor</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void property="position"> 
+      <string>A02</string> 
+     </void> 
+     <void property="remixers"> 
+      <object class="java.util.Vector"/> 
+     </void> 
+     <void property="title"> 
+      <string>Wear My Bikini</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.discogs.song.DiscogsSong"> 
+     <void property="artists"> 
+      <object class="java.util.Vector"> 
+       <void method="add"> 
+        <string>Two Lone Swordsmen</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void property="position"> 
+      <string>B03</string> 
+     </void> 
+     <void property="remixers"> 
+      <object class="java.util.Vector"/> 
+     </void> 
+     <void property="title"> 
+      <string>Circulation</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.mixshare.rapid_evolution.data.mined.discogs.song.DiscogsSong"> 
+     <void property="artists"> 
+      <object class="java.util.Vector"> 
+       <void method="add"> 
+        <string>Red Snapper</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void property="position"> 
+      <string>B04</string> 
+     </void> 
+     <void property="remixers"> 
+      <object class="java.util.Vector"/> 
+     </void> 
+     <void property="title"> 
+      <string>4 Dead Monks (Original Demo)</string> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="wishlist"> 
+   <void method="add"> 
+    <string>clocke</string> 
+   </void> 
+   <void method="add"> 
+    <string>Joost1965</string> 
+   </void> 
+   <void method="add"> 
+    <string>kitz</string> 
+   </void> 
+   <void method="add"> 
+    <string>RUI_F</string> 
+   </void> 
+   <void method="add"> 
+    <string>squarEyes</string> 
+   </void> 
+  </void> 
+  <void property="yearReleased"> 
+   <int>1998</int> 
+  </void> 
+ </object> 
+</java> 

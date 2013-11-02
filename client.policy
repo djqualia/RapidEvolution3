@@ -1,0 +1,7 @@
+grant {
+  permission java.security.AllPermission;
+  permission java.net.SocketPermission "*:*",
+    "connect,accept,resolve,listen";
+  permission java.lang.RuntimePermission
+    "accessClassInPackage.sun.rmi.*";
+}; 

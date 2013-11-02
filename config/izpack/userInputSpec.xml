@@ -1,0 +1,48 @@
+<userInput id="userInputSpec.xml">
+
+<panel order="0">
+<field type="title" bold="true" align="center" txt="Configuration Options" id="configuration_options"/>
+<field type="staticText" align="left" txt="These are the basic options that all users should review."/>
+<field type="divider" align="top"/>
+<field align="left" type="text" variable="RE3_MEMORY">
+  <description align="left" txt="Please enter the maximum amount of memory Rapid Evolution 3 should use, in megabytes (MB)."
+               id="re3_max_memory_description"/>
+  <spec align="left" txt="Max allowed memory:" id="re3_max_allowed_memory" size="5" set="1000" resultFormat="processed" processor="com.mixshare.rapid_evolution.util.install.RE3MemoryProcessor"/>
+  <processor class="com.mixshare.rapid_evolution.util.install.RE3MemoryProcessor"/>
+</field>
+<field type="space"/>
+<field type="staticText" align="left" txt="Please enter the path for your Rapid Evolution 3 library.  This is where information about your music will be stored.  It should reside on the same hard drive as your music, but not in the same folder."/>
+<field align="left" type="dir" variable="RE3_LIBRARY_PATH" >
+  <spec txt="Library path:" id="re3_library_location" size="25" set="$USER_HOME$FILE_SEPARATOR${APP_NAME}" resultFormat="processed" mustExist="false" create="false" />
+  <processor class="com.mixshare.rapid_evolution.util.install.RE3LocationProcessor"/>
+</field>
+<field type="space"/>
+<field type="check" variable="RE3_AUTOUPDATE_TAGS">
+  <spec align="left" txt="Automatically update tags" id="re3_autoupdate_tags" true="true" false="false" set="false" />
+  <description align="left" txt="If you would like the tags of your media files to be updated automatically, check the box below.  Note: please test RE3 to make sure it writes tags acceptably for you first."
+               id="re3_autoupdate_tags_description"/>
+</field>
+</panel>
+
+<panel order="1">
+<field type="staticText" align="left" txt="These are more advanced options for users who need finer control over RE3's behavior."/>
+<field type="divider" align="top"/>
+<field type="space"/>
+<field type="staticText" align="left" txt="With data mining enabled, RE3 will automatically collect metadata about your music collection from a variety of sources.  This will enhance many functions of the program and is highly recommended.  Enabling music discovery will allow RE3 to collect discography information and recommended music outside of your personal collection.  Music discovery requires more resources, so it is disabled by default.  Disabling either feature saves memory and improves core performance."/>
+<field type="check" variable="ENABLE_DATA_MINING">
+  <spec align="left" txt="Enable data mining" id="re3_enable_data_mining_text" true="true" false="false" set="true"/>
+</field>
+<field type="check" variable="ADD_EXTERNAL_ITEMS">
+  <spec align="left" txt="Enable music discovery" id="re3_enable_music_discovery_text" true="true" false="false" set="false"/>
+</field>
+<field type="space"/>
+<field type="staticText" align="left" txt="Additional codecs can be enabled to improve RE3's ability to play and process a wide range of files.  The following codecs are disabled by default, to avoid stability problems on some computers, but can be enabled when needed by the user."/>
+<field type="check" variable="ENABLE_QUICKTIME_CODECS">
+  <spec align="left" txt="Enable Quicktime Codecs" id="re3_enable_quicktime_codecs_text" true="true" false="false" set="false"/>
+</field>
+<field type="check" variable="ENABLE_XUGGLE_CODECS">
+  <spec align="left" txt="Enable Xuggle Codecs" id="re3_enable_xuggle_codecs_text" true="true" false="false" set="false"/>
+</field>
+</panel>
+
+</userInput>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_11" class="java.beans.XMLDecoder">
+ <object class="com.mixshare.rapid_evolution.data.record.search.song.SongRecord">
+  <void property="actualStyleDegrees">
+   <array class="float" length="1">
+    <void index="0">
+     <float>0.7</float>
+    </void>
+   </array>
+  </void>
+  <void property="actualStyleIds">
+   <array class="int" length="1">
+    <void index="0">
+     <int>1</int>
+    </void>
+   </array>
+  </void>
+  <void property="actualTagDegrees">
+   <array class="float" length="1">
+    <void index="0">
+     <float>0.9</float>
+    </void>
+   </array>
+  </void>
+  <void property="actualTagIds">
+   <array class="int" length="1">
+    <void index="0">
+     <int>2</int>
+    </void>
+   </array>
+  </void>
+  <void property="beatIntensity">
+   <byte>87</byte>
+  </void>
+  <void property="bpmAccuracy">
+   <byte>42</byte>
+  </void>
+  <void property="comments">
+   <string>comments</string>
+  </void>
+  <void property="dateAdded">
+   <long>654321</long>
+  </void>
+  <void property="disabled">
+   <boolean>true</boolean>
+  </void>
+  <void property="duplicateIds">
+   <array class="int" length="2">
+    <void index="0">
+     <int>1</int>
+    </void>
+    <void index="1">
+     <int>2</int>
+    </void>
+   </array>
+  </void>
+  <void property="endBpm">
+   <float>60.0</float>
+  </void>
+  <void property="externalItem">
+   <boolean>true</boolean>
+  </void>
+  <void id="intArray0" property="featuringArtistIds"/>
+  <void property="featuringArtistIds">
+   <object idref="intArray0"/>
+  </void>
+  <void property="id">
+   <object class="com.mixshare.rapid_evolution.data.identifier.search.song.SongIdentifier">
+    <void property="artistIds">
+     <array class="int" length="1">
+      <void index="0">
+       <int>1</int>
+      </void>
+     </array>
+    </void>
+    <void property="songDescription">
+     <string>tha</string>
+    </void>
+   </object>
+  </void>
+  <void property="keyAccuracy">
+   <byte>52</byte>
+  </void>
+  <void property="labelIds">
+   <array class="int" length="1">
+    <void index="0">
+     <int>2</int>
+    </void>
+   </array>
+  </void>
+  <void property="lastModified">
+   <long>234</long>
+  </void>
+  <void property="minedProfileSources">
+   <array class="byte" length="1">
+    <void index="0">
+     <byte>3</byte>
+    </void>
+   </array>
+  </void>
+  <void property="minedProfileSourcesLastUpdated">
+   <array class="long" length="1">
+    <void index="0">
+     <long>123</long>
+    </void>
+   </array>
+  </void>
+  <void property="numMixouts">
+   <short>102</short>
+  </void>
+  <void property="originalYearReleased">
+   <short>1998</short>
+  </void>
+  <void property="playCount">
+   <long>34</long>
+  </void>
+  <void property="popularity">
+   <float>30.0</float>
+  </void>
+  <void property="rating">
+   <byte>80</byte>
+  </void>
+  <void property="releaseIds">
+   <array class="int" length="1">
+    <void index="0">
+     <int>1</int>
+    </void>
+   </array>
+  </void>
+  <void property="releaseTracks">
+   <array class="java.lang.String" length="1">
+    <void index="0">
+     <string>a1</string>
+    </void>
+   </array>
+  </void>
+  <void property="remix">
+   <string>remix</string>
+  </void>
+  <void property="score">
+   <float>70.0</float>
+  </void>
+  <void property="songFilename">
+   <string>test.mp3</string>
+  </void>
+  <void property="sourceStyleDegrees">
+   <array class="float" length="1">
+    <void index="0">
+     <float>0.5</float>
+    </void>
+   </array>
+  </void>
+  <void property="sourceStyleIds">
+   <array class="int" length="1">
+    <void index="0">
+     <int>1</int>
+    </void>
+   </array>
+  </void>
+  <void property="sourceStyleSources">
+   <array class="byte" length="1">
+    <void index="0">
+     <byte>2</byte>
+    </void>
+   </array>
+  </void>
+  <void property="sourceTagDegrees">
+   <array class="float" length="1">
+    <void index="0">
+     <float>1.0</float>
+    </void>
+   </array>
+  </void>
+  <void property="sourceTagIds">
+   <array class="int" length="1">
+    <void index="0">
+     <int>2</int>
+    </void>
+   </array>
+  </void>
+  <void property="sourceTagSources">
+   <array class="byte" length="1">
+    <void index="0">
+     <byte>1</byte>
+    </void>
+   </array>
+  </void>
+  <void property="startBpm">
+   <float>102.3</float>
+  </void>
+  <void property="startKeyRootValue">
+   <float>2.0</float>
+  </void>
+  <void property="startKeyScaleType">
+   <byte>1</byte>
+  </void>
+  <void property="thumbnailImageFilename">
+   <string>thumb.gif</string>
+  </void>
+  <void property="timeInMillis">
+   <int>123456</int>
+  </void>
+  <void property="timeSigNumerator">
+   <byte>3</byte>
+  </void>
+  <void property="title">
+   <string>title</string>
+  </void>
+  <void property="track">
+   <string>track</string>
+  </void>
+  <void property="uniqueId">
+   <int>420</int>
+  </void>
+  <void property="userData">
+   <array class="java.lang.Object" length="1">
+    <void index="0">
+     <int>3</int>
+    </void>
+   </array>
+  </void>
+  <void property="userDataTypes">
+   <array class="short" length="1">
+    <void index="0">
+     <short>2</short>
+    </void>
+   </array>
+  </void>
+ </object>
+</java>
